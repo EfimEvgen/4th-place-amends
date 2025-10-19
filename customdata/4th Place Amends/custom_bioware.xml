@@ -938,8 +938,8 @@
 			<cost>20000</cost>
 			<allowgear>
 				<gearcategory>Drugs</gearcategory>
-			</allowgear>
-			<notes>Bonus is for whether this is Gradual Release, not the cost of the chemical.</notes>
+			</allowgear>	  
+			<notes amendoperation="replace">Chummer does not include the drug cost properly; add 100 of drug through Add Gear button.</notes>
 			<rating>15</rating>
 			<source>4PR</source>
 			<page>0</page>
