@@ -43,5 +43,40 @@
         </technique>
       </techniques>
     </martialart>
+    <martialart>
+      <name>Circle Fencing</name>
+      <techniques amendoperation="replace">
+        <technique>
+          <name>Called Shot (Feint)</name>
+        </technique>
+        <technique>
+          <name>Called Shot (Break Weapon)</name>
+        </technique>
+        <technique>
+          <name>Broken Fang</name>
+        </technique>
+        <technique>
+          <name>Herding</name>
+        </technique>
+        <technique>
+          <name>Multiple Opponent Defense (Friends in Melee)</name>
+        </technique>
+        <technique>
+          <name>Multiple Opponent Defense (Defender has Defended)</name>
+        </technique>
+        <technique>
+          <name>Two-Headed Snake</name>
+        </technique>
+        <technique>
+          <name>Neijia</name>
+        </technique>
+        <technique>
+          <name>Strike the Darkness</name>
+        </technique>
+      </techniques>
+      <source>SOTG</source>
+      <page>5</page>
+    </martialart>
+
   </martialarts>
 </chummer>
