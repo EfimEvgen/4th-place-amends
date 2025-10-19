@@ -24,7 +24,7 @@
     <echo>
       <id>7366698f-7526-40a2-bca8-f6b385345dea</id>
       <name>Mesh Reality</name>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
 	  <required>
 	    <oneof>
@@ -44,7 +44,7 @@
     <echo>
       <id>59f602b0-242d-4124-a30f-47a99b42235d</id>
       <name>Advanced Overclocking</name>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
 	  <required>
 	    <oneof>
@@ -71,20 +71,20 @@
         <skillsoftaccess precedence="0">FixedValues(6)</skillsoftaccess>
         <skillwire precedence="0">FixedValues(6)</skillwire>
 	  </bonus>
-	  <source>ZDR</source>
+	  <source>4PR</source>
 	  <page>1</page>
 	</echo>
 	<echo>
 	  <id>328aae14-e0f1-4cb2-9608-9a98fd290846</id>
 	  <name>E-Sensing</name>
-	  <source>ZDR</source>
+	  <source>4PR</source>
 	  <page>1</page>
 	  <notes>Provides Technosense (RES + SG)m range and a Rating (SG/2) Radar Sensor (CF 81)</notes>
 	</echo>
 	<echo>
 	  <id>48a8b85c-b58a-44a0-b7a9-7202e6f3ca90</id>
 	  <name>Multiprocessing</name>
-	  <source>ZDR</source>
+	  <source>4PR</source>
 	  <page>1</page>
 	  <notes>2 extra Free actions per pass, Observe in Detail is a Free Action</notes>
 	</echo>
@@ -97,7 +97,7 @@
           <bonus>1</bonus>
         </specificskill>
 	  </bonus>
-	  <source>ZDR</source>
+	  <source>4PR</source>
 	  <page>1</page>
 	  <notes>Benefits as Level 1 Pi-Tac.</notes>
 	</echo>
@@ -105,7 +105,7 @@
 	<echo>
 	  <id>3d62563d-99cc-4708-8259-44e95cd13376</id>
 	  <name>Symbiosis</name>
-	  <source>ZDR</source>
+	  <source>4PR</source>
 	  <page>1</page>
 	</echo>
   </echoes>

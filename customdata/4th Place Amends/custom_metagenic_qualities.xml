@@ -798,7 +798,7 @@
 				<selecttext />
 			</bonus>
 			<limit>3</limit>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 			<required>
 				<oneof>
@@ -1402,7 +1402,7 @@ Individuals have widened upper aural helices, often with some adjustment to the 
 			<karma>4</karma>
 			<category>Positive</category>
 			<metagenic>True</metagenic>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<notes>Your hair is made up of tendrils, tentacles, snakes or some other wriggly things (up to you). It flows and moves like a living organism and while you have limited control over it, it also seems to have a mind of its own, acting involuntarily based on your subconscious.
 Your hair can hold onto items but it has difficulty with fine manipulation. Apply a -6 dice modifier to any attempt at fine manipulation of an object with your hair, such as pressing a button, pulling a trigger or making an attack. Your Living Hair has an effective Strength equal to half the character's unaugmented strength and Agility equal to  the character’s unaugmented agility (rounded down) and a Reach of -1. Living Hair does not provide any extra attacks. If you have the Natural Venom quality (RF 117), the venom can be administered via stinger cells at the end of your Living Hair as an Injection Vector.
@@ -1416,7 +1416,7 @@ Characters with this quality will normally incur social modifiers (Freaks sideba
 			<karma>1</karma>
 			<category>Positive</category>
 			<metagenic>True</metagenic>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<bonus>
 				<specificskill>
@@ -1434,7 +1434,7 @@ The character leaves slime wherever they go. Not a lot, but just enough to be no
 			<karma>4</karma>
 			<category>Negative</category>
 			<metagenic>True</metagenic>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<bonus>
 				<skillcategory>
@@ -1457,7 +1457,7 @@ The character takes a -2 dice penalty to all Physical Active Skills. The charact
 			<karma>-6</karma>
 			<category>Negative</category>
 			<metagenic>True</metagenic>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<addqualities>
 				<addquality>Distinctive Style</addquality>
@@ -1472,7 +1472,7 @@ It also causes the character to suffer the Hostile (SR5 140) social modifier whe
 			<karma>-5</karma>
 			<category>Negative</category>
 			<metagenic>True</metagenic>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<notes>All Mental attributes are reduced by 1 during night hours (after sunset, before sunrise) due to weariness.
 			</notes>
@@ -1483,7 +1483,7 @@ It also causes the character to suffer the Hostile (SR5 140) social modifier whe
 			<karma>-10</karma>
 			<category>Negative</category>
 			<metagenic>True</metagenic>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<bonus>
 				<lifestylecost>20</lifestylecost>
@@ -1497,7 +1497,7 @@ It also causes the character to suffer the Hostile (SR5 140) social modifier whe
 			<karma>-8</karma>
 			<category>Negative</category>
 			<metagenic>True</metagenic>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<bonus>
 				<lifestylecost>10</lifestylecost>
@@ -1511,7 +1511,7 @@ It also causes the character to suffer the Hostile (SR5 140) social modifier whe
 			<karma>-4</karma>
 			<category>Negative</category>
 			<metagenic>True</metagenic>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<notes>Your nose and lips are much closer to that of an animal. Your jaws are elongated, making your mouth look like an animal muzzle. This slightly impedes your ability to speak, such as having difficulty pronouncing some words. Any Skill Test involving speech takes a -1 die penalty. Characters with this quality will normally incur social modifiers (Freaks sidebar, RF 123).
 On the plus side, if you have the Fangs quality (RF 115), the Accuracy of your fangs is improved by +1. This quality is incompatible with the bioware modification Muzzle (CF 121).
@@ -1523,7 +1523,7 @@ On the plus side, if you have the Fangs quality (RF 115), the Accuracy of your f
 			<karma>-8</karma>
 			<category>Negative</category>
 			<metagenic>True</metagenic>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<bonus>
 				<physicalcmrecovery>-3</physicalcmrecovery>
@@ -1542,7 +1542,7 @@ On the plus side, you feel less pain and can ignore two additional boxes of dama
 			<karma>-5</karma>
 			<category>Negative</category>
 			<metagenic>True</metagenic>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<specificskill>
 				<name>Perception</name>
@@ -1559,7 +1559,7 @@ Any test involving hearing takes a -3 dice penalty. The character’s hearing ca
 			<karma>-10</karma>
 			<category>Negative</category>
 			<metagenic>True</metagenic>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<notes>For some reason, you are an anathema to all spirit kind. Similar to Spirit Bane (SR5 85), a character with this quality really pisses off spirits, of all kinds. Any spirit within five meters of the character, that has not been summoned by them, reacts with hostility towards the character. Spirits will always use lethal force against characters with the Spirit Blight quality.
 A character with this quality has a difficult time summoning or binding spirits and in combat an opposing spirit will seek her out and attempt to destroy the character first.
@@ -1573,7 +1573,7 @@ The character suffers a -2 dice pool modifier to summon or bind spirits. If the 
 			<karma>4</karma>
 			<category>Negative</category>
 			<metagenic>True</metagenic>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<bonus>
 				<skillgroup>
@@ -1603,7 +1603,7 @@ The character suffers a -2 dice pool modifier to summon or bind spirits. If the 
 			<karma>-10</karma>
 			<category>Negative</category>
 			<metagenic>True</metagenic>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<forbidden>
 				<oneof>

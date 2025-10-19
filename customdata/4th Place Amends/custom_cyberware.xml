@@ -69,7 +69,7 @@
 			<ess>Rating * 0.35</ess>
 			<avail>Rating * 6</avail>
 			<cost>Rating * 34000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<required>
 				<allof>
@@ -91,7 +91,7 @@
 			<ess>Rating * 0.35</ess>
 			<avail>Rating * 6</avail>
 			<cost>Rating * 34000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<required>
 				<allof>
@@ -113,7 +113,7 @@
 			<ess>Rating * 0.35</ess>
 			<avail>Rating * 6</avail>
 			<cost>Rating * 34000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<required>
 				<allof>
@@ -135,7 +135,7 @@
 			<ess>Rating * 0.35</ess>
 			<avail>Rating * 6</avail>
 			<cost>Rating * 34000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<required>
 				<allof>
@@ -157,7 +157,7 @@
 			<ess>Rating * 0.2</ess>
 			<avail>Rating * 4</avail>
 			<cost>Rating * 12000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<required>
 				<allof>
@@ -179,7 +179,7 @@
 			<ess>Rating * 0.2</ess>
 			<avail>Rating * 4</avail>
 			<cost>Rating * 12000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<required>
 				<allof>
@@ -201,7 +201,7 @@
 			<ess>Rating * 0.2</ess>
 			<avail>Rating * 4</avail>
 			<cost>Rating * 12000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<required>
 				<allof>
@@ -223,7 +223,7 @@
 			<ess>Rating * 0.2</ess>
 			<avail>Rating * 4</avail>
 			<cost>Rating * 12000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<required>
 				<allof>
@@ -245,7 +245,7 @@
 			<ess>Rating * 0.5</ess>
 			<avail>(Rating * 6)R</avail>
 			<cost>Rating * 30000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<required>
 				<allof>
@@ -265,7 +265,7 @@
 			<ess>Rating * 0.2</ess>
 			<avail>Rating * 3</avail>
 			<cost>Rating * 12000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<required>
 				<allof>
@@ -286,7 +286,7 @@
 			<ess>Rating * 0.15</ess>
 			<avail>Rating * 3</avail>
 			<cost>Rating * 4000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<required>
 				<allof>
@@ -302,7 +302,7 @@
 			<ess>Rating * 0.2</ess>
 			<avail>(Rating * 16)R</avail>
 			<cost>Rating * 18500</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<required>
 				<allof>
@@ -318,7 +318,7 @@
 			<ess>Rating * 0.1</ess>
 			<avail>Rating * 3</avail>
 			<cost>Rating * 3000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<bonus>
 				<conditionmonitor>
@@ -339,7 +339,7 @@
 			<ess>Rating * 0.1</ess>
 			<avail>Rating * 3</avail>
 			<cost>Rating * 7500</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<required>
 				<allof>
@@ -355,7 +355,7 @@
 			<ess>Rating * 0.1</ess>
 			<avail>Rating</avail>
 			<cost>Rating * 2000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<required>
 				<allof>
@@ -371,7 +371,7 @@
 			<ess>Rating * 0.1</ess>
 			<avail>Rating * 3</avail>
 			<cost>Rating * 25000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<bonus>
 				<skillsoftaccess precedence="0">Rating</skillsoftaccess>
@@ -390,7 +390,7 @@
 			<ess>0.1</ess>
 			<avail>5</avail>
 			<cost>5000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<bonus>
 				<skillsoftaccess precedence="0">FixedValues(6)</skillsoftaccess>
@@ -409,7 +409,7 @@
 			<ess>Rating * 0.1</ess>
 			<avail>Rating * 5</avail>
 			<cost>Rating * 4000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<bonus>
 				<skillsoftaccess precedence="0">Rating</skillsoftaccess>
@@ -428,7 +428,7 @@
 			<ess>Rating * 0.1</ess>
 			<avail>Rating * 3</avail>
 			<cost>Rating * 7000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<required>
 				<allof>
@@ -443,7 +443,7 @@
 			<ess>0.1</ess>
 			<avail>4F</avail>
 			<cost>2500</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<required>
 				<allof>
@@ -459,7 +459,7 @@
 			<ess>Rating * 0.2</ess>
 			<avail>Rating * 6</avail>
 			<cost>Rating * 10000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<required>
 				<allof>
@@ -475,7 +475,7 @@
 			<ess>Rating * 0.8</ess>
 			<avail>(Rating * 5)R</avail>
 			<cost>Rating * 50000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<required>
 				<allof>
@@ -490,7 +490,7 @@
 			<ess>0.15</ess>
 			<avail>8R</avail>
 			<cost>6000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<required>
 				<allof>
@@ -505,7 +505,7 @@
 			<ess>0.2</ess>
 			<avail>10R</avail>
 			<cost>4000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<bonus>
 				<smartlink>2</smartlink>
@@ -523,7 +523,7 @@
 			<ess>0.25</ess>
 			<avail>8R</avail>
 			<cost>8000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<required>
 				<allof>
@@ -538,7 +538,7 @@
 			<ess>0.5</ess>
 			<avail>12F</avail>
 			<cost>12000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<required>
 				<allof>
@@ -628,7 +628,7 @@
 			<capacity>0</capacity>
 			<avail>FixedValues(8,12,16)</avail>
 			<cost>FixedValues(12500,15500,18500)</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<bonus>
 				<armor>Rating + 1</armor>
@@ -650,7 +650,7 @@
 			<capacity>0</capacity>
 			<avail>15</avail>
 			<cost>30000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<bonus>
 				<conditionmonitor>
@@ -733,7 +733,7 @@
 			<capacity>0</capacity>
 			<avail>(Rating * 5)</avail>
 			<cost>Rating * 30000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<bonus>
 				<specificattribute>
@@ -907,7 +907,7 @@
 			<capacity>[0]</capacity>
 			<avail>0</avail>
 			<cost>0</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<allowgear>
 				<gearcategory>Commlinks</gearcategory>
@@ -927,7 +927,7 @@
 			<capacity>[0]</capacity>
 			<avail>0</avail>
 			<cost>0</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<allowgear>
 				<gearcategory>Cyberdecks</gearcategory>
@@ -946,7 +946,7 @@
 			<capacity>[7]</capacity>
 			<avail>18R</avail>
 			<cost>50000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<bonus>
 				<movementreplace>
@@ -974,7 +974,7 @@
 			<capacity>0</capacity>
 			<avail>12R</avail>
 			<cost>25000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<notes>Running and Sprinting no longer take actions and do not penalize attacks. The first use of Dodge or RFYL in a combat turn does not cost Initiative.</notes>
 		</cyberware>
@@ -986,7 +986,7 @@
 			<capacity>0</capacity>
 			<avail>15R</avail>
 			<cost>10000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<bonus>
 				<spellresistance>Rating</spellresistance>
@@ -1007,7 +1007,7 @@
 			<capacity>0</capacity>
 			<avail>15R</avail>
 			<cost>5000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<bonus>
 				<spellresistance>Rating</spellresistance>
@@ -1029,7 +1029,7 @@
 			<capacity>0</capacity>
 			<avail>9</avail>
 			<cost>Rating * 37500</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<minrating>1</minrating>
 			<rating>2</rating>
@@ -1053,7 +1053,7 @@
 			<capacity>0</capacity>
 			<avail>(Rating * 6)R</avail>
 			<cost>Rating * 15000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<bonus>
 				<specificattribute>
@@ -1073,7 +1073,7 @@
 			<capacity>[1]</capacity>
 			<avail>15R</avail>
 			<cost>6000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<bonus>
 				<spellresistance>1</spellresistance>
@@ -1088,7 +1088,7 @@
 			<capacity>0</capacity>
 			<avail>8</avail>
 			<cost>Rating * 5000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<bonus>
 				<addlimb>
@@ -1107,7 +1107,7 @@
 			<capacity>[5]</capacity>
 			<avail>12</avail>
 			<cost>2000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<bonus>
 				<limitmodifier>
@@ -1139,7 +1139,7 @@
 			<capacity>[4]</capacity>
 			<avail>9F</avail>
 			<cost>10000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<notes>Can hold a single weapon of up to Assault Rifle size. Uses Torso Agility + (Autosoft or Activesoft Rating) to attack.</notes>
 		</cyberware>
@@ -1152,7 +1152,7 @@
 			<capacity>[5]</capacity>
 			<avail>9F</avail>
 			<cost>5000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<addweapon>Shotgun Palm/Knee</addweapon>
 			<allowsubsystems>
@@ -1168,7 +1168,7 @@
 			<capacity>[8]</capacity>
 			<avail>21F</avail>
 			<cost>15000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<addweapon>Tesla Coil</addweapon>
 			<allowsubsystems>
@@ -1185,7 +1185,7 @@
 			<capacity>0</capacity>
 			<avail>6R</avail>
 			<cost>Rating * 600</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<bonus>
 				<pathogencontactresist>Rating</pathogencontactresist>
@@ -1209,7 +1209,7 @@
 			<capacity>[Rating]</capacity>
 			<avail>15F</avail>
 			<cost>Rating * 1000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<bonus>
 				<initiativepass precedence="0">1</initiativepass>
@@ -1227,7 +1227,7 @@
 			<capacity>0</capacity>
 			<avail>18F</avail>
 			<cost>Rating * 700</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<bonus>
 				<specificattribute>
@@ -1250,7 +1250,7 @@
 			<capacity>0</capacity>
 			<avail>12F</avail>
 			<cost>Rating * 1000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<bonus>
 				<damageresistance>Rating * 0.33</damageresistance>
@@ -1270,7 +1270,7 @@
 			<capacity>0</capacity>
 			<avail>15F</avail>
 			<cost>Rating * 1400</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<forcegrade>None</forcegrade>
 			<rating>6</rating>
@@ -1284,7 +1284,7 @@
 			<capacity>0</capacity>
 			<avail>0</avail>
 			<cost>0</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<required>
 				<oneof>
@@ -1307,7 +1307,7 @@
 			<capacity>0</capacity>
 			<avail>15F</avail>
 			<cost>Rating * 900</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<bonus>
 				<specificattribute>
@@ -1328,7 +1328,7 @@
 			<capacity>0</capacity>
 			<avail>12F</avail>
 			<cost>Rating * 1500</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<bonus>
 				<unarmedap>-Rating</unarmedap>

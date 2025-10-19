@@ -129,7 +129,7 @@
 				</oneof>
 			</required>
 			<karma>12</karma>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</power>
 		<!-- Drake powers-->
@@ -252,7 +252,7 @@
 				<disablecyberwaregrade>Omegaware (Adapsin)</disablecyberwaregrade>
 			</bonus>
 			<notes>May make a Regeneration test (BOD+MAG, heals Stun/Physical equal to net hits) every hour.</notes>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</power>
 		<power>
@@ -290,7 +290,7 @@
 				<disablecyberwaregrade>Omegaware (Adapsin)</disablecyberwaregrade>
 			</bonus>
 			<notes>Heals 1 stun or physical damage box every Combat Turn.</notes>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</power>
 		<power>
@@ -387,7 +387,7 @@
 						<quality>Dracoform (Sea Drake)</quality>
 						</oneof>
 			</required>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</power>
 		<power>
@@ -415,7 +415,7 @@
 			</bonus>
 			<karma>5</karma>
 			<notes>Only active in dracoform.</notes>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</power>
 		<power>
@@ -440,7 +440,7 @@
 				<selecttext />
 			</bonus>
 			<karma>7</karma>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</power>
 		<power>
@@ -453,7 +453,7 @@
 			<range>Self</range>
 			<duration>Special</duration>
 			<karma>18</karma>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<notes>Acts as an equivalent-rating Adrenaline Pump. Max rating 3.</notes>
 		</power>
@@ -469,7 +469,7 @@
 			<initiativepass>1</initiativepass>
 			</bonus>
 			<karma>10</karma>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<notes>Dracoform-Only.
 			
@@ -488,7 +488,7 @@
 				<selecttext xml="strings.xml" xpath="/chummer/elements/element" allowedit="True" />
 			</bonus>
 			<karma>10</karma>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<notes>+MAG dice to resist damage of the chosen element. Must have an Elemental Attack of that element.</notes>
 		</power>
@@ -506,7 +506,7 @@
 				</selectattribute>
 			</bonus>
 			<karma>4</karma>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<notes>Dracoform-Only. Can only be applied to an attribute enhanced by your dracoform. 
 			
@@ -523,7 +523,7 @@
 			<range>Special</range>
 			<duration>Instant</duration>
 			<karma>2</karma>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<notes>Can only be applied to an attribute enhanced by your dracoform.</notes>
 		</power>
@@ -536,7 +536,7 @@
 			<range>Self</range>
 			<duration>Special</duration>
 			<karma>0</karma>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<notes>
 			Monstrous Form provides +8 Hardened Armor, +3 STR/BOD (and +3 to STR/BOD augmax), +1 Reach, and +2 Physical/Stun CM boxes.
@@ -557,7 +557,7 @@
 			<range>Self</range>
 			<duration>Special</duration>
 			<karma>20</karma>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<notes>
 			Monstrous Form provides +8 Hardened Armor, +3 STR/BOD (and +3 to STR/BOD augmax), +1 Reach, and +2 Physical/Stun CM boxes.
@@ -578,7 +578,7 @@
 			<range>Self</range>
 			<duration>Always</duration>
 			<karma>7</karma>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<notes>Create the improved natural weapons manually.</notes>
 		</power>
@@ -595,7 +595,7 @@
 			<initiativepass precedence="0">Rating</initiativepass>
 			</bonus>
 			<karma>6</karma>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<notes>Dracoform-Only.
 			

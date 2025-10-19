@@ -23,7 +23,7 @@
 			<id>116f6efe-2bb0-4fd4-80de-c25d6fa721bd</id>
 			<name>BMW M8</name>
 			<page>1</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<accel>3</accel>
 			<armor>11</armor>
 			<avail>10</avail>
@@ -47,7 +47,7 @@
 			<id>1a50c08f-6c44-4e2d-b15c-457cc98f10b9</id>
 			<name>Mercury Cruiser</name>
 			<page>1</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<accel>3</accel>
 			<armor>11</armor>
 			<avail>0</avail>
@@ -71,7 +71,7 @@
 			<id>1eb827c6-cda1-40fe-b855-8a1f41a34700</id>
 			<name>Mercedes-Benz CityMog</name>
 			<page>1</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<accel>1</accel>
 			<armor>10</armor>
 			<avail>0</avail>
@@ -95,7 +95,7 @@
 			<id>122a3919-dc05-4d8d-89b3-fa0ac9e1d669</id>
 			<name>Mercedes-Benz CityMog CM-X (Pickup)</name>
 			<page>1</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<accel>1</accel>
 			<armor>10</armor>
 			<avail>0</avail>
@@ -119,7 +119,7 @@
 			<id>e0a63cca-ce9b-4b1b-b88b-1d496c37e82d</id>
 			<name>Mercedes-Benz CityMog Traveler</name>
 			<page>1</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<accel>1</accel>
 			<armor>10</armor>
 			<avail>0</avail>
@@ -146,7 +146,7 @@
 			<id>04b54f68-d1df-42f7-a03e-0bc465e42024</id>
 			<name>Mercedes-Benz CityMog Elite</name>
 			<page>1</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<accel>1</accel>
 			<armor>12</armor>
 			<avail>0</avail>
@@ -173,7 +173,7 @@
 			<id>b52811c6-03d4-4dee-8a2e-04ea043b79e8</id>
 			<name>Volkswagen Multicity</name>
 			<page>1</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<accel>1</accel>
 			<armor>4</armor>
 			<avail>0</avail>
@@ -197,7 +197,7 @@
 			<id>8abe349d-d687-45a0-a1c9-d6189e4eac39</id>
 			<name>Volkswagen Urban Explorer</name>
 			<page>1</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<accel>1</accel>
 			<armor>6</armor>
 			<avail>0</avail>
@@ -225,7 +225,7 @@
 			<id>9b5cf9b8-c3ce-4853-91c7-215a73ad4ed2</id>
 			<name>Volkswagen Urban Transporter</name>
 			<page>1</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<accel>1</accel>
 			<armor>6</armor>
 			<avail>0</avail>
@@ -249,7 +249,7 @@
 			<id>61c57dad-8683-464e-92e1-3ad57776365e</id>
 			<name>Volkswagen Urban Traveler</name>
 			<page>1</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<accel>1</accel>
 			<armor>6</armor>
 			<avail>0</avail>
@@ -273,7 +273,7 @@
 			<id>1581a0b7-d198-46ba-bf68-88871554fcf1</id>
 			<name>Volkswagen Urban Watcher</name>
 			<page>1</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<accel>1</accel>
 			<armor>10</armor>
 			<avail>12R</avail>
@@ -304,7 +304,7 @@
 			<id>98dc1868-0c72-468a-bf82-a87dbbcd0002</id>
 			<name>Dodge Hurricane</name>
 			<page>1</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<accel>2</accel>
 			<armor>12</armor>
 			<avail>0</avail>
@@ -328,7 +328,7 @@
 			<id>31a6d5b8-025e-4391-b302-ff4ae38ae196</id>
 			<name>Dodge Hurricane Crew Model</name>
 			<page>1</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<accel>2</accel>
 			<armor>12</armor>
 			<avail>0</avail>
@@ -352,7 +352,7 @@
 			<id>6a8c2884-7ca3-4070-a87f-5aff00b852f8</id>
 			<name>Dodge Hurricane Security Model</name>
 			<page>1</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<accel>2</accel>
 			<armor>14</armor>
 			<avail>0</avail>
@@ -376,7 +376,7 @@
 			<id>349e9cdf-fa51-4da1-87ee-2ecd535fd019</id>
 			<name>BMW X Infinity</name>
 			<page>1</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<accel>2</accel>
 			<armor>13</armor>
 			<avail>10</avail>
@@ -400,7 +400,7 @@
 			<id>ae157cb7-0bfa-418f-92fe-d0dce4d77c1c</id>
 			<name>Ares Shadowdancer Armor</name>
 			<page>1</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<accel>2</accel>
 			<armor>18</armor>
 			<avail>24F</avail>
@@ -459,7 +459,7 @@
 		<vehicle>
 			<id>76ff1cd5-7a19-4645-bf52-56282b66972d</id>
 			<name>CV-9 "Devil Rat APC</name>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<accel>2</accel>
 			<armor>18</armor>
@@ -499,7 +499,7 @@
 			<id>e2f6e155-62f1-4b1a-894d-243c429be911</id>
 			<name>Evo Nightwing (Small Drone)</name>
 			<page>1</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<accel>1</accel>
 			<armor>0</armor>
 			<avail>15R</avail>
@@ -528,7 +528,7 @@
 			<id>859fbbbb-efa5-48a4-a537-25704955406f</id>
 			<name>Renraku Kitsune (Medium Drone)</name>
 			<page>1</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<accel>1</accel>
 			<armor>4</armor>
 			<avail>24F</avail>
@@ -596,7 +596,7 @@
 			<id>3433b962-0ed6-49e9-9807-0a160642ae91</id>
 			<name>Ejection seat</name>
 			<page>1</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<avail>8R</avail>
 			<category>Protection</category>
 			<cost>750</cost>
@@ -624,7 +624,7 @@
 			<id>1644ac56-c6fa-4cf1-aede-90738f84814a</id>
 			<name>Secondary Propulsion (Vector Thrust, LAV)</name>
 			<page>1</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<avail>14R</avail>
 			<category>Powertrain</category>
 			<cost>number(Body = 0) * 4500 + Body * 9000</cost>
@@ -635,7 +635,7 @@
 			<id>a4191237-f6a8-403a-b87b-9e5e40b0aea3</id>
 			<name>Secondary Propulsion (Wheeled)</name>
 			<page>1</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<avail>6</avail>
 			<category>Powertrain</category>
 			<cost>number(Body = 0) * 500 + Body * 1000</cost>
@@ -646,7 +646,7 @@
 			<id>b99a30cc-cb91-4907-a033-cdfc08fde36a</id>
 			<name>Secondary Propulsion (Winged)</name>
 			<page>1</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<avail>10R</avail>
 			<category>Powertrain</category>
 			<cost>number(Body = 0) * 200 + Body * 4000</cost>
@@ -657,7 +657,7 @@
 			<id>cadc77d6-576c-435b-b710-979bd56be556</id>
 			<name>Secondary Propulsion (Gravdrive)</name>
 			<page>1</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<avail>50R</avail>
 			<category>Powertrain</category>
 			<cost>number(Body = 0) * 12500 + Body * 25000</cost>
@@ -668,7 +668,7 @@
 			<id>8a2f9e41-1eb7-48a0-a154-519803bb85c8</id>
 			<name>Engine Replacement (Gravdrive)</name>
 			<page>1</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<avail>50R</avail>
 			<category>Powertrain</category>
 			<cost>450000</cost>
@@ -687,7 +687,7 @@
 			<id>ff8d6e0a-4035-45f9-9eb7-137848749763</id>
 			<name>Self Built (It just has to fit)</name>
 			<page>1</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<avail>0</avail>
 			<category>Powertrain</category>
 			<cost>Variable(0-1000000)</cost>
@@ -703,7 +703,7 @@
 			<id>32bad502-5454-47d5-a233-e557fb7c6622</id>
 			<name>It Just Has To Fit Discount</name>
 			<page>1</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<avail>0</avail>
 			<category>Powertrain</category>
 			<cost>0</cost>

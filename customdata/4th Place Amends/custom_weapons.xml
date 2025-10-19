@@ -25,7 +25,7 @@
       <mount>Under</mount>
       <avail>9F</avail>
       <cost>1125</cost>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <rating>0</rating>
       <required>
@@ -40,7 +40,7 @@
       <mount />
       <avail>4</avail>
       <cost>30</cost>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <ammoslots>1</ammoslots>
       <rating>0</rating>
@@ -60,7 +60,7 @@
       <mount />
       <avail>14</avail>
       <cost>Weapon Cost</cost>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <accuracy>1</accuracy>
       <ap>-2</ap>
@@ -86,7 +86,7 @@
       <mount />
       <avail>12F</avail>
       <cost>1000</cost>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <conceal>-2</conceal>
       <rating>0</rating>
@@ -109,7 +109,7 @@
       <mount />
       <avail>+3</avail>
       <cost>Weapon Cost</cost>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <wirelessweaponbonus>
         <ap>-1</ap>
@@ -136,7 +136,7 @@
       <mount />
       <avail>+3</avail>
       <cost>275</cost>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <ap>-1</ap>
       <rating>0</rating>
@@ -186,7 +186,7 @@
       <cost>0</cost>
       <accuracy>1</accuracy>
       <rating>0</rating>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>0</page>
       <required>
         <oneof>
@@ -247,7 +247,7 @@
         </weapondetails>
       </forbidden>
       <rating>0</rating>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>0</page>
     </accessory>
     <accessory>
@@ -267,7 +267,7 @@
       </required>
       <forbidden />
       <rating>0</rating>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>0</page>
     </accessory>
     <accessory>
@@ -313,7 +313,7 @@
         </weapondetails>
       </forbidden>
       <rating>0</rating>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>0</page>
     </accessory>
     <accessory>
@@ -338,7 +338,7 @@
         </weapondetails>
       </forbidden>
       <rating>0</rating>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>0</page>
     </accessory>
     <accessory>
@@ -363,7 +363,7 @@
         </weapondetails>
       </forbidden>
       <rating>0</rating>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>0</page>
       <notes>Can NOT be applied to grenades!</notes>
     </accessory>
@@ -384,7 +384,7 @@
       <ammo>0</ammo>
       <avail>0</avail>
       <cost>0</cost>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <hide />
     </weapon>
@@ -428,7 +428,7 @@
       <ammo>20(c) + energy</ammo>
       <avail>12F</avail>
       <cost>2550</cost>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -460,7 +460,7 @@
       <ammo>40(c) + energy</ammo>
       <avail>15F</avail>
       <cost>3500</cost>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -497,7 +497,7 @@
       <ammo>40(c) + energy</ammo>
       <avail>18F</avail>
       <cost>9400</cost>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -529,7 +529,7 @@
       <ammo>10(c) + energy</ammo>
       <avail>21F</avail>
       <cost>33700</cost>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -566,7 +566,7 @@
       <ammo>10(d) + energy</ammo>
       <avail>27F</avail>
       <cost>62000</cost>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -603,7 +603,7 @@
       <ammo>16(c)</ammo>
       <avail>12R</avail>
       <cost>450</cost>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -631,7 +631,7 @@
       <ammo>9(c)</ammo>
       <avail>12R</avail>
       <cost>950</cost>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -661,7 +661,7 @@
       <ammo>15(c)</ammo>
       <avail>6R</avail>
       <cost>1200</cost>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -694,7 +694,7 @@
       <ammo>14(c)</ammo>
       <avail>36R</avail>
       <cost>2700</cost>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -736,7 +736,7 @@
       <ammo>16(c)</ammo>
       <avail>18F</avail>
       <cost>3250</cost>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -791,7 +791,7 @@
       <ammo>8(c)</ammo>
       <avail>12R</avail>
       <cost>1200</cost>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -821,7 +821,7 @@
       <ammo>5(cy)</ammo>
       <avail>20F</avail>
       <cost>1500</cost>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -858,7 +858,7 @@
       <ammo>30(c)</ammo>
       <avail>12F</avail>
       <cost>720</cost>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <accessorymounts>
         <mount>Stock</mount>
@@ -883,7 +883,7 @@
       <ammo>32(c)</ammo>
       <avail>9R</avail>
       <cost>1600</cost>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -918,7 +918,7 @@
       <ammo>6(c)</ammo>
       <avail>0</avail>
       <cost>0</cost>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -970,7 +970,7 @@
       <ammo>80(c)</ammo>
       <avail>15R</avail>
       <cost>850</cost>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -1008,7 +1008,7 @@
       <ammo>32(c)</ammo>
       <avail>14F</avail>
       <cost>3500</cost>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -1038,7 +1038,7 @@
       <ammo>100(c)</ammo>
       <avail>15F</avail>
       <cost>5500</cost>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -1068,7 +1068,7 @@
       <ammo>40(c)</ammo>
       <avail>16F</avail>
       <cost>2500</cost>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -1101,7 +1101,7 @@
       <ammo>7(m)</ammo>
       <avail>15R</avail>
       <cost>20000</cost>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -1131,7 +1131,7 @@
       <ammo>100(belt)</ammo>
       <avail>14F</avail>
       <cost>5500</cost>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <accessorymounts>
         <mount>Stock</mount>
@@ -1161,7 +1161,7 @@
       <ammo>50(c)</ammo>
       <avail>20F</avail>
       <cost>18400</cost>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -1200,7 +1200,7 @@
       <ammo>8(c)</ammo>
       <avail>24F</avail>
       <cost>48000</cost>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <accessorymounts>
         <mount>Stock</mount>
@@ -1225,7 +1225,7 @@
       <ammo>External Source</ammo>
       <avail>24F</avail>
       <cost>25000</cost>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
 			<accessorymounts>
 				<mount>Top</mount>
@@ -1249,7 +1249,7 @@
       <ammo>10(c) or External Source</ammo>
       <avail>14F</avail>
       <cost>8750</cost>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -1280,7 +1280,7 @@
       <ammo>2x10(c) or External Source</ammo>
       <avail>18F</avail>
       <cost>18750</cost>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -1345,7 +1345,7 @@
       <ammo>3(ml)</ammo>
       <avail>0</avail>
       <cost>0</cost>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <cyberware>True</cyberware>
       <hide />
@@ -1369,7 +1369,7 @@
       <ammo>2x10(c) or External Source</ammo>
       <avail>0</avail>
       <cost>0</cost>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <accessories>
         <accessory>

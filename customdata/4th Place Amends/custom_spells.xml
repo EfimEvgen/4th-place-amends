@@ -23,7 +23,7 @@
 			<id>f89b384a-110a-44fb-bc9d-d65b31bd81d8</id>
 			<name>Electrocute</name>
 			<page>0</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<category>Combat</category>
 			<damage>P</damage>
 			<descriptor>Indirect, Elemental</descriptor>
@@ -36,7 +36,7 @@
 			<id>56500b06-24ae-4d38-b5f5-92747e58f407</id>
 			<name>Stun Prod</name>
 			<page>0</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<category>Combat</category>
 			<damage>S</damage>
 			<descriptor>Indirect, Elemental</descriptor>
@@ -49,7 +49,7 @@
 			<id>bad17dd8-620d-4ab4-b2d5-3f5d37cfff87</id>
 			<name>Flamestrike</name>
 			<page>0</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<category>Combat</category>
 			<damage>P</damage>
 			<descriptor>Indirect, Elemental</descriptor>
@@ -62,7 +62,7 @@
 			<id>f2594f6b-f4f0-4cfc-9dc4-859e974fd743</id>
 			<name>Caustic Strike</name>
 			<page>0</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<category>Combat</category>
 			<damage>P</damage>
 			<descriptor>Indirect, Elemental</descriptor>
@@ -75,7 +75,7 @@
 			<id>00f7e2d3-8cd4-482c-88f9-ed2e430f9987</id>
 			<name>Freezing Touch</name>
 			<page>0</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<category>Combat</category>
 			<damage>P</damage>
 			<descriptor>Indirect, Elemental</descriptor>
@@ -88,7 +88,7 @@
 			<id>63bbc75f-9d9a-4caa-bba3-030cdf090ecc</id>
 			<name>Hose</name>
 			<page>0</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<category>Combat</category>
 			<damage>S</damage>
 			<descriptor>Indirect, Elemental</descriptor>
@@ -101,7 +101,7 @@
 			<id>8cb7d7b3-4da7-4b4a-b75a-2e4882fed3dd</id>
 			<name>Tsunami</name>
 			<page>0</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<category>Combat</category>
 			<damage>S</damage>
 			<descriptor>Indirect, Elemental</descriptor>
@@ -114,7 +114,7 @@
 			<id>489b5aa5-10d6-49b5-8750-02c45b1eab8c</id>
 			<name>Designate Target</name>
 			<page>0</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<category>Detection</category>
 			<damage>0</damage>
 			<descriptor>Active</descriptor>
@@ -127,7 +127,7 @@
 			<id>85ecda76-1949-4c17-8ccf-fce7061ee53e</id>
 			<name>Earthworks</name>
 			<page>0</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<category>Manipulation</category>
 			<damage>0</damage>
 			<descriptor>Environmental, Elemental, Area</descriptor>
@@ -140,7 +140,7 @@
 			<id>853dd652-c729-45a4-b183-92041122e0ab</id>
 			<name>Flare</name>
 			<page>0</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<category>Manipulation</category>
 			<damage>0</damage>
 			<descriptor>Environmental, Area</descriptor>
@@ -153,7 +153,7 @@
 			<id>abdce446-aef5-45a3-8a12-23b7eed03bc3</id>
 			<name>[Element] Burst</name>
 			<page>1</page>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<category>Combat</category>
 			<damage>0</damage>
 			<descriptor>Indirect, Area, Elemental</descriptor>

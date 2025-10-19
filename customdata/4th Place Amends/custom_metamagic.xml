@@ -49,7 +49,7 @@
 			<name>Durable Astral Form</name>
 			<adept>True</adept>
 			<magician>True</magician>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<notes>Adds (Initiate Grade) to Astral Armor.</notes>
 		</metamagic>
@@ -58,7 +58,7 @@
 			<name>Spell Blade</name>
 			<adept>False</adept>
 			<magician>True</magician>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<notes>can use any Close Combat skill to make touch attacks for T range spells. Reach is IG/2 or 4, whichever is lower.</notes>
 		</metamagic>
@@ -67,7 +67,7 @@
 			<name>Stealth Effect</name>
 			<adept>False</adept>
 			<magician>True</magician>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<notes>Use a Free action and take +2 Drain to make a spell invisible to visual detection. The spell's effect is not stealthed.</notes>
 		</metamagic>
@@ -81,7 +81,7 @@
 				<quality>The Athlete's Way</quality>
 				</oneof>
 			</required>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<notes>Reroll up to (IG+1) failed dice on non-combat tests involving skills in the Athletics skill group or attribute-only tests using only physical attributes.</notes>
 		</metamagic>

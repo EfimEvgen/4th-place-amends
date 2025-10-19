@@ -293,7 +293,7 @@
 					<quality>Infected: Wendigo</quality>
 				</oneof>
 			</required>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</quality>
 		<quality>
@@ -315,7 +315,7 @@
 					<quality>Infected Optional Power: Minor Regeneration</quality>
 				</allof>
 			</required>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</quality>
 	</qualities>

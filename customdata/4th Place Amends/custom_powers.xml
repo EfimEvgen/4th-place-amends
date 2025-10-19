@@ -7,7 +7,7 @@
       <name>Dash</name>
       <points>0.25</points>
       <levels>True</levels>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <bonus>
         <sprintbonus>
@@ -22,7 +22,7 @@
       <points>1</points>
       <levels>True</levels>
       <limit>12</limit>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <adeptway>0.5</adeptway>
       <adeptwayrequires>
@@ -59,7 +59,7 @@
       <points>1</points>
       <levels>True</levels>
       <limit>100</limit>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <adeptway>0.5</adeptway>
       <adeptwayrequires>
@@ -87,7 +87,7 @@
       <levels>True</levels>
       <maxlevels>2</maxlevels>
       <limit>2</limit>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <adeptway>0.5</adeptway>
       <adeptwayrequires>
@@ -111,7 +111,7 @@
       <points>2</points>
       <levels>False</levels>
       <limit>1</limit>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <action>Complex</action>
       <adeptway>1</adeptway>
@@ -132,7 +132,7 @@
       <points>1</points>
       <levels>False</levels>
       <limit>1</limit>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <adeptway>0.5</adeptway>
       <adeptwayrequires>
@@ -153,7 +153,7 @@
       <points>0.5</points>
       <levels>False</levels>
       <limit>1</limit>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <adeptway>0.25</adeptway>
       <adeptwayrequires>
@@ -174,7 +174,7 @@
       <points>1</points>
       <levels>False</levels>
       <limit>1</limit>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <adeptway>0.5</adeptway>
       <adeptwayrequires>
@@ -216,7 +216,7 @@
       <points>0.25</points>
       <levels>True</levels>
       <limit>1</limit>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <required>
         <oneof>
@@ -231,7 +231,7 @@
       <id>a396d1f5-0770-4b57-a3b9-a5cbfb63a315</id>
       <name>Stride</name>
       <power>Dash</power>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <bonus>
         <walkmultiplier>
@@ -258,7 +258,7 @@
       <id>2b78a688-d9ad-4b13-8135-b03fca6874c7</id>
       <name>Skyfall</name>
       <power>Freefall</power>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>1</page>
       <required>
         <allof>

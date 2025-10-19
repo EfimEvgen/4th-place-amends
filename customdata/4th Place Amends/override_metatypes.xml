@@ -298,7 +298,7 @@
 			</positive>
 		  </qualities>
 		  <movement>Special</movement>
-		  <source>ZDR</source>
+		  <source>4PR</source>
 		  <page>1</page>
         </metavariant>
         <metavariant>
@@ -357,7 +357,7 @@
 			</negative>
 		  </qualities>
 		  <movement>Special</movement>
-		  <source>ZDR</source>
+		  <source>4PR</source>
 		  <page>1</page>
         </metavariant>
 		<metavariant>
@@ -417,7 +417,7 @@
 			</negative>
 		  </qualities>
 		  <movement>Special</movement>
-		  <source>ZDR</source>
+		  <source>4PR</source>
 		  <page>1</page>
         </metavariant>
 	  </metavariants>

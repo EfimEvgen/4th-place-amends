@@ -18,7 +18,7 @@
 					<bonus>-1</bonus>
 				</skilllinkedattribute>
 			</bonus>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</bioware>
 		<bioware>
@@ -32,7 +32,7 @@
 			<forcegrade>None</forcegrade>
 			<isgeneware />
 			<notes>Immunity to the Fear and Terrorscape powers. +2 to resist mundane fear or intimidation. At the gamemaster’s discretion, the character must make a Logic + Willpower (2) Test to avoid risky behavior when the opportunity arises.</notes>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</bioware>
 		<bioware>
@@ -50,7 +50,7 @@
 					<addquality>Thermographic Vision</addquality>
 				</addqualities>
 			</bonus>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</bioware>
 		<bioware>
@@ -68,7 +68,7 @@
 					<addquality>Low-Light Vision</addquality>
 				</addqualities>
 			</bonus>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</bioware>
 		<bioware>
@@ -91,7 +91,7 @@
 					<bonus>-1</bonus>
 				</skilllinkedattribute>
 			</bonus>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</bioware>
 		<bioware>
@@ -116,7 +116,7 @@
 				</oneof>
 			</required>
 			<forcegrade>None</forcegrade>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</bioware>
 		<bioware>
@@ -141,7 +141,7 @@
 				</oneof>
 			</required>
 			<forcegrade>None</forcegrade>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</bioware>
 		<bioware>
@@ -159,7 +159,7 @@
 				<stuncmrecovery>3</stuncmrecovery>
 			</bonus>
 			<forcegrade>None</forcegrade>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</bioware>
 		<!-- 6e Transgenic Infusions -->
@@ -198,7 +198,7 @@
 			</bonus>
 			<notes>Manually add the relevant metagenetic negative quality by taking one of the SURGE qualities for free, adding the negative quality, and then removing the SURGE quality.</notes>
 			<forcegrade>None</forcegrade>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</bioware>
 		<bioware>
@@ -235,7 +235,7 @@
 			</forbidden>
 			<notes>Manually add the relevant metagenetic negative quality by taking one of the SURGE qualities for free, adding the negative quality, and then removing the SURGE quality.</notes>
 			<forcegrade>None</forcegrade>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</bioware>
 		<bioware>
@@ -254,7 +254,7 @@
 					<bonus>1</bonus>
 				</skilllinkedattribute>
 			</bonus>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</bioware>
 		<bioware>
@@ -279,7 +279,7 @@
 				</specificskill>
 			</bonus>
 			<notes>Social bonus only applies when you can smell the target.</notes>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</bioware>
 
@@ -293,7 +293,7 @@
 			<cost>35000</cost>
 			<forcegrade>None</forcegrade>
 			<isgeneware />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 			<bonus>
 				<skillattribute>
@@ -326,7 +326,7 @@
 			<cost>30000</cost>
 			<forcegrade>None</forcegrade>
 			<isgeneware />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 			<bonus>
 				<specificattribute>
@@ -356,7 +356,7 @@
 			<cost>700</cost>
 			<forcegrade>None</forcegrade>
 			<isgeneware />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</bioware>
 		<bioware>
@@ -400,7 +400,7 @@
 					<category>Swim</category>
 				</walkmultiplier>
 			</pairbonus>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</bioware>
 		<bioware>
@@ -428,7 +428,7 @@
 					<category>Swim</category>
 				</walkmultiplier>
 			</pairbonus>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</bioware>
 		<bioware>
@@ -441,7 +441,7 @@
 			<cost>700</cost>
 			<forcegrade>None</forcegrade>
 			<isgeneware />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</bioware>
 		<bioware>
@@ -455,7 +455,7 @@
 			<cost>1400</cost>
 			<forcegrade>None</forcegrade>
 			<isgeneware />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</bioware>
 		<bioware>
@@ -469,7 +469,7 @@
 			<cost>5600</cost>
 			<forcegrade>None</forcegrade>
 			<isgeneware />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</bioware>
 		<bioware>
@@ -486,7 +486,7 @@
 				<selecttext />
 			</bonus>
 			<rating>3</rating>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</bioware>
 		<bioware>
@@ -507,7 +507,7 @@
 				<gearcategory>Toxins</gearcategory>
 				<gearcategory>Custom</gearcategory>
 			</allowgear>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</bioware>
 		<bioware>
@@ -534,7 +534,7 @@
 					<bioware>Chemical Gland (Spitter) (Transgenic)</bioware>
 				</oneof>
 			</forbidden>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</bioware>
 		<bioware>
@@ -555,7 +555,7 @@
 				<gearcategory>Toxins</gearcategory>
 				<gearcategory>Custom</gearcategory>
 			</allowgear>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</bioware>
 		<bioware>
@@ -569,7 +569,7 @@
 			<cost>70</cost>
 			<forcegrade>None</forcegrade>
 			<isgeneware />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</bioware>
 		<bioware>
@@ -584,7 +584,7 @@
 			<addweapon>Medium Stinger</addweapon>
 			<forcegrade>None</forcegrade>
 			<isgeneware />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</bioware>
 		<bioware>
@@ -599,7 +599,7 @@
 			<addweapon>Large Stinger</addweapon>
 			<forcegrade>None</forcegrade>
 			<isgeneware />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</bioware>
 		<bioware>
@@ -615,7 +615,7 @@
 			<rating>2</rating>
 			<forcegrade>None</forcegrade>
 			<isgeneware />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</bioware>
 		<bioware>
@@ -632,7 +632,7 @@
 			<rating>2</rating>
 			<forcegrade>None</forcegrade>
 			<isgeneware />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</bioware>
 		<bioware>
@@ -649,7 +649,7 @@
 			<rating>2</rating>
 			<forcegrade>None</forcegrade>
 			<isgeneware />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</bioware>
 		<bioware>
@@ -664,7 +664,7 @@
 			<addweapon>Horns (Bio-Weapon)</addweapon>
 			<forcegrade>None</forcegrade>
 			<isgeneware />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</bioware>
 		<bioware>
@@ -681,7 +681,7 @@
 			</bonus>
 			<forcegrade>None</forcegrade>
 			<isgeneware />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</bioware>
 		<bioware>
@@ -697,7 +697,7 @@
 			</bonus>
 			<forcegrade>None</forcegrade>
 			<isgeneware />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</bioware>
 		<bioware>
@@ -719,7 +719,7 @@
 			</forbidden>
 			<forcegrade>None</forcegrade>
 			<isgeneware />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</bioware>
 		<bioware>
@@ -740,7 +740,7 @@
 			</forbidden>
 			<forcegrade>None</forcegrade>
 			<isgeneware />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</bioware>
 		<bioware>
@@ -756,7 +756,7 @@
 			</bonus>
 			<forcegrade>None</forcegrade>
 			<isgeneware />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</bioware>
 		<bioware>
@@ -769,7 +769,7 @@
 			<cost>1400</cost>
 			<forcegrade>None</forcegrade>
 			<isgeneware />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</bioware>
 		<bioware>
@@ -785,7 +785,7 @@
 			</bonus>
 			<forcegrade>None</forcegrade>
 			<isgeneware />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</bioware>
 		<bioware>
@@ -806,7 +806,7 @@
 					<bonus>1</bonus>
 				</selectskillgroup>
 			</bonus>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</bioware>
 		<bioware>
@@ -833,7 +833,7 @@
 				</runmultiplier>
 			</bonus>
 			<rating>3</rating>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</bioware>
 		<bioware>
@@ -851,7 +851,7 @@
 				</specificskill>
 			</bonus>
 			<rating>2</rating>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<notes>Requires signal drug (50 nuyen/dose) to activate.</notes>
 		</bioware>
@@ -875,7 +875,7 @@
 				<bioware>False Front</bioware>
 				</oneof>
 			</required>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<notes>Rating and grade must match False Front. Requires signal drug (500 nuyen/dose) to activate.</notes>
 		</bioware>
@@ -896,7 +896,7 @@
 				<mentalmanipulationresist>Rating</mentalmanipulationresist>
 			</bonus>
 			<rating>3</rating>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</bioware>
 		<bioware>
@@ -911,7 +911,7 @@
 			<capacity>0</capacity>
 			<avail>18</avail>
 			<cost>25000</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<notes>Provides Magic Sense, using INT/2 instead of MAG to calculate range.</notes>
 		</bioware>
@@ -923,7 +923,7 @@
 			<capacity>0</capacity>
 			<avail>15</avail>
 			<cost>17500</cost>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<notes>+1 to Firewall for a single owned device.</notes>
 		</bioware>

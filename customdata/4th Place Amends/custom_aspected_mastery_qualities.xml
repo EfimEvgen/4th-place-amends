@@ -812,7 +812,7 @@
           </skill>
         </oneof>
       </required>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>0</page>
     </quality>
     <quality><!-- Advanced Banisher (aspected)-->
@@ -838,7 +838,7 @@
           </quality>
         </allof>
       </required>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>0</page>
     </quality>
     <quality><!-- Dedicated Alchemist (aspected) -->
@@ -883,7 +883,7 @@
           <name>Dedicated Spellslinger</name>
         </oneof>
       </forbidden>
-      <source>ZDR</source>
+      <source>4PR</source>
       <page>0</page>
     </quality>
     <quality>

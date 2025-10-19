@@ -57,7 +57,7 @@
 					<quality>Infected: Wendigo</quality>
 				</oneof>
 			</forbidden>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<notes>If ever your Magic rating changes, you must remove and re-add this quality to ensure your power points are properly calculated.</notes>
 		</quality>
@@ -77,7 +77,7 @@
 			</required>
 			<doublecareer>False</doublecareer>
 			<bonus />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</quality>
 		<quality>
@@ -116,7 +116,7 @@
 			</required>
 			<doublecareer>False</doublecareer>
 			<bonus />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</quality>
 		<quality>
@@ -135,7 +135,7 @@
 			</required>
 			<doublecareer>False</doublecareer>
 			<bonus />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</quality>
 		<quality>
@@ -154,7 +154,7 @@
 			</required>
 			<doublecareer>False</doublecareer>
 			<bonus />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</quality>
 		<quality>
@@ -173,7 +173,7 @@
 			</required>
 			<doublecareer>False</doublecareer>
 			<bonus />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</quality>
 		<quality>
@@ -192,7 +192,7 @@
 			</required>
 			<doublecareer>False</doublecareer>
 			<bonus />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</quality>
 		<quality>
@@ -203,7 +203,7 @@
 			<category>Positive</category>
 			<doublecareer>False</doublecareer>
 			<bonus />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</quality>
 		<quality>
@@ -939,7 +939,7 @@
 					<val>50</val>
 				</skillcategorypointcostmultiplier>
 			</bonus>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</quality>
 		<quality>
@@ -962,7 +962,7 @@
 					</skill>
 				</oneof>
 			</required>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</quality>
 		<quality>
@@ -988,7 +988,7 @@
 					</quality>
 				</allof>
 			</required>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</quality>
 		<quality>
@@ -1036,7 +1036,7 @@
 					<name>Dedicated Spellslinger</name>
 				</oneof>
 			</forbidden>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</quality>
 		<quality>
@@ -1126,7 +1126,7 @@
 					<val>50</val>
 				</skillcategoryspecializationkarmacostmultiplier>
 			</bonus>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</quality>
 		<quality>
@@ -1159,7 +1159,7 @@
 				</oneof>
 			</required>
 			<bonus />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</quality>
 		<quality>
@@ -1188,7 +1188,7 @@
 				</oneof>
 			</forbidden>
 			<bonus />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</quality>
 		<quality>
@@ -1198,7 +1198,7 @@
 			<karma>8</karma>
 			<category>Positive</category>
 			<bonus />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</quality>
 		<quality>
@@ -1216,7 +1216,7 @@
 				</oneof>
 			</required>
 			<bonus />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</quality>
 		<quality>
@@ -1226,7 +1226,7 @@
 			<karma>8</karma>
 			<category>Positive</category>
 			<bonus />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</quality>
 		<quality>
@@ -1236,7 +1236,7 @@
 			<karma>10</karma>
 			<category>Positive</category>
 			<bonus />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</quality>
 		<quality>
@@ -1246,7 +1246,7 @@
 			<karma>8</karma>
 			<category>Positive</category>
 			<bonus />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</quality>
 		<quality>
@@ -1256,7 +1256,7 @@
 			<karma>10</karma>
 			<category>Positive</category>
 			<bonus />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</quality>
 		<quality>
@@ -1273,7 +1273,7 @@
 				</oneof>
 			</forbidden>
 			<bonus />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</quality>
 		<quality>
@@ -1303,7 +1303,7 @@
 				<genetechessmultiplier>90</genetechessmultiplier>
 				<genetechcostmultiplier>80</genetechcostmultiplier>
 			</bonus>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</quality>
 		<quality>
@@ -1313,7 +1313,7 @@
 			<karma>12</karma>
 			<category>Positive</category>
 			<bonus />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</quality>
 		<quality>
@@ -1323,7 +1323,7 @@
 			<karma>6</karma>
 			<category>Positive</category>
 			<bonus />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</quality>
 		<quality>
@@ -1346,7 +1346,7 @@
 				</oneof>
 			</forbidden>
 			<bonus />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</quality>
 		<quality>
@@ -1372,7 +1372,7 @@
 				</oneof>
 			</forbidden>
 			<bonus />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</quality>
 		<quality>
@@ -1386,7 +1386,7 @@
 				<selecttext />
 			</bonus>
 			<limit>3</limit>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</quality>
 		<quality>
@@ -1430,7 +1430,7 @@
 			<category>Positive</category>
 			<metagenic>False</metagenic>
 			<doublecareer>False</doublecareer>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 			<required>
 				<allof>
@@ -1554,7 +1554,7 @@
 					</skill>
 				</allof>
 			</required>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</quality>
 		<quality>
@@ -1572,7 +1572,7 @@
 					</skill>
 				</allof>
 			</required>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</quality>
 		<quality>
@@ -1623,7 +1623,7 @@
 					<resenabled />
 				</oneof>
 			</forbidden>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</quality>
 		<quality>
@@ -1646,7 +1646,7 @@
 			<category>Positive</category>
 			<metagenic>False</metagenic>
 			<doublecareer>False</doublecareer>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 			<limit>99</limit>
 			<required>
@@ -1662,7 +1662,7 @@
 			<karma>2</karma>
 			<category>Positive</category>
 			<limit>25</limit>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<required>
 				<oneof>
@@ -1691,7 +1691,7 @@
 				</oneof>
 			</forbidden>
 			<note>As a non-Awakened, your aura is more obscure than most. All attempts to assense you receive a dice pool penalty equal to your Willpower.</note>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</quality>
 		<quality>
@@ -1726,7 +1726,7 @@
 					<type>Cyberware</type>
 				</addware>
 			</bonus>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</quality>
 		<quality>
@@ -1764,7 +1764,7 @@
 					<type>Cyberware</type>
 				</addware>
 			</bonus>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</quality>
 		<quality>
@@ -1786,7 +1786,7 @@
 					<val>1</val>
 				</specificattribute>
 			</bonus>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</quality>
 		<quality>
@@ -1803,7 +1803,7 @@
 					<resenabled />
 				</allof>
 			</required>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</quality>
 		<quality>
@@ -1817,7 +1817,7 @@
 					<resenabled />
 				</allof>
 			</required>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</quality>
 		<quality>
@@ -1895,7 +1895,7 @@
 					<metatype>A.I.</metatype>
 				</allof>
 			</required>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</quality>
 		<quality>
@@ -1913,7 +1913,7 @@
 					<metatype>A.I.</metatype>
 				</allof>
 			</required>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</quality>
 		<quality>
@@ -1931,7 +1931,7 @@
 					<thresholdoffset>-2</thresholdoffset>
 				</conditionmonitor>
 			</bonus>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</quality>
 		<quality>
@@ -1944,7 +1944,7 @@
 					<metatype>A.I.</metatype>
 				</allof>
 			</required>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</quality>
 		<quality>
@@ -1957,7 +1957,7 @@
 					<addquality select="Scarred Aura">Distinctive Style</addquality>
 				</addqualities>
 			</bonus>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</quality>
 		<quality>
@@ -1970,7 +1970,7 @@
 				<cyberwarecontains>*</cyberwarecontains>
 			</required>
 			<bonus />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</quality>
 		<quality>
@@ -1979,7 +1979,7 @@
 			<karma>-10</karma>
 			<category>Negative</category>
 			<bonus />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</quality>
 		<quality>
@@ -2012,7 +2012,7 @@
 				</oneof>
 			</required>
 			<bonus />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</quality>
 		<quality>
@@ -2024,7 +2024,7 @@
 			<bonus>
 				<memory>-1</memory>
 			</bonus>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</quality>
 		<quality>
@@ -2042,7 +2042,7 @@
 				</oneof>
 			</required>
 			<bonus />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</quality>
 		<quality>
@@ -2061,7 +2061,7 @@
 			<bonus>
 				<selecttext />
 			</bonus>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</quality>
 		<quality>
@@ -2071,7 +2071,7 @@
 			<category>Positive</category>
 			<doublecareer>False</doublecareer>
 			<bonus />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 		</quality>
 		<quality>
@@ -2081,7 +2081,7 @@
 			<karma>5</karma>
 			<doublecareer>False</doublecareer>
 			<category>Positive</category>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<required>
 				<oneof>
@@ -2097,7 +2097,7 @@
 			<karma>0</karma>
 			<doublecareer>False</doublecareer>
 			<category>Positive</category>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<required>
 				<oneof>
@@ -2130,7 +2130,7 @@
 					<name>Critter Spook</name>
 				</oneof>
 			</forbidden>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<notes>Non Hostile Critters in 10 meters follow you for 10 5d6 minutes, giving up to -3 to physical and appropriate social tests</notes>
 		</quality>
@@ -2142,7 +2142,7 @@
 			<limit>3</limit>
 			<doublecareer>False</doublecareer>
 			<bonus />
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<notes>Allow the ability to build in one powertrain mod at half the capactiy cost but 50% extra nuyen (extended threshold with availabilitX2</notes>
 		</quality>
@@ -2175,7 +2175,7 @@
 					<Echo>Tactical Network</Echo>
 				</oneof>
 			</required>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<notes>Provides Pi-Tac II benefits (except for Trauma Module + Host Enhancement). Combat Mode bonus is only to one combat active skill at a time.</notes>
 		</quality>
@@ -2208,7 +2208,7 @@
 					<quality>Improved Tactical Network</quality>
 				</oneof>
 			</required>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<notes>Provides Pi-Tac III benefits (except for Trauma Module + Host Enhancement). Combat Mode bonus is only to one combat active skill at a time.</notes>
 		</quality>
@@ -2230,7 +2230,7 @@
 					<cyberwarecontains>Skull</cyberwarecontains>
 				</oneof>
 			</required>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<notes>Each replacement limb after the first reduces the Armor or damage resistance provided by other augmentations by 1. Damage resistance is reduced before armor.</notes>
 		</quality>
@@ -2252,7 +2252,7 @@
 					<cyberwarecontains>Skull</cyberwarecontains>
 				</oneof>
 			</required>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<notes>Each replacement limb after the first reduces the Armor or damage resistance provided by other augmentations by 1. Armor is reduced before damage resistance.</notes>
 		</quality>
@@ -2271,7 +2271,7 @@
 			<required>
 				<metamagic>Supernatural Prowess</metamagic>
 			</required>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<notes>Permits the use of Supernatural Prowess with one additional skill per purchase.</notes>
 		</quality>
@@ -2294,7 +2294,7 @@
                     <cyberware operation="contains">Targeting Laser</cyberware>
 				</oneof>
 			</required>
-			<source>ZDR</source>
+			<source>4PR</source>
         	<page>1</page>
 			<notes>
 				When using a ranged weapon equipped with a Smartgun system or a laser sight, you gain an additional
@@ -2314,7 +2314,7 @@
 					<resenabled />
 				</oneof>
 			</forbidden>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 			<notes>
 				When attacking with a non-explosive throwing weapon, you gain an additional DV for every 6 ranks
@@ -2343,7 +2343,7 @@
 					<resenabled />
 				</oneof>
 			</forbidden>
-			<source>ZDR</source>
+			<source>4PR</source>
         	<page>0</page>
 			<notes>
 				When using a melee weapon, you gain an additional DV for every six ranks you have in the associated
@@ -2369,7 +2369,7 @@
 					<resenabled />
 				</oneof>
 			</forbidden>
-			<source>ZDR</source>
+			<source>4PR</source>
         	<page>0</page>
 			<notes>
 				When using a ranged weapon equipped with a Smartgun system, you reduce the penalty from “Attacker
@@ -2396,7 +2396,7 @@
 					<resenabled />
 				</oneof>
 			</forbidden>
-			<source>ZDR</source>
+			<source>4PR</source>
         	<page>0</page>
 			<notes>
 				Whenever you make a location-specific called-shot with a melee or unarmed weapon, you reduce the
@@ -2425,7 +2425,7 @@
 					<resenabled />
 				</oneof>
 			</forbidden>
-			<source>ZDR</source>
+			<source>4PR</source>
         	<page>0</page>
 			<notes>
 				The effect of this quality varies based on the type of ware installed.
@@ -2464,7 +2464,7 @@
 					<resenabled />
 				</oneof>
 			</forbidden>
-			<source>ZDR</source>
+			<source>4PR</source>
         	<page>0</page>
 			<notes>
 				If the character takes 4 or more damage and that damage would be reduced by any of the prerequisite ware the character has installed, 
@@ -2490,7 +2490,7 @@
 					<resenabled />
 				</oneof>
 			</forbidden>
-			<source>ZDR</source>
+			<source>4PR</source>
         	<page>0</page>
 			<notes>
 				You have adapted your nervous system to the sensation of pain and use it as a performance booster.
@@ -2518,7 +2518,7 @@
 					<resenabled />
 				</oneof>
 			</forbidden>
-			<source>ZDR</source>
+			<source>4PR</source>
         	<page>0</page>
 			<notes>
 				Once per 24 hour period, you may apply edge to a skill test involving an Activesoft, Knowsoft,
@@ -2546,7 +2546,7 @@
 					<resenabled />
 				</oneof>
 			</forbidden>
-			<source>ZDR</source>
+			<source>4PR</source>
         	<page>0</page>
 			<notes>
 				The protection given to your senses have moved beyond just a shield, and become a natural state of
@@ -2577,7 +2577,7 @@
 					<resenabled />
 				</oneof>
 			</forbidden>
-			<source>ZDR</source>
+			<source>4PR</source>
         	<page>0</page>
 			<notes>
 				Immediately before initiative is rolled, you may make either a Tag action or a Calibrate action. The
@@ -2608,7 +2608,7 @@
 				<quality>Dracoform (Sea Drake)</quality>
 				</oneof>
 			</required>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</quality>
 		<quality>
@@ -2630,7 +2630,7 @@
 					<quality>Dracoform Minor Regeneration</quality>
 				</allof>
 			</required>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 		</quality>
 	</qualities>

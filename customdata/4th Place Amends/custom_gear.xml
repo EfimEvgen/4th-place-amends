@@ -184,7 +184,7 @@
 			<name>Ammo: Railgun</name>
 			<category>Ammunition</category>
 			<rating>0</rating>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<avail>12F</avail>
 			<cost>120</cost>
@@ -199,7 +199,7 @@
 			<name>Ammo: High Powered Rounds</name>
 			<category>Ammunition</category>
 			<rating>0</rating>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<avail>20F</avail>
 			<cost>160</cost>
@@ -378,7 +378,7 @@
 			<name>Ritual Formula</name>
 			<category>Formulae</category>
 			<rating>0</rating>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<avail>6R</avail>
 			<bonus>
@@ -452,7 +452,7 @@
 			<name>All Common Programs</name>
 			<category>Common Programs</category>
 			<rating>0</rating>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<avail>0</avail>
 			<cost>800</cost>
@@ -504,7 +504,7 @@
 			<name>All Hacking Programs</name>
 			<category>Hacking Programs</category>
 			<rating>0</rating>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<avail>12F</avail>
 			<cost>8000</cost>
@@ -641,7 +641,7 @@
 			<!-- Category was arbitrarily chosen btw -->
 			<category>Electronic Modification</category>
 			<rating>3</rating>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 			<avail>0</avail>
 			<cost>0</cost>
@@ -670,7 +670,7 @@
 			<!-- Category was arbitrarily chosen btw -->
 			<category>Electronic Modification</category>
 			<rating>3</rating>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 			<avail>0</avail>
 			<cost>0</cost>
@@ -699,7 +699,7 @@
 			<!-- Category was arbitrarily chosen btw -->
 			<category>Electronic Modification</category>
 			<rating>3</rating>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 			<avail>0</avail>
 			<cost>0</cost>
@@ -728,7 +728,7 @@
 			<!-- Category was arbitrarily chosen btw -->
 			<category>Electronic Modification</category>
 			<rating>3</rating>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 			<avail>0</avail>
 			<cost>0</cost>
@@ -757,7 +757,7 @@
 			<!-- Category was arbitrarily chosen btw -->
 			<category>Electronic Modification</category>
 			<rating>3</rating>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 			<avail>0</avail>
 			<cost>0</cost>
@@ -785,7 +785,7 @@
 			<!-- Category was arbitrarily chosen btw -->
 			<category>Electronic Modification</category>
 			<rating>3</rating>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 			<avail>0</avail>
 			<cost>0</cost>
@@ -813,7 +813,7 @@
 			<!-- Category was arbitrarily chosen btw -->
 			<category>Electronic Modification</category>
 			<rating>3</rating>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>0</page>
 			<avail>0</avail>
 			<cost>0</cost>
@@ -935,7 +935,7 @@
 			<name>Ruger Lawbringer (Commlink)</name>
 			<category>Commlinks</category>
 			<rating>0</rating>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<avail>0</avail>
 			<capacity>0</capacity>
@@ -959,7 +959,7 @@
 			<addoncategory>Drug Grades</addoncategory>
 			<addoncategory>Custom</addoncategory>
 			<rating>0</rating>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<avail>12F</avail>
 			<cost>3000</cost>
@@ -972,7 +972,7 @@
 			<addoncategory>Drug Grades</addoncategory>
 			<addoncategory>Custom</addoncategory>
 			<rating>0</rating>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<avail>16F</avail>
 			<cost>900</cost>
@@ -986,7 +986,7 @@
 			<addoncategory>Drug Grades</addoncategory>
 			<addoncategory>Custom</addoncategory>
 			<rating>0</rating>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<avail>16F</avail>
 			<cost>900</cost>
@@ -1000,7 +1000,7 @@
 			<addoncategory>Drug Grades</addoncategory>
 			<addoncategory>Custom</addoncategory>
 			<rating>0</rating>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<avail>12F</avail>
 			<cost>750</cost>
@@ -1013,7 +1013,7 @@
 			<addoncategory>Drug Grades</addoncategory>
 			<addoncategory>Custom</addoncategory>
 			<rating>0</rating>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<avail>12</avail>
 			<cost>280</cost>
@@ -1024,7 +1024,7 @@
 			<name>Spell Stripper</name>
 			<category>Toxins</category>
 			<rating>0</rating>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<avail>12F</avail>
 			<cost>750</cost>
@@ -1036,7 +1036,7 @@
 			<name>Voidburst</name>
 			<category>Toxins</category>
 			<rating>0</rating>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<avail>12F</avail>
 			<cost>1050</cost>
@@ -1048,7 +1048,7 @@
 			<name>God Chip BTL</name>
 			<category>BTLs</category>
 			<rating>0</rating>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<avail>15F</avail>
 			<cost>1250</cost>
@@ -1059,7 +1059,7 @@
 			<name>Vulcan BTL</name>
 			<category>BTLs</category>
 			<rating>0</rating>
-			<source>ZDR</source>
+			<source>4PR</source>
 			<page>1</page>
 			<avail>8R</avail>
 			<cost>300</cost>
