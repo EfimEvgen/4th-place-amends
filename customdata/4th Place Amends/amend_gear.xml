@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This file is part of Chummer5a.
+
+    Chummer5a is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Chummer5a is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Chummer5a.  If not, see <http://www.gnu.org/licenses/>.
+
+    You can obtain the full source code for Chummer5a at
+    https://github.com/chummer5a/chummer5a
+-->
+<chummer>
+	<gears>
+		<!--Autosofts-->
+		<gear>
+			<id>80137629-41f0-41da-bfed-c8a1388b759e</id>
+			<name>Evasion Autosoft</name>
+			<bonus>
+				<selecttext xml="skills.xml" xpath="/chummer/skills/skill[contains(name, 'Pilot')]/specs/spec" allowedit="True" />
+			</bonus>
+		</gear>
+		<gear>
+			<id>9d81218f-ee70-4304-9a09-ac865d84b8e0</id>
+			<name>Maneuvering Autosoft</name>
+			<bonus>
+				<selecttext xml="skills.xml" xpath="/chummer/skills/skill[contains(name, 'Pilot')]/specs/spec" allowedit="True" />
+			</bonus>
+		</gear>
+		<gear>
+			<id>c29a96f9-25bf-4ebc-8c56-f4c8afc3c002</id>
+			<name>Stealth Autosoft</name>
+			<bonus>
+				<selecttext xml="skills.xml" xpath="/chummer/skills/skill[contains(name, 'Pilot')]/specs/spec" allowedit="True" />
+			</bonus>
+		</gear>
+		<gear>
+			<id>0949997a-acb7-49d9-9905-5ae2cd35626f</id>
+			<name>Targeting Autosoft</name>
+			<bonus>
+				<selecttext xml="skills.xml" xpath="/chummer/skills/skill[not(contains(skillgroup, 'Close Combat')) and contains(category, 'Combat Active')]/name" allowedit="True" />
+			</bonus>
+		</gear>
+		<gear>
+			<id>3f653543-fe65-433e-821d-1188016c0686</id>
+			<name>Melee Autosoft</name>
+			<bonus>
+				<selecttext xml="skills.xml" xpath="/chummer/skills/skill[contains(skillgroup, 'Close Combat')]/name" allowedit="True" />
+			</bonus>
+		</gear>
+		<!-- Ritual Spellcasting Adjustments -->
+		<gear>
+			<!-- Rename Combat to be generic-->
+			<id>e1b66500-1c39-4747-87a6-071b8b1966cc</id>
+			<name>Ritual Spellcasting Focus</name>
+		</gear>
+		<gear>
+			<!--Individualized, Partial-->
+			<id>DB4E9091-929E-4004-AA1E-57030BAF557F</id>
+			<name>Ritual Spellcasting Focus, Individualized, Partial</name>
+		</gear>
+		<gear>
+			<!--Individualized, Complete-->
+			<id>54A5D681-0C23-4DC5-8ED2-019755F83D2E</id>
+			<name>Ritual Spellcasting Focus, Individualized, Complete</name>
+		</gear>
+		<gear xpathfilter="contains(name,'Ritual Spellcasting Focus, Detection')">
+			<hide />
+		</gear>
+		<gear xpathfilter="contains(name,'Ritual Spellcasting Focus, Health')">
+			<hide />
+		</gear>
+		<gear xpathfilter="contains(name,'Ritual Spellcasting Focus, Illusion')">
+			<hide />
+		</gear>
+		<gear xpathfilter="contains(name,'Ritual Spellcasting Focus, Manipulation')">
+			<hide />
+		</gear>
+		<gear xpathfilter="contains(name,'Ritual Spellcasting Focus Formula')">
+			<hide />
+		</gear>
+		<gear amendoperation = "append">
+			<id>f2bff024-e5f0-465b-9b8b-329325568ed2</id>
+			<name>Ritual Spellcasting Focus Formula</name>
+			<category>Formulae</category>
+			<rating>18</rating>
+			<source>SR5</source>
+			<page>320</page>
+			<avail>(Rating * 3)R</avail>
+			<bonus>
+				<selecttradition />
+			</bonus>
+			<cost>Rating * 1000</cost>
+		</gear>
+		<!-- Sustaining Foci Changes -->
+		<!-- Combat Sustaining Foci changed to Generic -->
+		<gear>
+      			<id>39f2f34b-14e2-47f3-8e24-a401015a645a</id>
+      			<name>Sustaining Focus</name>
+      			<cost>Rating * 9000</cost>
+    		</gear>
+		<gear>
+      			<id>1215E656-51F6-4963-86A2-47A68A3C129F</id>
+      			<name>Sustaining Focus, Individualized, Partial</name>
+      			<cost>Rating * 9000</cost>
+    		</gear>
+		<gear>
+      			<id>068631C4-1834-4812-8121-DA4A07EF5D6D</id>
+      			<name>Sustaining Focus, Individualized, Complete</name>
+      			<cost>Rating * 9000</cost>
+    		</gear>
+		<gear xpathfilter="contains(name,'Sustaining Focus, Detection')">
+			<hide />
+		</gear>
+		<gear xpathfilter="contains(name,'Sustaining Focus, Health')">
+			<hide />
+		</gear>
+		<gear xpathfilter="contains(name,'Sustaining Focus, Illusion')">
+			<hide />
+		</gear>
+		<gear xpathfilter="contains(name,'Sustaining Focus, Manipulation')">
+			<hide />
+		</gear>
+		<gear>
+		  <id>ba8fa866-ab50-45d8-b9c3-375d688d9d5f</id>
+		  <name>Sustaining Focus Formula</name>
+		  <cost>Rating * 1000</cost>
+		</gear>
+		<gear xpathfilter="contains(name,'Sustaining Focus Formula, Detection')">
+			<hide />
+		</gear>
+		<gear xpathfilter="contains(name,'Sustaining Focus Formula, Health')">
+			<hide />
+		</gear>
+		<gear xpathfilter="contains(name,'Sustaining Focus Formula, Illusion')">
+			<hide />
+		</gear>
+		<gear xpathfilter="contains(name,'Sustaining Focus Formula, Manipulation')">
+			<hide />
+		</gear>
+		<!--Reagent Stuff-->
+		<gear xpathfilter="contains(name,'Reagents')">
+			<hide />
+		</gear>
+		<gear amendoperation = "append">
+			<id>ad78405e-b330-4f20-b454-5aeb9b34dc77</id>
+			<name>Raw Reagents</name>
+			<category>Magical Supplies</category>
+			<rating>0</rating>
+			<source>SR5</source>
+			<page>317</page>
+			<avail>4</avail>
+			<cost>20</cost>
+			<bonus>
+				<selecttradition />
+			</bonus>
+		</gear>
+		<gear amendoperation = "append">
+			<id>473c1b5e-0b3e-4dc3-aa23-580d151759ab</id>
+			<name>Refined Reagents</name>
+			<category>Magical Supplies</category>
+			<rating>0</rating>
+			<source>FA</source>
+			<page>188</page>
+			<avail>8</avail>
+			<cost>200</cost>
+			<bonus>
+				<selecttradition />
+			</bonus>
+		</gear>
+		<gear amendoperation = "append">
+			<id>50baae16-39f6-4d87-add0-9a3641317612</id>
+			<name>Radical Reagents</name>
+			<category>Magical Supplies</category>
+			<rating>0</rating>
+			<source>FA</source>
+			<page>188</page>
+			<avail>16</avail>
+			<cost>2000</cost>
+			<bonus>
+				<selecttradition />
+			</bonus>
+		</gear>
+		<gear>
+			<name>Orichalcum</name>
+			<avail>32</avail>
+			<cost>40000</cost>
+			<bonus>
+				<selecttradition />
+			</bonus>
+		</gear>
+		<gear>
+			<name>Datachip</name>
+			<cost>20</cost>
+      			<costfor />
+		</gear>
+		<!-- Pi-tac adjustments -->
+		<gear>
+			<name>PI-Tac Level I (Renraku Taka)</name>
+			<cost>60000</cost>
+		</gear>
+		<gear>
+			<name>PI-Tac Level II (Novatech Tactician)</name>
+			<cost>160000</cost>
+		</gear>
+		<gear>
+			<name>PI-Tac Level III (ComPac-Esprit General)</name>
+			<cost>400000</cost>
+		</gear>
+		<gear>
+			<!-- Banishing Focus -->
+			<id>5fae16cf-c68c-46e8-91b2-ca5220824ba5</id>
+			<bonus amendoperation="replace">
+				<specificskill>
+					<name>Banishing</name>
+					<bonus>Rating</bonus>
+				</specificskill>
+			</bonus>
+		</gear>
+		<gear>
+			<name>Fuchi Cyber-Ex</name>
+			<rating>7</rating>
+			<programs>{Rating}</programs>
+		</gear>
+		<!-- Dongle Stuff -->
+		<!-- Heh heh heh... He said "Dongle" -->
+		<!-- Heh heh heh... Shut up Beevis -->
+		<gear>
+			<name>Attack Dongle</name>
+			<cost>(Rating*6000)</cost>
+			<required amendoperation="replace">
+				<geardetails>
+					<OR>
+						<category>Commlinks</category>
+						<category>Cyberterminals</category>
+						<category>Custom</category>
+						<category>Rigger Command Consoles</category>
+					</OR>
+				</geardetails>
+			</required>
+		</gear>
+		<gear>
+			<name>Stealth Dongle</name>
+			<cost>(Rating*6000)</cost>
+			<required amendoperation="replace">
+				<geardetails>
+					<OR>
+						<category>Commlinks</category>
+						<category>Cyberterminals</category>
+						<category>Custom</category>
+						<category>Rigger Command Consoles</category>
+					</OR>
+				</geardetails>
+			</required>
+		</gear>
+		<gear>
+			<name>Stun Dongle</name>
+			<required amendoperation="replace">
+				<geardetails>
+					<OR>
+						<category>Commlinks</category>
+						<category>Cyberterminals</category>
+						<category>Custom</category>
+						<category>Rigger Command Consoles</category>
+					</OR>
+				</geardetails>
+			</required>
+		</gear>
+		<gear>
+			<name>Receiver</name>
+			<required amendoperation="replace">
+				<geardetails>
+					<OR>
+						<category>Commlinks</category>
+						<category>Cyberterminals</category>
+						<category>Custom</category>
+						<category>Rigger Command Consoles</category>
+					</OR>
+				</geardetails>
+			</required>
+		</gear>
+		<gear>
+			<name>Cable Tap</name>
+			<required amendoperation="replace">
+				<geardetails>
+					<OR>
+						<category>Commlinks</category>
+						<category>Cyberterminals</category>
+						<category>Custom</category>
+						<category>Rigger Command Consoles</category>
+					</OR>
+				</geardetails>
+			</required>
+		</gear>
+		<!-- Baned gear -->
+		<gear>
+			<name>Grenade: DumDum</name>
+			<hide />
+		</gear>
+		<gear>
+			<name>Cry Wolf</name>
+			<hide />
+		</gear>
+		<gear>
+			<name>Hitchhiker</name>
+			<hide />
+		</gear>
+		<gear>
+			<name>Ammo: Zapper</name>
+			<hide />
+		</gear>
+		<gear>
+			<name>Ammo: Krime Splash Self-Defense Ammunition</name>
+			<hide />
+		</gear>
+		<gear>
+			<name>Ammo: Krime Crackle Fin-Stabilized HEAT Slugs</name>
+			<hide />
+		</gear>
+		<gear>
+			<name>Krime Ripper Sensor Array</name>
+			<hide />
+		</gear>
+		<gear>
+			<name>Ammo: Hollow Points</name>
+			<avail>4R</avail>
+		</gear>
+		<gear>
+			<name>Ammo: Subsonic</name>
+			<avail>8R</avail>
+		</gear>
+    		<gear>
+      			<id>911BB20E-E325-4399-8F7A-82FDCE13AE51</id>
+      			<name>Ammo: Gyrojet Taser</name>
+      			<weaponbonus>
+			<ap>-5</ap>
+        		<damage>-2</damage>
+        		<damagetype>S(e)</damagetype>
+      			</weaponbonus>
+    		</gear>
+		<gear>
+			<name>Grenade: Smokebomb, Aerodynamic</name>
+			<hide />
+		</gear>
+		<gear>
+			<name>Grenade: Halloweener Molotov Cocktail, Aerodynamic</name>
+			<hide />
+		</gear>
+		<gear>
+			<name>Grenade: Molotov Cocktail, Aerodynamic</name>
+			<hide />
+		</gear>
+		<gear>
+			<name>Ammo: Fuel Canister</name>
+			<avail>12F</avail>
+		</gear>
+		<gear>
+			<name>Crazy-Repeller</name>
+			<hide />
+		</gear>
+	</gears>
+</chummer>
