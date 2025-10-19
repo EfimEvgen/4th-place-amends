@@ -18,7 +18,7 @@
 	<knowledgepointsexpression>({INTUnaug} + {LOGUnaug}) * 2</knowledgepointsexpression>
 	<chargenkarmatonuyenexpression>{Karma} * 3000 + {PriorityNuyen}</chargenkarmatonuyenexpression>
 	<boundspiritexpression>{CHA}</boundspiritexpression>
-	<registeredspriteexpression>{LOG}</registeredspriteexpression>
+	<compiledspriteexpression>{LOG}</compiledspriteexpression>
 	<essencemodifierpostexpression>{Modifier}</essencemodifierpostexpression>
 	<liftlimitexpression>{STR} * {STR} * 10</liftlimitexpression>
 	<carrylimitexpression>{STR} * {STR} * 5</carrylimitexpression>
@@ -41,7 +41,7 @@
 	<uncappedarmoraccessorybonuses>True</uncappedarmoraccessorybonuses>
 	<esslossreducesmaximumonly>False</esslossreducesmaximumonly>
 	<allowskillregrouping>True</allowskillregrouping>
-	<specializationsbreakskillgroups>True</specializationsbreakskillgroups>
+	<specializationsbreakskillgroups>False</specializationsbreakskillgroups>
 	<metatypecostskarma>True</metatypecostskarma>
 	<metatypecostskarmamultiplier>1</metatypecostskarmamultiplier>
 	<limbcount>5</limbcount>
@@ -254,5 +254,4 @@
 	<redlinerexclusion>
 		<limb>skull</limb>
 	</redlinerexclusion>
-
 </settings>
