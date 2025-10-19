@@ -19,8 +19,7 @@
 -->
 <chummer>
 	<qualities>
-		<quality>
-			<!-- Purity Bonus -->
+		<quality> <!-- Purity Bonus -->
 			<id>fabe5461-999f-4066-8e18-3a5768d009f2</id>
 			<name>Purity Bonus (Adept)</name>
 			<karma>0</karma>
@@ -61,8 +60,7 @@
 			<page>1</page>
 			<notes>If ever your Magic rating changes, you must remove and re-add this quality to ensure your power points are properly calculated.</notes>
 		</quality>
-		<quality>
-			<!--Beast Bond-->
+		<quality> <!--Beast Bond-->
 			<id>a81256b2-ff3e-4367-84fa-e812eeaf7364</id>
 			<name>Beast Bond</name>
 			<karma>10</karma>
@@ -80,8 +78,7 @@
 			<source>4PR</source>
 			<page>1</page>
 		</quality>
-		<quality>
-			<!--Flexible Spellcaster Still needs the known spells and alchemy prereq -->
+		<quality> <!--Flexible Spellcaster Still needs the known spells and alchemy prereq -->
 			<id>386e27f0-6ac1-47a9-aa32-dd350c56409c</id>
 			<name>Flexible Spellcaster</name>
 			<karma>15</karma>
@@ -119,8 +116,7 @@
 			<source>4PR</source>
 			<page>1</page>
 		</quality>
-		<quality>
-			<!--Keyboard Warrior -->
+		<quality> <!--Keyboard Warrior -->
 			<id>47b39695-7e8e-44d1-bd32-ffe4ae0c25c1</id>
 			<name>Keyboard Warrior</name>
 			<karma>10</karma>
@@ -138,8 +134,7 @@
 			<source>4PR</source>
 			<page>1</page>
 		</quality>
-		<quality>
-			<!-- Laser Commander -->
+		<quality> <!-- Laser Commander -->
 			<id>9d70496f-0a5b-48f7-a25f-2276bff19d57</id>
 			<name>Laser Commander</name>
 			<karma>12</karma>
@@ -157,8 +152,7 @@
 			<source>4PR</source>
 			<page>1</page>
 		</quality>
-		<quality>
-			<!-- Morphine Master -->
+		<quality> <!-- Morphine Master -->
 			<id>fd8d528a-f8b5-43b9-a350-b83b3541127d</id>
 			<name>Morphine Master</name>
 			<karma>6</karma>
@@ -176,8 +170,7 @@
 			<source>4PR</source>
 			<page>1</page>
 		</quality>
-		<quality>
-			<!-- Pain Train -->
+		<quality> <!-- Pain Train -->
 			<id>3fd9e3cf-b3f1-4963-88fc-6046772d8f49</id>
 			<name>Pain Train</name>
 			<karma>8</karma>
@@ -195,8 +188,7 @@
 			<source>4PR</source>
 			<page>1</page>
 		</quality>
-		<quality>
-			<!-- Pull Your Punches -->
+		<quality> <!-- Pull Your Punches -->
 			<id>0a96a4ae-acf4-47b5-9a9d-912e1369e6e9</id>
 			<name>Pull Your Punches</name>
 			<karma>5</karma>
@@ -206,8 +198,7 @@
 			<source>4PR</source>
 			<page>1</page>
 		</quality>
-		<quality>
-			<!-- Bodyguard -->
+		<quality> <!-- Bodyguard -->
 			<id>9754ad0e-be2d-4028-94c9-d62b53a030ba</id>
 			<name>Bodyguard</name>
 			<karma>15</karma>
@@ -222,7 +213,6 @@
 					<quality>Apprentice</quality>
 					<quality>Magician</quality>
 					<quality>Mystic Adept</quality>
-					<resenabled />
 				</oneof>
 			</forbidden>
 			<required>
@@ -275,8 +265,7 @@
 			<page>1</page>
 			<notes>Characters with this quality apply a +2 dice pool modifier to Perception tests and Electronic Warfare tests involving the use of a sensor. In addition, the character may Ready Weapon or Take Aim as a Free Action.</notes>
 		</quality>
-		<quality>
-			<!-- Merc -->
+		<quality> <!-- Merc -->
 			<id>29603823-f73c-4736-8a06-daffb9ab3bcc</id>
 			<name>Merc</name>
 			<karma>5</karma>
@@ -291,7 +280,6 @@
 					<quality>Apprentice</quality>
 					<quality>Magician</quality>
 					<quality>Mystic Adept</quality>
-					<resenabled />
 				</oneof>
 			</forbidden>
 			<required>
@@ -307,8 +295,7 @@
 			<page>1</page>
 			<notes>Characters with this quality suffer only a –1 penalty on Ranged Combat for Attacker Running and increase by 1 any bonus they received on Ranged Defense tests for cover (eg. Partial Cover provides a +3, Good Cover provides a +5).</notes>
 		</quality>
-		<quality>
-			<!-- Panzer (Fear/Wound) -->
+		<quality> <!-- Panzer (Fear/Wound) -->
 			<id>72ef0d2c-84c0-4f38-89b2-5ef89758822d</id>
 			<name>Panzer (Fear/Wound)</name>
 			<karma>20</karma>
@@ -323,7 +310,6 @@
 					<quality>Apprentice</quality>
 					<quality>Magician</quality>
 					<quality>Mystic Adept</quality>
-					<resenabled />
 				</oneof>
 				<oneof>
 					<quality>Panzer (Fear/Soak)</quality>
@@ -385,8 +371,7 @@
 			<page>1</page>
 			<notes>Characters with this quality receive a +2 dice pool modifier to resist fear and intimidation, including magically induced fear from spells or critter powers or they may substitute their Body attribute for Charisma when calculating their Intimidation dice pool (choose one). In addition, they may ignore two boxes of damage when calculating wound modifiers (which cannot be combined with other forms of wound modifier reduction, such as High Pain Tolerance) or they receive a +1 dice pool modifier to Body when making Damage Resistance tests (choose one).</notes>
 		</quality>
-		<quality>
-			<!-- Panzer (Fear/Soak) -->
+		<quality> <!-- Panzer (Fear/Soak) -->
 			<id>c6ec1c1f-99aa-43bc-b1cc-8cacd15df862</id>
 			<name>Panzer (Fear/Soak)</name>
 			<karma>20</karma>
@@ -394,8 +379,13 @@
 			<doublecareer>False</doublecareer>
 			<forbidden>
 				<oneof>
-					<magenabled />
-					<resenabled />
+					<quality>Adept</quality>
+					<quality>Aspected Magician</quality>
+					<quality>Enchanter</quality>
+					<quality>Explorer</quality>
+					<quality>Apprentice</quality>
+					<quality>Magician</quality>
+					<quality>Mystic Adept</quality>
 				</oneof>
 				<oneof>
 					<quality>Panzer (Fear/Wound)</quality>
@@ -453,8 +443,7 @@
 			<page>1</page>
 			<notes>Characters with this quality receive a +2 dice pool modifier to resist fear and intimidation, including magically induced fear from spells or critter powers or they may substitute their Body attribute for Charisma when calculating their Intimidation dice pool (choose one). In addition, they may ignore two boxes of damage when calculating wound modifiers (which cannot be combined with other forms of wound modifier reduction, such as High Pain Tolerance) or they receive a +1 dice pool modifier to Body when making Damage Resistance tests (choose one).</notes>
 		</quality>
-		<quality>
-			<!-- Panzer (Intimdate/Wound) -->
+		<quality> <!-- Panzer (Intimdate/Wound) -->
 			<id>30921358-0cb7-424b-b06b-db2d608b5c6e</id>
 			<name>Panzer (Intimdate/Wound)</name>
 			<karma>20</karma>
@@ -462,8 +451,13 @@
 			<doublecareer>False</doublecareer>
 			<forbidden>
 				<oneof>
-					<magenabled />
-					<resenabled />
+					<quality>Adept</quality>
+					<quality>Aspected Magician</quality>
+					<quality>Enchanter</quality>
+					<quality>Explorer</quality>
+					<quality>Apprentice</quality>
+					<quality>Magician</quality>
+					<quality>Mystic Adept</quality>
 				</oneof>
 				<oneof>
 					<quality>Panzer (Fear/Wound)</quality>
@@ -529,8 +523,7 @@
 			<page>1</page>
 			<notes>Characters with this quality receive a +2 dice pool modifier to resist fear and intimidation, including magically induced fear from spells or critter powers or they may substitute their Body attribute for Charisma when calculating their Intimidation dice pool (choose one). In addition, they may ignore two boxes of damage when calculating wound modifiers (which cannot be combined with other forms of wound modifier reduction, such as High Pain Tolerance) or they receive a +1 dice pool modifier to Body when making Damage Resistance tests (choose one).</notes>
 		</quality>
-		<quality>
-			<!-- Panzer (Intimdate/Soak) -->
+		<quality> <!-- Panzer (Intimdate/Soak) -->
 			<id>26bd12b9-f4bb-4e63-a5e3-5bc1d5a4cfa5</id>
 			<name>Panzer (Intimdate/Soak)</name>
 			<karma>20</karma>
@@ -538,8 +531,13 @@
 			<doublecareer>False</doublecareer>
 			<forbidden>
 				<oneof>
-					<magenabled />
-					<resenabled />
+					<quality>Adept</quality>
+					<quality>Aspected Magician</quality>
+					<quality>Enchanter</quality>
+					<quality>Explorer</quality>
+					<quality>Apprentice</quality>
+					<quality>Magician</quality>
+					<quality>Mystic Adept</quality>
 				</oneof>
 				<oneof>
 					<quality>Panzer (Fear/Wound)</quality>
@@ -601,8 +599,7 @@
 			<page>1</page>
 			<notes>Characters with this quality receive a +2 dice pool modifier to resist fear and intimidation, including magically induced fear from spells or critter powers or they may substitute their Body attribute for Charisma when calculating their Intimidation dice pool (choose one). In addition, they may ignore two boxes of damage when calculating wound modifiers (which cannot be combined with other forms of wound modifier reduction, such as High Pain Tolerance) or they receive a +1 dice pool modifier to Body when making Damage Resistance tests (choose one).</notes>
 		</quality>
-		<quality>
-			<!-- Razorboy (Damage) -->
+		<quality> <!-- Razorboy (Damage) -->
 			<id>501dad13-6915-4a4d-a7f5-f4651d73999e</id>
 			<name>Razorboy (Damage)</name>
 			<karma>10</karma>
@@ -610,8 +607,13 @@
 			<doublecareer>False</doublecareer>
 			<forbidden>
 				<oneof>
-					<magenabled />
-					<resenabled />
+					<quality>Adept</quality>
+					<quality>Aspected Magician</quality>
+					<quality>Enchanter</quality>
+					<quality>Explorer</quality>
+					<quality>Apprentice</quality>
+					<quality>Magician</quality>
+					<quality>Mystic Adept</quality>
 				</oneof>
 				<oneof>
 					<quality>Razorboy (Intimidation)</quality>
@@ -649,8 +651,7 @@
 			<page>1</page>
 			<notes>Characters with this quality may add +2 dice to Intimidation tests or +1 DV with implanted melee weapons or unarmed strikes with cyberlimbs (choose one). In addition, the character may add +1 to any Street Knowledge skill tests.</notes>
 		</quality>
-		<quality>
-			<!-- Razorboy (Intimidation) -->
+		<quality> <!-- Razorboy (Intimidation) -->
 			<id>96f2b592-c43c-4931-b194-c1dc41a3a833</id>
 			<name>Razorboy (Intimidation)</name>
 			<karma>10</karma>
@@ -658,8 +659,13 @@
 			<doublecareer>False</doublecareer>
 			<forbidden>
 				<oneof>
-					<magenabled />
-					<resenabled />
+					<quality>Adept</quality>
+					<quality>Aspected Magician</quality>
+					<quality>Enchanter</quality>
+					<quality>Explorer</quality>
+					<quality>Apprentice</quality>
+					<quality>Magician</quality>
+					<quality>Mystic Adept</quality>
 				</oneof>
 				<oneof>
 					<quality>Razorboy (Damage)</quality>
@@ -693,8 +699,7 @@
 			<page>1</page>
 			<notes>Characters with this quality may add +2 dice to Intimidation tests or +1 DV with implanted melee weapons or unarmed strikes with cyberlimbs (choose one). In addition, the character may add +1 to any Street Knowledge skill tests.</notes>
 		</quality>
-		<quality>
-			<!-- Ronin (Bioware/DV) -->
+		<quality> <!-- Ronin (Bioware/DV) -->
 			<id>ba67ba6b-3701-48ce-b0c8-6ca546c63f8e</id>
 			<name>Ronin (Bioware/DV)</name>
 			<karma>20</karma>
@@ -702,8 +707,13 @@
 			<doublecareer>False</doublecareer>
 			<forbidden>
 				<oneof>
-					<magenabled />
-					<resenabled />
+					<quality>Adept</quality>
+					<quality>Aspected Magician</quality>
+					<quality>Enchanter</quality>
+					<quality>Explorer</quality>
+					<quality>Apprentice</quality>
+					<quality>Magician</quality>
+					<quality>Mystic Adept</quality>
 				</oneof>
 				<oneof>
 					<quality>Ronin (Cyberware/DV)</quality>
@@ -736,8 +746,7 @@
 			<page>1</page>
 			<notes>Characters with this quality reduce the Essence Cost of bioware or cyberware implants (choose one) by 10%, rounded down to the tenth. This rebate is cumulative with the reduction offered by the chosen ’ware’s grade, if any (e.g., the reduction for alphaware of 0.8 is reduced by ten percent, or 0.08, to become 0.72, and is rounded down to 0.7). This bonus is applied to already installed augmentations, but will create an appropriately sized essence hole. This discount does not stack with the Biocompatability quality. In addition, they may choose one of the following: +1 DV with melee attacks, including unarmed; or, when they have a melee weapon readied (with which their skill to use in melee is at least 4 ranks) and are not surprised, +2 to defense tests against melee and ranged attacks. If a Ronin’s Notoriety ever overtakes his Street Cred, he maintains his Essence discount but loses the DV or Defense bonus.</notes>
 		</quality>
-		<quality>
-			<!-- Ronin (Cyberware/DV) -->
+		<quality> <!-- Ronin (Cyberware/DV) -->
 			<id>9b8bd02d-e8ed-47a5-886d-7e9b6b3e4d24</id>
 			<name>Ronin (Cyberware/DV)</name>
 			<karma>20</karma>
@@ -745,8 +754,13 @@
 			<doublecareer>False</doublecareer>
 			<forbidden>
 				<oneof>
-					<magenabled />
-					<resenabled />
+					<quality>Adept</quality>
+					<quality>Aspected Magician</quality>
+					<quality>Enchanter</quality>
+					<quality>Explorer</quality>
+					<quality>Apprentice</quality>
+					<quality>Magician</quality>
+					<quality>Mystic Adept</quality>
 				</oneof>
 				<oneof>
 					<quality>Ronin (Bioware/DV)</quality>
@@ -779,8 +793,7 @@
 			<page>1</page>
 			<notes>Characters with this quality reduce the Essence Cost of bioware or cyberware implants (choose one) by 10%, rounded down to the tenth. This rebate is cumulative with the reduction offered by the chosen ’ware’s grade, if any (e.g., the reduction for alphaware of 0.8 is reduced by ten percent, or 0.08, to become 0.72, and is rounded down to 0.7). This bonus is applied to already installed augmentations, but will create an appropriately sized essence hole. This discount does not stack with the Biocompatability quality. In addition, they may choose one of the following: +1 DV with melee attacks, including unarmed; or, when they have a melee weapon readied (with which their skill to use in melee is at least 4 ranks) and are not surprised, +2 to defense tests against melee and ranged attacks. If a Ronin’s Notoriety ever overtakes his Street Cred, he maintains his Essence discount but loses the DV or Defense bonus.</notes>
 		</quality>
-		<quality>
-			<!-- Ronin (Bioware/Defense) -->
+		<quality> <!-- Ronin (Bioware/Defense) -->
 			<id>46b06455-9921-4376-b830-17d8cb4f5bc7</id>
 			<name>Ronin (Bioware/Defense)</name>
 			<karma>20</karma>
@@ -788,8 +801,13 @@
 			<doublecareer>False</doublecareer>
 			<forbidden>
 				<oneof>
-					<magenabled />
-					<resenabled />
+					<quality>Adept</quality>
+					<quality>Aspected Magician</quality>
+					<quality>Enchanter</quality>
+					<quality>Explorer</quality>
+					<quality>Apprentice</quality>
+					<quality>Magician</quality>
+					<quality>Mystic Adept</quality>
 				</oneof>
 				<oneof>
 					<quality>Ronin (Bioware/DV)</quality>
@@ -814,8 +832,7 @@
 			<page>1</page>
 			<notes>Characters with this quality reduce the Essence Cost of bioware or cyberware implants (choose one) by 10%, rounded down to the tenth. This rebate is cumulative with the reduction offered by the chosen ’ware’s grade, if any (e.g., the reduction for alphaware of 0.8 is reduced by ten percent, or 0.08, to become 0.72, and is rounded down to 0.7). This bonus is applied to already installed augmentations, but will create an appropriately sized essence hole. This discount does not stack with the Biocompatability quality. In addition, they may choose one of the following: +1 DV with melee attacks, including unarmed; or, when they have a melee weapon readied (with which their skill to use in melee is at least 4 ranks) and are not surprised, +2 to defense tests against melee and ranged attacks. If a Ronin’s Notoriety ever overtakes his Street Cred, he maintains his Essence discount but loses the DV or Defense bonus.</notes>
 		</quality>
-		<quality>
-			<!-- Ronin (Cyberware/Defense) -->
+		<quality> <!-- Ronin (Cyberware/Defense) -->
 			<id>a8fce313-75f8-4c79-a430-c718a8a0d7be</id>
 			<name>Ronin (Cyberware/Defense)</name>
 			<karma>20</karma>
@@ -823,8 +840,13 @@
 			<doublecareer>False</doublecareer>
 			<forbidden>
 				<oneof>
-					<magenabled />
-					<resenabled />
+					<quality>Adept</quality>
+					<quality>Aspected Magician</quality>
+					<quality>Enchanter</quality>
+					<quality>Explorer</quality>
+					<quality>Apprentice</quality>
+					<quality>Magician</quality>
+					<quality>Mystic Adept</quality>
 				</oneof>
 				<oneof>
 					<quality>Ronin (Bioware/DV)</quality>
@@ -849,8 +871,7 @@
 			<page>1</page>
 			<notes>Characters with this quality reduce the Essence Cost of bioware or cyberware implants (choose one) by 10%, rounded down to the tenth. This rebate is cumulative with the reduction offered by the chosen ’ware’s grade, if any (e.g., the reduction for alphaware of 0.8 is reduced by ten percent, or 0.08, to become 0.72, and is rounded down to 0.7). This bonus is applied to already installed augmentations, but will create an appropriately sized essence hole. This discount does not stack with the Biocompatability quality. In addition, they may choose one of the following: +1 DV with melee attacks, including unarmed; or, when they have a melee weapon readied (with which their skill to use in melee is at least 4 ranks) and are not surprised, +2 to defense tests against melee and ranged attacks. If a Ronin’s Notoriety ever overtakes his Street Cred, he maintains his Essence discount but loses the DV or Defense bonus.</notes>
 		</quality>
-		<quality>
-			<!-- Marksman -->
+		<quality> <!-- Marksman -->
 			<id>e22b3ae3-524a-43a5-b26d-8139fc0cc88e</id>
 			<name>Marksman</name>
 			<karma>10</karma>
@@ -858,8 +879,13 @@
 			<doublecareer>False</doublecareer>
 			<forbidden>
 				<oneof>
-					<magenabled />
-					<resenabled />
+					<quality>Adept</quality>
+					<quality>Aspected Magician</quality>
+					<quality>Enchanter</quality>
+					<quality>Explorer</quality>
+					<quality>Apprentice</quality>
+					<quality>Magician</quality>
+					<quality>Mystic Adept</quality>
 				</oneof>
 			</forbidden>
 			<required>
@@ -884,8 +910,7 @@
 			<page>1</page>
 			<notes>Characters with this quality are not required to halve their Willpower when calculating how many Take Aim actions they may perform with a ranged weapon. This quality also grants a +1 bonus to the Sneak skill.</notes>
 		</quality>
-		<quality>
-			<!-- Street Ninja -->
+		<quality> <!-- Street Ninja -->
 			<id>b4ece114-1de1-4960-8c39-2452109c1980</id>
 			<name>Street Ninja</name>
 			<karma>15</karma>
@@ -893,8 +918,13 @@
 			<doublecareer>False</doublecareer>
 			<forbidden>
 				<oneof>
-					<magenabled />
-					<resenabled />
+					<quality>Adept</quality>
+					<quality>Aspected Magician</quality>
+					<quality>Enchanter</quality>
+					<quality>Explorer</quality>
+					<quality>Apprentice</quality>
+					<quality>Magician</quality>
+					<quality>Mystic Adept</quality>
 				</oneof>
 			</forbidden>
 			<required>
@@ -921,8 +951,7 @@
 			<page>1</page>
 			<notes>When attacking an opponent with a melee or throwing weapons attack, characters with this quality may divide any Called Shot penalties in half.  This is applied before all other effects that reduce called shot penalties and does not stack with the bonus from the Strive for Perfection quality. In addition, they gain +1 die on Surprise Tests and +1 die on Sneak Tests. </notes>
 		</quality>
-		<quality>
-			<!-- Dabbler -->
+		<quality> <!-- Dabbler -->
 			<id>25c8cbe5-758c-44a9-b926-9e05732d6e8d</id>
 			<name>Dabbler</name>
 			<karma>4</karma>
@@ -942,8 +971,7 @@
 			<source>4PR</source>
 			<page>0</page>
 		</quality>
-		<quality>
-			<!-- Banisher -->
+		<quality> <!-- Banisher -->
 			<id>e2f5194c-6b28-4d97-b82d-c7db8dd04a83</id>
 			<name>Banisher</name>
 			<karma>10</karma>
@@ -965,8 +993,7 @@
 			<source>4PR</source>
 			<page>0</page>
 		</quality>
-		<quality>
-			<!-- Advanced Banisher -->
+		<quality> <!-- Advanced Banisher -->
 			<id>844a8f28-0988-47be-a6fc-128cf1f37340</id>
 			<name>Advanced Banisher</name>
 			<karma>5</karma>
@@ -991,8 +1018,7 @@
 			<source>4PR</source>
 			<page>0</page>
 		</quality>
-		<quality>
-			<!-- Dedicated Alchemist -->
+		<quality> <!-- Dedicated Alchemist -->
 			<id>5437b638-b808-44d4-a8bc-29a6b6355887</id>
 			<name>Dedicated Alchemist</name>
 			<karma>10</karma>
@@ -1039,8 +1065,7 @@
 			<source>4PR</source>
 			<page>0</page>
 		</quality>
-		<quality>
-			<!-- Resonance [Program] -->
+		<quality> <!-- Resonance [Program] -->
 			<id>65c1aa82-a228-4ed4-b02d-a2a55b6a1b95</id>
 			<name>Resonance [Program]</name>
 			<karma>5</karma>
@@ -1063,8 +1088,7 @@
 			<source>SR5</source>
 			<page>258</page>
 		</quality>
-		<quality>
-			<!-- Resonance [Program] But for Machinists-->
+		<quality> <!-- Resonance [Program] But for Machinists-->
 			<id>8538d015-30c5-47f8-b336-569d9651bec1</id>
 			<name>Resonance [Program]</name>
 			<karma>5</karma>
@@ -1082,8 +1106,7 @@
 			<source>SR5</source>
 			<page>258</page>
 		</quality>
-		<quality>
-			<!-- Specialist  -->
+		<quality> <!-- Specialist  -->
 			<id>8064e85d-fca4-47d1-8676-1743f6fde540</id>
 			<name>Specialist</name>
 			<karma>5</karma>
@@ -1129,8 +1152,7 @@
 			<source>4PR</source>
 			<page>0</page>
 		</quality>
-		<quality>
-			<!-- Polymath  -->
+		<quality> <!-- Polymath  -->
 			<id>e4e3b769-94ed-4beb-a8e5-23be6998af9f</id>
 			<name>Polymath</name>
 			<karma>8</karma>
@@ -1162,8 +1184,7 @@
 			<source>4PR</source>
 			<page>0</page>
 		</quality>
-		<quality>
-			<!-- Never Tell Me The Odds -->
+		<quality> <!-- Never Tell Me The Odds -->
 			<id>c6a646a4-6f3e-4ca9-a5f1-63d01a96ba1d</id>
 			<name>Never Tell Me The Odds</name>
 			<karma>8</karma>
@@ -1191,8 +1212,7 @@
 			<source>4PR</source>
 			<page>0</page>
 		</quality>
-		<quality>
-			<!-- Menacing Presence -->
+		<quality> <!-- Menacing Presence -->
 			<id>e5956e99-88ba-4bdf-ba00-357301952302</id>
 			<name>Menacing Presence</name>
 			<karma>8</karma>
@@ -1201,8 +1221,7 @@
 			<source>4PR</source>
 			<page>0</page>
 		</quality>
-		<quality>
-			<!-- Mana Affinity -->
+		<quality> <!-- Mana Affinity -->
 			<id>5220228c-56e7-44c8-8ee9-762958b4a035</id>
 			<name>Mana Affinity</name>
 			<karma>8</karma>
@@ -1219,8 +1238,7 @@
 			<source>4PR</source>
 			<page>0</page>
 		</quality>
-		<quality>
-			<!-- Like The Back Of My Hand -->
+		<quality> <!-- Like The Back Of My Hand -->
 			<id>0569c55a-25d8-4433-8b75-29da15e2e0ba</id>
 			<name>Like The Back Of My Hand</name>
 			<karma>8</karma>
@@ -1229,8 +1247,7 @@
 			<source>4PR</source>
 			<page>0</page>
 		</quality>
-		<quality>
-			<!-- Like A Terminator -->
+		<quality> <!-- Like A Terminator -->
 			<id>6e272c63-8f11-48e7-ab8f-8d66e53ac2f7</id>
 			<name>Like A Terminator</name>
 			<karma>10</karma>
@@ -1239,8 +1256,7 @@
 			<source>4PR</source>
 			<page>0</page>
 		</quality>
-		<quality>
-			<!-- Let Me Make It Clear -->
+		<quality> <!-- Let Me Make It Clear -->
 			<id>033454e7-6291-43e7-99ae-6689fc5b54dd</id>
 			<name>Let Me Make It Clear</name>
 			<karma>8</karma>
@@ -1249,8 +1265,7 @@
 			<source>4PR</source>
 			<page>0</page>
 		</quality>
-		<quality>
-			<!-- Intellectual Liar -->
+		<quality> <!-- Intellectual Liar -->
 			<id>5aaa1f77-6d79-4ddc-a801-71b4dd45804b</id>
 			<name>Intellectual Liar</name>
 			<karma>10</karma>
@@ -1259,8 +1274,7 @@
 			<source>4PR</source>
 			<page>0</page>
 		</quality>
-		<quality>
-			<!-- Gifted Genetics - Not sure how to implement the actual free geneware. Help please. -->
+		<quality> <!-- Gifted Genetics - Not sure how to implement the actual free geneware. Help please. -->
 			<id>f66a2b8a-9ade-46ed-a90f-e4282b8566a9</id>
 			<name>Gifted Genetics</name>
 			<karma>5</karma>
@@ -1276,8 +1290,7 @@
 			<source>4PR</source>
 			<page>0</page>
 		</quality>
-		<quality>
-			<!-- Designer Baby -->
+		<quality> <!-- Designer Baby -->
 			<id>3d85e107-b024-4602-9963-2393ff3f31d7</id>
 			<name>Designer Baby</name>
 			<karma>10</karma>
@@ -1306,8 +1319,7 @@
 			<source>4PR</source>
 			<page>0</page>
 		</quality>
-		<quality>
-			<!-- Crash Test Dummy -->
+		<quality> <!-- Crash Test Dummy -->
 			<id>745cce10-d866-48aa-9a0b-e317edbec449</id>
 			<name>Crash Test Dummy</name>
 			<karma>12</karma>
@@ -1316,8 +1328,7 @@
 			<source>4PR</source>
 			<page>0</page>
 		</quality>
-		<quality>
-			<!-- Conceal, Don’t Feel -->
+		<quality> <!-- Conceal, Don’t Feel -->
 			<id>aeca4cf5-5893-479c-82cd-c769dbaafea2</id>
 			<name>Conceal, Don’t Feel</name>
 			<karma>6</karma>
@@ -1326,8 +1337,7 @@
 			<source>4PR</source>
 			<page>0</page>
 		</quality>
-		<quality>
-			<!-- Better Lucky Than Good -->
+		<quality> <!-- Better Lucky Than Good -->
 			<id>103a1c74-fba6-4cf9-b38b-c3682df33101</id>
 			<name>Better Lucky Than Good</name>
 			<karma>10</karma>
@@ -1349,8 +1359,7 @@
 			<source>4PR</source>
 			<page>0</page>
 		</quality>
-		<quality>
-			<!-- Baseline Biology -->
+		<quality> <!-- Baseline Biology -->
 			<id>2f4890b8-dd70-480e-80ac-fe2e45889485</id>
 			<name>Baseline Biology</name>
 			<karma>7</karma>
@@ -1375,8 +1384,7 @@
 			<source>4PR</source>
 			<page>0</page>
 		</quality>
-		<quality>
-			<!-- Vice -->
+		<quality> <!-- Vice -->
 			<id>60af9dc3-9446-4538-9d8b-4b3efca7bac8</id>
 			<name>Vice</name>
 			<karma>-3</karma>
@@ -1389,8 +1397,7 @@
 			<source>4PR</source>
 			<page>0</page>
 		</quality>
-		<quality>
-			<!-- Rank -->
+		<quality> <!-- Rank -->
 			<id>14f52633-0ab6-4300-abc5-d391793e13e0</id>
 			<name>Rank</name>
 			<karma>5</karma>
@@ -1402,8 +1409,7 @@
 				<selecttext />
 			</bonus>
 		</quality>
-		<quality>
-			<!-- Additional Metamagic -->
+		<quality> <!-- Additional Metamagic -->
 			<id>15d759e6-ab58-4457-95f6-43ca607fe286</id>
 			<name>Additional Metamagic</name>
 			<karma>15</karma>
@@ -1422,8 +1428,7 @@
 				</allof>
 			</required>
 		</quality>
-		<quality>
-			<!-- Anchor Imbuing -->
+		<quality> <!-- Anchor Imbuing -->
 			<id>5e943227-fc29-4691-880e-b7d20e7a8696</id>
 			<name>Anchor Imbuing</name>
 			<karma>10</karma>
@@ -1486,8 +1491,7 @@
 				</oneof>
 			</required>
 		</quality>
-		<quality>
-			<!-- Items of Power II -->
+		<quality> <!-- Items of Power II -->
 			<id>70c5ccff-156d-4e58-a973-83964f759e7b</id>
 			<name>Items of Power II</name>
 			<karma>10</karma>
@@ -1512,8 +1516,7 @@
 			<source>FA</source>
 			<page>38</page>
 		</quality>
-		<quality>
-			<!-- Items of Power III -->
+		<quality> <!-- Items of Power III -->
 			<id>68c27487-2455-48dd-b7cd-c51b607f8436</id>
 			<name>Items of Power III</name>
 			<karma>10</karma>
@@ -1538,8 +1541,7 @@
 			<source>FA</source>
 			<page>38</page>
 		</quality>
-		<quality>
-			<!-- Fanning\Hammering -->
+		<quality> <!-- Fanning\Hammering -->
 			<id>644b17bc-5d42-4643-a4ce-99ce74d9dd7a</id>
 			<name>Fanning\Hammering</name>
 			<karma>5</karma>
@@ -1557,8 +1559,7 @@
 			<source>4PR</source>
 			<page>1</page>
 		</quality>
-		<quality>
-			<!-- Dead Eye -->
+		<quality> <!-- Dead Eye -->
 			<id>60070a9a-c441-493c-b373-ebba4214bc34</id>
 			<name>Dead Eye</name>
 			<karma>10</karma>
@@ -1575,8 +1576,7 @@
 			<source>4PR</source>
 			<page>1</page>
 		</quality>
-		<quality>
-			<!-- 'Ware Overdriver -->
+		<quality> <!-- 'Ware Overdriver -->
 			<id>7050aca7-9882-4913-aba8-2e8da6b1c4b0</id>
 			<name>'Ware Overdriver</name>
 			<karma>10</karma>
@@ -1597,8 +1597,7 @@
 			<source>6e</source>
 			<page>1</page>
 		</quality>
-		<quality>
-			<!-- Deck Optimization -->
+		<quality> <!-- Deck Optimization -->
 			<id>db9c160c-c54b-4320-8fe8-a630c2e96005</id>
 			<name>Deck Optimization</name>
 			<karma>5</karma>
@@ -1626,8 +1625,7 @@
 			<source>4PR</source>
 			<page>1</page>
 		</quality>
-		<quality>
-			<!-- Hacker Combo -->
+		<quality> <!-- Hacker Combo -->
 			<id>60bfe350-6afe-43dc-979d-b04f71c39288</id>
 			<name>Hacker Combo</name>
 			<karma>10</karma>
@@ -1638,8 +1636,7 @@
 			<source>6e</source>
 			<page>1</page>
 		</quality>
-		<quality>
-			<!-- Additional Echo -->
+		<quality> <!-- Additional Echo -->
 			<id>82dce7dd-b897-4f8c-9eed-4e81612aeac0</id>
 			<name>Additional Echo</name>
 			<karma>15</karma>
@@ -1655,8 +1652,7 @@
 				</allof>
 			</required>
 		</quality>
-		<quality>
-			<!-- Additional Funds -->
+		<quality> <!-- Additional Funds -->
 			<id>49857764-5c82-45ce-aa89-df60c91fed4a</id>
 			<name>Additional Funds</name>
 			<karma>2</karma>
@@ -1673,8 +1669,7 @@
 				</oneof>
 			</required>
 		</quality>
-		<quality>
-			<!-- Obscure Aura -->
+		<quality> <!-- Obscure Aura -->
 			<id>3a175667-66d2-49b6-b476-64a916e71552</id>
 			<name>Obscure Aura</name>
 			<karma>5</karma>
@@ -1694,8 +1689,7 @@
 			<source>4PR</source>
 			<page>1</page>
 		</quality>
-		<quality>
-			<!-- Augmentation Acclimation -->
+		<quality> <!-- Augmentation Acclimation -->
 			<id>3acb3b86-f3da-4b35-be9a-e431056b7453</id>
 			<name>Augmentation Acclimation</name>
 			<karma>10</karma>
@@ -1729,8 +1723,7 @@
 			<source>4PR</source>
 			<page>1</page>
 		</quality>
-		<quality>
-			<!-- Cyborg -->
+		<quality> <!-- Cyborg -->
 			<id>61191c68-9ff0-4533-b084-3688831639f1</id>
 			<name>Cyborg</name>
 			<karma>30</karma>
@@ -1767,7 +1760,7 @@
 			<source>4PR</source>
 			<page>1</page>
 		</quality>
-		<quality>
+		<quality> <!-- Acceleration -->
 			<id>75d65060-a802-49cd-aa91-4f45514b23a1</id>
 			<name>Acceleration</name>
 			<karma>6</karma>

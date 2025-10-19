@@ -123,6 +123,28 @@
 			<name>Voice Control</name>
 			<points>0.25</points>
 		</power>
+		<power>
+			<name>Living Focus</name>
+			<points>0.5</points>
+		</power>
+		<power>
+			<id>5f1ebcd8-9571-4716-b7fd-ec674306b833</id>
+			<name>Authoritative Tone</name>
+			<points>0.5</points>
+			<levels>True</levels>
+			<limit>1</limit>
+			<source>SGE</source>
+			<page>4</page>
+			<adeptway>0.25</adeptway>
+		    <adeptwayrequires>
+				<required>
+					<oneof>
+						<quality>The Speaker's Way</quality>
+						<quality>The Warrior's Way</quality>
+					</oneof>
+				</required>
+			</adeptwayrequires>
+		</power>
 	</powers>
 	<enhancements>
 		<enhancement>

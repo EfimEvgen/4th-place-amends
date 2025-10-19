@@ -27,6 +27,23 @@
 			<name>Omegaware (Adapsin)</name>
 			<hide />
 		</grade>
+		<grade>
+			<name>Deltaware</name>
+			<devicerating>6</devicerating>
+		</grade>
+		<grade>
+			<name>Deltaware (Adapsin)</name>
+			<devicerating>6</devicerating>
+		</grade>
+		<grade>
+			<name>Gammaware</name>
+			<devicerating>6</devicerating>
+		</grade>
+		<grade>
+			<name>Gammaware (Adapsin)</name>
+			<devicerating>6</devicerating>
+		</grade>
+		
 	</grades>
 	<cyberwares>
 		<cyberware>

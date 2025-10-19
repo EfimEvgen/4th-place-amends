@@ -516,13 +516,12 @@
 		<power>
 			<id>6a9aed06-88b0-498b-910f-714a08e45955</id>
 			<name>Manifest Power</name>
-			<category>Drake</category>
-			<rating>True</rating>
+			<category>Drake</category>>
 			<type>P</type>
 			<action>Free</action>
 			<range>Special</range>
 			<duration>Instant</duration>
-			<karma>2</karma>
+			<karma>10</karma>
 			<source>4PR</source>
 			<page>1</page>
 			<notes>Can only be applied to an attribute enhanced by your dracoform.</notes>
