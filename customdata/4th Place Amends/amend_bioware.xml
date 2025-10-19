@@ -114,5 +114,10 @@
 	<initiativepass amendoperation="replace">Rating</initiativepass>
       </bonus>
     </bioware>
+    <bioware>
+      <id>abdbc210-c1fa-45f1-9840-4f78d9eb8867</id>
+      <name>Chemical Gland (Internal Release)</name>
+      <cost>20000</cost>
+    </bioware>
   </biowares>
 </chummer>

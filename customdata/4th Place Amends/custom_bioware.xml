@@ -927,5 +927,22 @@
 			<page>1</page>
 			<notes>+1 to Firewall for a single owned device.</notes>
 		</bioware>
+		<bioware>
+			<id>59d03d71-7db0-412d-8953-0dc3ddf570e9</id>
+			<name>Chemical Gland (Gradual Release)</name>
+			<limit>False</limit>
+			<category>Basic</category>
+			<ess>Rating * 0.05</ess>
+			<capacity>0</capacity>
+			<avail>12R or Gear</avail>
+			<cost>20000</cost>
+			<allowgear>
+				<gearcategory>Drugs</gearcategory>
+			</allowgear>
+			<notes>Bonus is for whether this is Gradual Release, not the cost of the chemical.</notes>
+			<rating>15</rating>
+			<source>4PR</source>
+			<page>0</page>
+		</bioware>
 	</biowares>
 </chummer>
