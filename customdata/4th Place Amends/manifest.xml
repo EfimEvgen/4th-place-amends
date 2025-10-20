@@ -18,17 +18,17 @@
     https://github.com/chummer5a/chummer5a
 -->
 <manifest xmlns="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema ../manifest.xsd">
-  <guid>6bcce4e0-6ae0-4c7d-b6c8-912606db090d</guid>
-  <version>13.1</version>
+  <guid>a5c1ebcc-a1c0-4f76-bf3a-04bea9577f88</guid>
+  <version>1.0</version>
   <authors>
     <author>
-      <name>Zen Den Gurus</name>
+      <name>4th Place admins</name>
       <main>true</main>
     </author>
   </authors>
   <descriptions>
     <description>
-      <text>This custom data file contains the house rules of the Zen Den. Special thanks to the following contributors: EfimEvgen, Teksura, EmmjayXII, JDub-76</text>
+      <text>This custom data file contains the house rules of the 4th place.</text>
       <lang>en-us</lang>
     </description>
   </descriptions>
