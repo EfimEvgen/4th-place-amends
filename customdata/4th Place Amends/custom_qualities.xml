@@ -1713,8 +1713,9 @@
 				</oneof>
 			</required>
 			<bonus>
+				<essencemax>1</essencemax>
 				<addware>
-					<name>Essence Antihole</name>
+					<name>Essence Hole</name>
 					<rating>100</rating>
 					<grade>None</grade>
 					<type>Cyberware</type>
@@ -1750,12 +1751,27 @@
 				</oneof>
 			</required>
 			<bonus>
+				<essencemax>1</essencemax>
 				<addware>
-					<name>Essence Antihole</name>
+					<name>Essence Hole</name>
 					<rating>100</rating>
 					<grade>None</grade>
 					<type>Cyberware</type>
 				</addware>
+				<specificattribute>
+					<name>MAG</name>
+					<max>1</max>
+					<val>1</val>
+					<aug>1</aug>
+					<augmax>1</augmax>
+				</specificattribute>
+				<specificattribute>
+					<name>RES</name>
+					<max>1</max>
+					<val>1</val>
+					<aug>1</aug>
+					<augmax>1</augmax>
+				</specificattribute>
 			</bonus>
 			<source>4PR</source>
 			<page>1</page>
@@ -2102,6 +2118,7 @@
 					<name>RES</name>
 					<aug>Rating</aug>
 					<val>Rating</val>
+					<max>Rating</max>
 				</specificattribute>
 			</bonus>
 		</quality>
