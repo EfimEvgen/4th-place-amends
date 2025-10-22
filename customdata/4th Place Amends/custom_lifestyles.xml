@@ -27,7 +27,7 @@
   </categories>
   <qualities>
     <quality>
-      <id>e1734ee0-9b02-421b-b62c-6fb3c9b4c084</id>
+      <id>01c99b69-fdae-4e6d-afb1-3d75b81a178a</id>
       <name>Stables (Street)</name>
       <category>Stables</category>
       <lp>1</lp>
@@ -40,7 +40,7 @@
       <page>0</page>
     </quality>
     <quality>
-      <id>28b7001a-f2d9-4758-a1a0-54f22ff5a210</id>
+      <id>6dc9e2cf-300c-430d-beb4-aba6cd62eedd</id>
       <name>Stables (Squatter)</name>
       <category>Stables</category>
       <lp>1</lp>
@@ -53,7 +53,7 @@
       <page>0</page>
     </quality>
     <quality>
-      <id>1a1c69ec-20a6-42e6-b84e-760f2d7f69ec</id>
+      <id>7ec78f0e-ac68-4bb3-85de-24ea8d033f5c</id>
       <name>Stables (Low)</name>
       <category>Stables</category>
       <lp>1</lp>
@@ -66,7 +66,7 @@
       <page>0</page>
     </quality>
     <quality>
-      <id>1d1236b8-63b1-48c2-8c3a-d16266b97eff</id>
+      <id>14ef2cdc-7ffb-4959-ba7d-c5e900a0bde0</id>
       <name>Stables (Medium)</name>
       <category>Stables</category>
       <lp>1</lp>
@@ -79,7 +79,7 @@
       <page>0</page>
     </quality>
     <quality>
-      <id>f4aa30b2-71f1-4805-a421-11d330114731</id>
+      <id>7a37ba23-c99f-409d-a555-4c76fcaabe7f</id>
       <name>Stables (High)</name>
       <category>Stables</category>
       <lp>1</lp>
@@ -92,7 +92,7 @@
       <page>0</page>
     </quality>
     <quality>
-      <id>1e84980c-7d00-4669-9dc8-771a47d2ab7c</id>
+      <id>587a5882-5d94-46b3-a070-34b8aa57a372</id>
       <name>Stables (Luxury)</name>
       <category>Stables</category>
       <lp>1</lp>
@@ -105,7 +105,7 @@
       <page>0</page>
     </quality>
     <quality>
-      <id>0eb2a3ae-f74d-4133-b2a1-45578d268c7f</id>
+      <id>9693623e-4e64-4116-a853-b4afd9b7b58a</id>
       <name>Stables (Specialized)</name>
       <category>Stables</category>
       <lp>1</lp>
@@ -117,7 +117,7 @@
       <page>0</page>
     </quality>
     <quality>
-      <id>acb1c201-5fc4-4e74-adf2-7ea8570b0507</id>
+      <id>9bdfe87d-7d64-4a5c-904c-c03fd198704a</id>
       <name>DocWagon Contract, Basic (Enhanced Medical Services I)</name>
       <category>Enhanced Medical Services</category>
       <lp>0</lp>
@@ -126,7 +126,7 @@
       <page>450</page>
     </quality>
     <quality>
-      <id>c2a38e8a-1b46-4dc4-8b76-e4c173b422c4</id>
+      <id>e593da02-ecd4-49a4-a5eb-688519c3da2e</id>
       <name>DocWagon Contract, Basic (Enhanced Medical Services II)</name>
       <category>Enhanced Medical Services</category>
       <lp>0</lp>
@@ -135,7 +135,7 @@
       <page>450</page>
     </quality>
     <quality>
-      <id>474eeac0-e1b2-4b1c-adb3-49a961568d1c</id>
+      <id>a5610af4-0134-43e8-92a3-6962aa77e34a</id>
       <name>DocWagon Contract, Basic (Enhanced Medical Services III)</name>
       <category>Enhanced Medical Services</category>
       <lp>0</lp>
@@ -144,7 +144,7 @@
       <page>450</page>
     </quality>
     <quality>
-      <id>b3d0b9f0-a1b2-49bc-82b5-ebf01629180d</id>
+      <id>923dadf0-cb40-4cec-8ca7-e4bb3e4381c4</id>
       <name>DocWagon Contract, Basic (Enhanced Medical Services IV)</name>
       <category>Enhanced Medical Services</category>
       <lp>0</lp>
@@ -153,7 +153,7 @@
       <page>450</page>
     </quality>
     <quality>
-      <id>392d1aba-9457-43f8-a774-cff900f28fa1</id>
+      <id>260d1b32-79dc-4b71-984e-82002b82a7cc</id>
       <name>DocWagon Contract, Basic (Enhanced Medical Services V)</name>
       <category>Enhanced Medical Services</category>
       <lp>0</lp>
@@ -162,7 +162,7 @@
       <page>450</page>
     </quality>
     <quality>
-      <id>af6d38f3-696f-43ed-8487-ee9f3a23d9b8</id>
+      <id>c2d7db2b-6893-40b1-b840-3cc8a33dba8f</id>
       <name>DocWagon Contract, Basic (Enhanced Medical Services VI)</name>
       <category>Enhanced Medical Services</category>
       <lp>0</lp>
@@ -171,7 +171,7 @@
       <page>450</page>
     </quality>
     <quality>
-      <id>9725614e-d81e-4053-90d4-d5d8ab65f37e</id>
+      <id>026e73d1-5a53-439e-86da-009b6ff3dd11</id>
       <name>DocWagon Contract, Gold (Enhanced Medical Services I)</name>
       <category>Enhanced Medical Services</category>
       <lp>0</lp>
@@ -180,7 +180,7 @@
       <page>450</page>
     </quality>
     <quality>
-      <id>f011faba-f4a9-4463-a14f-82c03863f06e</id>
+      <id>ba6857dc-0b8c-44bd-bd84-81f15b19b0b9</id>
       <name>DocWagon Contract, Gold (Enhanced Medical Services II)</name>
       <category>Enhanced Medical Services</category>
       <lp>0</lp>
@@ -189,7 +189,7 @@
       <page>450</page>
     </quality>
     <quality>
-      <id>76065672-6bcb-4e6f-b8e2-d1c25485d3af</id>
+      <id>f4134e74-c205-47ff-a822-8c40af9d44d8</id>
       <name>DocWagon Contract, Gold (Enhanced Medical Services III)</name>
       <category>Enhanced Medical Services</category>
       <lp>0</lp>
@@ -198,7 +198,7 @@
       <page>450</page>
     </quality>
     <quality>
-      <id>3af4723e-e9c6-4ddd-81d4-84ed9110c6ee</id>
+      <id>73b6032a-252c-444d-b7af-6970090264f0</id>
       <name>DocWagon Contract, Gold (Enhanced Medical Services IV)</name>
       <category>Enhanced Medical Services</category>
       <lp>0</lp>
@@ -207,7 +207,7 @@
       <page>450</page>
     </quality>
     <quality>
-      <id>a0ebe779-0b8e-417a-927a-5184c91f8c04</id>
+      <id>56a6fd29-c131-48cd-be85-801821a4e0d2</id>
       <name>DocWagon Contract, Gold (Enhanced Medical Services V)</name>
       <category>Enhanced Medical Services</category>
       <lp>0</lp>
@@ -216,7 +216,7 @@
       <page>450</page>
     </quality>
     <quality>
-      <id>d5361a53-7a4f-48a4-9dd0-a289424614b5</id>
+      <id>daa84711-a7c6-48e3-b7c9-048db779d472</id>
       <name>DocWagon Contract, Gold (Enhanced Medical Services VI)</name>
       <category>Enhanced Medical Services</category>
       <lp>0</lp>
@@ -225,7 +225,7 @@
       <page>450</page>
     </quality>
     <quality>
-      <id>2f6cf835-caee-48cd-ac22-eb41b1a3efe0</id>
+      <id>3ac97314-b33e-4eab-b932-b84a17c8720d</id>
       <name>DocWagon Contract, Platinum (Enhanced Medical Services I)</name>
       <category>Enhanced Medical Services</category>
       <lp>0</lp>
@@ -234,7 +234,7 @@
       <page>450</page>
     </quality>
     <quality>
-      <id>d451acde-5270-4a1f-8b33-f86b4f86100f</id>
+      <id>f08b3b14-e6e5-4f72-8dd3-f0b6fce62061</id>
       <name>DocWagon Contract, Platinum (Enhanced Medical Services II)</name>
       <category>Enhanced Medical Services</category>
       <lp>0</lp>
@@ -243,7 +243,7 @@
       <page>450</page>
     </quality>
     <quality>
-      <id>de7a91b4-b9f3-40d3-b056-1c1fb236172e</id>
+      <id>a5940b6d-84d7-4c2a-9b85-ae137264302e</id>
       <name>DocWagon Contract, Platinum (Enhanced Medical Services III)</name>
       <category>Enhanced Medical Services</category>
       <lp>0</lp>
@@ -252,7 +252,7 @@
       <page>450</page>
     </quality>
     <quality>
-      <id>81b7e5be-36be-43c2-9d2f-316557f08d6f</id>
+      <id>480e5cfc-5c39-4484-b192-b1a5206957bd</id>
       <name>DocWagon Contract, Platinum (Enhanced Medical Services IV)</name>
       <category>Enhanced Medical Services</category>
       <lp>0</lp>
@@ -261,7 +261,7 @@
       <page>450</page>
     </quality>
     <quality>
-      <id>7093013b-a54e-4be1-944b-13031916c025</id>
+      <id>8162299f-7e2e-4d3e-8364-9e16b6232d9f</id>
       <name>DocWagon Contract, Platinum (Enhanced Medical Services V)</name>
       <category>Enhanced Medical Services</category>
       <lp>0</lp>
@@ -270,7 +270,7 @@
       <page>450</page>
     </quality>
     <quality>
-      <id>7325409f-ce2a-47f2-9d1b-019f7ee2842b</id>
+      <id>3c3d538d-c770-41fe-ab6e-4e562f4fbdb1</id>
       <name>DocWagon Contract, Platinum (Enhanced Medical Services VI)</name>
       <category>Enhanced Medical Services</category>
       <lp>0</lp>
@@ -279,7 +279,7 @@
       <page>450</page>
     </quality>
     <quality>
-      <id>88e29804-cc42-4090-9787-eeba72522f35</id>
+      <id>429d975f-11a5-475d-ac81-f8cd9307f75e</id>
       <name>DocWagon Contract, Super-Platinum (Enhanced Medical Services I)</name>
       <category>Enhanced Medical Services</category>
       <lp>0</lp>
@@ -288,7 +288,7 @@
       <page>450</page>
     </quality>
     <quality>
-      <id>b1eebd77-4de0-439d-9308-b5f5f925419e</id>
+      <id>e88a1e6c-c137-4dcf-bb10-8ae5f941f58b</id>
       <name>DocWagon Contract, Super-Platinum (Enhanced Medical Services II)</name>
       <category>Enhanced Medical Services</category>
       <lp>0</lp>
@@ -297,7 +297,7 @@
       <page>450</page>
     </quality>
     <quality>
-      <id>7edd1256-0e63-449f-b4c5-b8482ae358ca</id>
+      <id>af2a213d-0b36-484c-b4fb-2183c534892a</id>
       <name>DocWagon Contract, Super-Platinum (Enhanced Medical Services III)</name>
       <category>Enhanced Medical Services</category>
       <lp>0</lp>
@@ -306,7 +306,7 @@
       <page>450</page>
     </quality>
     <quality>
-      <id>5ba11a90-662f-4948-87c3-aa8752dfe104</id>
+      <id>38dd3bd2-1b52-4af5-9ba6-84c9ed4dbcce</id>
       <name>DocWagon Contract, Super-Platinum (Enhanced Medical Services IV)</name>
       <category>Enhanced Medical Services</category>
       <lp>0</lp>
@@ -315,7 +315,7 @@
       <page>450</page>
     </quality>
     <quality>
-      <id>c3907ad9-381b-4d4e-a9f3-bef1a4ffbe7d</id>
+      <id>58c021f5-193f-4aca-b0b7-05559868b786</id>
       <name>DocWagon Contract, Super-Platinum (Enhanced Medical Services V)</name>
       <category>Enhanced Medical Services</category>
       <lp>0</lp>
@@ -324,7 +324,7 @@
       <page>450</page>
     </quality>
     <quality>
-      <id>265b5626-b5be-4513-938f-fe17ad6d84e6</id>
+      <id>ad1ad11a-efb1-49c3-8486-8bfd09aff22d</id>
       <name>DocWagon Contract, Super-Platinum (Enhanced Medical Services VI)</name>
       <category>Enhanced Medical Services</category>
       <lp>0</lp>
@@ -333,7 +333,7 @@
       <page>450</page>
     </quality>
     <quality>
-      <id>57119c1d-8d9c-4f0a-aded-07764239b443</id>
+      <id>eeb1e9d1-f261-4ed8-b41d-4f3894dccfec</id>
       <name>Additional Funds</name>
       <category>Positive</category>
       <lp>0</lp>
@@ -349,7 +349,7 @@
       </required>
     </quality>
     <quality>
-      <id>ff1e7256-8ec7-4f71-8de3-e0f74060ba4a</id>
+      <id>c6e99384-3f93-4130-badf-088dd298afb9</id>
       <name>Garage (Boat (Body 11 or higher))</name>
       <category>Entertainment - Asset</category>
       <lp>2</lp>
@@ -360,7 +360,7 @@
       <page>1</page>
     </quality>
     <quality>
-      <id>677b3688-60c4-4cea-b9dc-bf4a16849764</id>
+      <id>45f65fb3-61ce-4f36-935e-e0c927df41de</id>
       <name>Cramped Garage (Boat (Body 11 or higher))</name>
       <category>Entertainment - Asset</category>
       <lp>2</lp>
@@ -371,7 +371,7 @@
       <page>1</page>
     </quality>
     <quality>
-      <id>25b5f277-f0cc-471b-ae16-c95d3066c283</id>
+      <id>9d6af5e1-6b1c-4db5-9d1a-d53bf35a1519</id>
       <name>Personal runway for non-Vtol</name>
       <category>Entertainment - Asset</category>
       <lp>1</lp>
@@ -382,7 +382,7 @@
       <page>1</page>
     </quality>
     <quality>
-      <id>b53260a9-12f3-401d-9cf7-db8a975e4f79</id>
+      <id>ea09a123-82e7-4359-9b58-6302f1576ad9</id>
       <name>Personal ManaLine (R1)</name>
       <category>Entertainment - Asset</category>
       <lp>2</lp>
@@ -392,7 +392,7 @@
       <page>1</page>
     </quality>
     <quality>
-      <id>2ef144c5-5810-440c-85f5-5d497ecd75a4</id>
+      <id>0b59003b-66d9-4ba5-a5e5-13476daf4460</id>
       <name>Personal ManaLine (R2)</name>
       <category>Entertainment - Asset</category>
       <lp>3</lp>
@@ -402,7 +402,7 @@
       <page>1</page>
     </quality>
     <quality>
-      <id>e12bc78d-72d9-4a2d-bd43-cdf747a56cd2</id>
+      <id>52cd6e17-4917-4792-b4d1-2dc3a2735f60</id>
       <name>Personal ManaLine (R3)</name>
       <category>Entertainment - Asset</category>
       <lp>3</lp>
@@ -412,7 +412,7 @@
       <page>1</page>
     </quality>
     <quality>
-      <id>3cfa5341-d58d-4151-9e51-fd8cc8880e06</id>
+      <id>37b1ca44-3b8b-47b8-b916-d46863087186</id>
       <name>Resonance Well (R1)</name>
       <category>Entertainment - Asset</category>
       <lp>2</lp>
@@ -422,7 +422,7 @@
       <page>1</page>
     </quality>
     <quality>
-      <id>c372db81-59f2-4e1d-a01d-7ddf509820a0</id>
+      <id>91546116-0929-4b72-b8b6-46c32a6b4e6e</id>
       <name>Resonance Well (R2)</name>
       <category>Entertainment - Asset</category>
       <lp>3</lp>
@@ -432,7 +432,7 @@
       <page>1</page>
     </quality>
     <quality>
-      <id>666fc13e-9f50-4a1d-b7fc-638d8d9ee753</id>
+      <id>0a79342d-8c1e-408b-8434-a262aa5105b4</id>
       <name>Resonance Well (R3)</name>
       <category>Entertainment - Asset</category>
       <lp>3</lp>
@@ -442,7 +442,7 @@
       <page>1</page>
     </quality>
     <quality>
-      <id>1dfab628-4cc3-46e9-8184-ac0dee9e00af</id>
+      <id>66c0a991-3817-42d1-8dea-22547cbe2419</id>
       <name>Feng Shui (R1)</name>
       <category>Entertainment - Asset</category>
       <lp>2</lp>
@@ -452,7 +452,7 @@
       <page>1</page>
     </quality>
     <quality>
-      <id>d8c0b30b-c465-45a5-b991-87969e3d72e1</id>
+      <id>ea29af95-3007-4002-8051-82dc6e4eb0f4</id>
       <name>Feng Shui (R2)</name>
       <category>Entertainment - Asset</category>
       <lp>3</lp>
@@ -462,7 +462,7 @@
       <page>1</page>
     </quality>
     <quality>
-      <id>de04771b-f88b-4344-8bfc-dd5ae5790545</id>
+      <id>d77042e1-e44e-4eae-85bd-0446e54de43f</id>
       <name>Feng Shui (R3)</name>
       <category>Entertainment - Asset</category>
       <lp>3</lp>
@@ -472,7 +472,7 @@
       <page>1</page>
     </quality>
     <quality>
-      <id>e06e2768-0ed4-46c1-b80f-18e6248d7667</id>
+      <id>835d8ff1-49bd-47f4-9d58-1cb8eaf4da42</id>
       <name>Astral repellant</name>
       <category>Entertainment - Asset</category>
       <lp>2</lp>
@@ -482,7 +482,7 @@
       <page>1</page>
     </quality>
     <quality>
-      <id>faedb301-1c63-4dab-9435-40e2d62941d4</id>
+      <id>79ba3541-bcdc-4502-92d9-597dad6f3950</id>
       <name>Free Access</name>
       <category>Entertainment - Asset</category>
       <lp>2</lp>
@@ -492,7 +492,7 @@
       <page>1</page>
     </quality>
     <quality>
-      <id>bfb566df-3ec4-4912-b8b7-a31afba71cbc</id>
+      <id>1a353e34-70ff-40e3-9b30-f522e2eda620</id>
       <name>Friendly Neighbours</name>
       <category>Entertainment - Asset</category>
       <lp>1</lp>
@@ -501,7 +501,7 @@
       <page>1</page>
     </quality>
     <quality>
-      <id>9ea321bb-3ea5-422f-b606-9b195464a341</id>
+      <id>fb27ec25-a694-48a6-9201-87d1c8f291d4</id>
       <name>Critter Friendly adaptation</name>
       <category>Entertainment - Asset</category>
       <lp>1</lp>
@@ -511,7 +511,7 @@
       <page>1</page>
     </quality>
     <quality>
-      <id>e420cb4d-6415-4624-a133-6b27c9452d34</id>
+      <id>c0f1bec1-d5b6-4d6c-a953-a8aeedf802a3</id>
       <name>Well made</name>
       <category>Entertainment - Asset</category>
       <lp>1</lp>

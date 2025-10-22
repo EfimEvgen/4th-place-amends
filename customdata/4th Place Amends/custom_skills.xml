@@ -20,7 +20,7 @@
 <chummer>
   <skills>
     <skill>
-      <id>ed121213-b2d6-4645-80b7-ab16d2dfa7fe</id>
+      <id>f2aecece-7813-40eb-90ec-373ed3aab52e</id>
       <name>Directed Energy Weapons</name>
       <attribute>AGI</attribute>
       <category>Combat Active</category>
@@ -31,7 +31,7 @@
       <page />
     </skill>
     <skill>
-      <id>3aaa94c4-2f50-4757-bcc0-5c4d3542a645</id>
+      <id>e0d59787-80fd-4ee8-aa43-d92de58e741c</id>
       <name>Monofilament Weapons</name>
       <attribute>AGI</attribute>
       <category>Combat Active</category>
@@ -42,7 +42,7 @@
       <page />
     </skill>
     <skill>
-      <id>304288bd-408e-4d8a-8a0f-69235e2807fe</id>
+      <id>5cf0d0f4-f2cd-49a6-8543-81c623800ac6</id>
       <name>Spray Weapons</name>
       <attribute>AGI</attribute>
       <category>Combat Active</category>

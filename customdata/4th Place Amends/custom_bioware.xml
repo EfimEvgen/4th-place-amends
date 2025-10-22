@@ -2,7 +2,7 @@
 <chummer>
 	<biowares>
 		<bioware>
-			<id>20A870A1-7AFE-477E-9DAC-8DBBD04114B4</id>
+			<id>8df34424-104a-4842-aaab-1d41ff1740e3</id>
 			<name>Arcane Inhibitor</name>
 			<category>Transgenics</category>
 			<ess>0.1</ess>
@@ -22,7 +22,7 @@
 			<page>1</page>
 		</bioware>
 		<bioware>
-			<id>34E78AC3-04FD-4DE0-81B4-BB5C28E7BD90</id>
+			<id>4fdfca70-a2ec-4a3d-9a5b-a3b9d962908f</id>
 			<name>Fear Response Dampener</name>
 			<category>Transgenics</category>
 			<ess>0.2</ess>
@@ -36,7 +36,7 @@
 			<page>1</page>
 		</bioware>
 		<bioware>
-			<id>02cc535e-3739-4481-90b7-2ce0d2407845</id>
+			<id>bd56f7f8-108e-4967-95dd-b50b7f4c5489</id>
 			<name>Expanded Visual Range (Thermographic)</name>
 			<category>Transgenics</category>
 			<ess>0.05</ess>
@@ -54,7 +54,7 @@
 			<page>1</page>
 		</bioware>
 		<bioware>
-			<id>13eb429a-7562-4f90-94b3-1c13364629de</id>
+			<id>f5537776-477e-4fae-924d-0402960629f1</id>
 			<name>Expanded Visual Range (Low Light)</name>
 			<category>Transgenics</category>
 			<ess>0.05</ess>
@@ -72,7 +72,7 @@
 			<page>1</page>
 		</bioware>
 		<bioware>
-			<id>278E391C-02E1-4BA1-85C6-6221971246EB</id>
+			<id>451e5166-140c-452b-8486-cbf6854f2694</id>
 			<name>Alpha Factor</name>
 			<category>Transgenics</category>
 			<ess>0.2</ess>
@@ -95,7 +95,7 @@
 			<page>1</page>
 		</bioware>
 		<bioware>
-			<id>76D1365C-932F-4055-960E-B66E2EEE3908</id>
+			<id>612ecb00-f62b-4f3f-b300-f1224ad9c228</id>
 			<name>Cerebellum Booster Enhancer</name>
 			<category>Complimentary Genetics</category>
 			<ess>0.2</ess>
@@ -120,7 +120,7 @@
 			<page>1</page>
 		</bioware>
 		<bioware>
-			<id>922B10C8-5FA3-4228-B6F6-D47C22D4A34C</id>
+			<id>50f58b17-1df3-4668-b622-0aa71088a998</id>
 			<name>Cerebral Booster Enhancer</name>
 			<category>Complimentary Genetics</category>
 			<ess>0.2</ess>
@@ -145,7 +145,7 @@
 			<page>1</page>
 		</bioware>
 		<bioware>
-			<id>6d7173e3-25d6-4595-8ea9-762109cbf08b</id>
+			<id>9200dee6-e751-4841-b806-37ffcdbef092</id>
 			<name>Optimized Trauma Response</name>
 			<category>Transgenics</category>
 			<ess>0.1</ess>
@@ -164,7 +164,7 @@
 		</bioware>
 		<!-- 6e Transgenic Infusions -->
 		<bioware>
-			<id>4c78051c-1bc5-4f77-8484-5f277735e8c8</id>
+			<id>44f6e58e-e9e8-4431-9eb4-8bece038e43c</id>
 			<name>Aggression Pack</name>
 			<category>Transgenic Alteration</category>
 			<ess>0.6</ess>
@@ -202,7 +202,7 @@
 			<page>1</page>
 		</bioware>
 		<bioware>
-			<id>9be130ec-30f5-4854-8923-1bf657ac6230</id>
+			<id>fecca3b8-07eb-4c7b-ad63-4a581469d797</id>
 			<name>Catlike Reflexes</name>
 			<category>Transgenic Alteration</category>
 			<ess>0.3</ess>
@@ -239,7 +239,7 @@
 			<page>1</page>
 		</bioware>
 		<bioware>
-			<id>4A55F36A-1B53-4356-9834-46DF78C87015</id>
+			<id>127e16b5-130c-47f7-af94-4b7d2a0bd168</id>
 			<name>Neuromuscular Density Enhancement</name>
 			<category>Transgenics</category>
 			<ess>0.2</ess>
@@ -258,7 +258,7 @@
 			<page>1</page>
 		</bioware>
 		<bioware>
-			<id>19c61a40-73e0-47c6-bea2-edf15d450e9b</id>
+			<id>29cb6054-9d04-4fad-adec-097e3b51930b</id>
 			<name>Animal Olfaction</name>
 			<category>Transgenic Alteration</category>
 			<ess>0.1</ess>
@@ -284,7 +284,7 @@
 		</bioware>
 
 		<bioware>
-			<id>9defcb73-3b54-4041-9601-747afda2cbe7</id>
+			<id>e6d08d9d-b321-42aa-9410-418e6f923549</id>
 			<name>Daredrenaline II</name>
 			<category>Transgenics</category>
 			<ess>0.2</ess>
@@ -317,7 +317,7 @@
 		</bioware>
 
 		<bioware>
-			<id>bb301672-ee57-4c28-be3c-144b67523d88</id>
+			<id>6b8be615-b6d6-45c9-85fe-69a76cdaf010</id>
 			<name>Neoelastin</name>
 			<category>Transgenics</category>
 			<ess>0.2</ess>
@@ -347,7 +347,7 @@
 
 		<!-- Geneware Bioware Versions -->
 		<bioware>
-			<id>f5fe91f0-887b-4202-80d6-5f8234407b73</id>
+			<id>db46852d-6b2f-44e7-bac0-3960b502d98d</id>
 			<name>Dietware (Transgenic)</name>
 			<category>Transgenic Alteration</category>
 			<ess>0.1</ess>
@@ -360,7 +360,7 @@
 			<page>0</page>
 		</bioware>
 		<bioware>
-			<id>701713ef-f505-408d-8920-2318ccfe6068</id>
+			<id>d6f7c419-f824-497d-93d6-c14821ed8241</id>
 			<name>Gills (Transgenic)</name>
 			<category>Transgenic Alteration</category>
 			<ess>0.3</ess>
@@ -376,7 +376,7 @@
 			<page>113</page>
 		</bioware>
 		<bioware>
-			<id>3d0ddae5-271d-4724-ab33-27b1f20d61e6</id>
+			<id>39de631e-5625-48a4-83c7-7c1a6b44e601</id>
 			<name>Hand and Foot Webbing (Hands) (Transgenic)</name>
 			<category>Transgenic Alteration</category>
 			<ess>0.075</ess>
@@ -404,7 +404,7 @@
 			<page>0</page>
 		</bioware>
 		<bioware>
-			<id>bf00b695-58d0-47f9-b720-08b1a2838e67</id>
+			<id>07615a7f-bd95-4594-b2b8-4ece3d238df4</id>
 			<name>Hand and Foot Webbing (Feet) (Transgenic)</name>
 			<category>Transgenic Alteration</category>
 			<ess>0.075</ess>
@@ -432,7 +432,7 @@
 			<page>0</page>
 		</bioware>
 		<bioware>
-			<id>24ecd3e2-6839-48b7-8006-a3d18b06fc7e</id>
+			<id>adc6f48b-cb33-4895-8d9c-bcf86451278a</id>
 			<name>Nictitating Membranes (Transgenic)</name>
 			<category>Transgenic Alteration</category>
 			<ess>0.075</ess>
@@ -445,7 +445,7 @@
 			<page>0</page>
 		</bioware>
 		<bioware>
-			<id>99e054c8-d33a-4086-a38d-ee5b1ec084bc</id>
+			<id>87eee846-c987-4513-9980-52cc97de725e</id>
 			<name>Tail (Transgenic)</name>
 			<limit>False</limit>
 			<category>Transgenic Alteration</category>
@@ -459,7 +459,7 @@
 			<page>0</page>
 		</bioware>
 		<bioware>
-			<id>93e0b3bf-1b65-4044-a856-6b762085b1a1</id>
+			<id>4b52dcd2-1128-41d4-a457-3fca281dfcab</id>
 			<name>Tail, Prehensile (Transgenic)</name>
 			<limit>False</limit>
 			<category>Transgenic Alteration</category>
@@ -473,7 +473,7 @@
 			<page>0</page>
 		</bioware>
 		<bioware>
-			<id>8f12d662-9fc6-475f-8435-a11829c14956</id>
+			<id>3c45793e-8216-4c12-b63f-f003dd4aa942</id>
 			<name>Tailored Critter Pheromones (Transgenic)</name>
 			<category>Transgenic Alteration</category>
 			<ess>Rating * 0.15</ess>
@@ -490,7 +490,7 @@
 			<page>0</page>
 		</bioware>
 		<bioware>
-			<id>06e20b6b-e1ec-4c9e-8da7-f21133b75a95</id>
+			<id>4c52a11d-4acd-4060-8f5c-b5a1dfb7b59e</id>
 			<name>Chemical Gland (Exhalation Sprayer) (Transgenic)</name>
 			<limit>False</limit>
 			<category>Transgenic Alteration</category>
@@ -511,7 +511,7 @@
 			<page>0</page>
 		</bioware>
 		<bioware>
-			<id>3b1b8d76-a3af-429b-a2ac-c5c0d4643483</id>
+			<id>8fca3981-6416-46b2-b78d-ef13cd48d780</id>
 			<name>Chemical Gland (Spitter) (Transgenic)</name>
 			<limit>False</limit>
 			<category>Transgenic Alteration</category>
@@ -538,7 +538,7 @@
 			<page>0</page>
 		</bioware>
 		<bioware>
-			<id>e0b740c2-97e2-4df4-a13e-e356627f0e08</id>
+			<id>40db4890-3c70-4f1c-9c65-6f62c96ef664</id>
 			<name>Chemical Gland (Weapon Reservoir) (Transgenic)</name>
 			<limit>False</limit>
 			<category>Transgenic Alteration</category>
@@ -559,7 +559,7 @@
 			<page>0</page>
 		</bioware>
 		<bioware>
-			<id>723e67d8-85a1-4468-9869-bbecbcb18c22</id>
+			<id>316d4c9b-b422-46da-bae7-54581c6f84e4</id>
 			<name>Stinger, Tiny (Transgenic)</name>
 			<limit>False</limit>
 			<category>Transgenic Alteration</category>
@@ -573,7 +573,7 @@
 			<page>0</page>
 		</bioware>
 		<bioware>
-			<id>766c4d7a-c8b9-41cc-b7cd-2060f7019e94</id>
+			<id>ccff56a7-25dd-4e8e-b88c-ca3f46ed002b</id>
 			<name>Stinger, Medium (Transgenic)</name>
 			<limit>False</limit>
 			<category>Transgenic Alteration</category>
@@ -588,7 +588,7 @@
 			<page>0</page>
 		</bioware>
 		<bioware>
-			<id>02f1e315-5510-4041-be37-fe73508f94e7</id>
+			<id>8c13fe0d-4f62-4dde-8109-99340b45ae1d</id>
 			<name>Stinger, Large (Transgenic)</name>
 			<limit>False</limit>
 			<category>Transgenic Alteration</category>
@@ -603,7 +603,7 @@
 			<page>0</page>
 		</bioware>
 		<bioware>
-			<id>36e5c1be-88ee-4c0f-9a47-4bd59d8ada7c</id>
+			<id>2c221eea-4605-4545-8881-5e032b406f94</id>
 			<name>Tusk(s), Small (Transgenic)</name>
 			<limit>False</limit>
 			<category>Transgenic Alteration</category>
@@ -619,7 +619,7 @@
 			<page>0</page>
 		</bioware>
 		<bioware>
-			<id>2e6660a3-1c1b-418f-9b58-7016e0b3dea1</id>
+			<id>611c17e9-c164-43fa-b13a-1e61e97927e3</id>
 			<name>Tusk(s), Medium (Transgenic)</name>
 			<limit>False</limit>
 			<category>Transgenic Alteration</category>
@@ -636,7 +636,7 @@
 			<page>0</page>
 		</bioware>
 		<bioware>
-			<id>a1c13d13-965d-43a9-ae44-b06cbe0fd402</id>
+			<id>aff9145f-4610-4dd3-bd9b-17cc670a3fd3</id>
 			<name>Tusk(s), Large (Transgenic)</name>
 			<limit>False</limit>
 			<category>Transgenic Alteration</category>
@@ -653,7 +653,7 @@
 			<page>0</page>
 		</bioware>
 		<bioware>
-			<id>04956838-6f24-49a0-86e9-b1c41e88abfa</id>
+			<id>7c976daf-bdf8-46c7-af90-4e45198cfb51</id>
 			<name>Horns (Transgenic)</name>
 			<limit>False</limit>
 			<category>Transgenic Alteration</category>
@@ -668,7 +668,7 @@
 			<page>0</page>
 		</bioware>
 		<bioware>
-			<id>9ecf5d0b-4814-4ab0-8854-be0687c499ea</id>
+			<id>35084dea-297a-4a1c-ad98-cb849f20a92c</id>
 			<name>Chemical Repulsion (Transgenic)</name>
 			<category>Transgenic Alteration</category>
 			<ess>0.375</ess>
@@ -685,7 +685,7 @@
 			<page>0</page>
 		</bioware>
 		<bioware>
-			<id>b343a254-589e-4abb-a29f-e6754b636066</id>
+			<id>71452ebf-4d90-4586-aee6-65d2d8157874</id>
 			<name>Dragon Hide (Transgenic)</name>
 			<category>Transgenic Alteration</category>
 			<ess>0.15</ess>
@@ -701,7 +701,7 @@
 			<page>0</page>
 		</bioware>
 		<bioware>
-			<id>002aff7c-9c3a-4fa9-87cc-61255103e8e6</id>
+			<id>23a24c01-7d6e-42c9-8adc-12f7294f2b40</id>
 			<name>Insulation (Transgenic)</name>
 			<category>Transgenic Alteration</category>
 			<ess>0.15</ess>
@@ -723,7 +723,7 @@
 			<page>0</page>
 		</bioware>
 		<bioware>
-			<id>ac36b5b5-e5b7-47c8-8039-4db8b43332d2</id>
+			<id>fd82d1c2-9d5d-4799-87b2-82c39f6a4854</id>
 			<name>Electroshock (Transgenic)</name>
 			<category>Transgenic Alteration</category>
 			<ess>0.375</ess>
@@ -744,7 +744,7 @@
 			<page>0</page>
 		</bioware>
 		<bioware>
-			<id>797063e4-f86c-4915-8170-7f3ee7c3894c</id>
+			<id>4ed1e138-e442-4f4e-a388-03772012764d</id>
 			<name>Penguin Blubber (Transgenic)</name>
 			<category>Transgenic Alteration</category>
 			<ess>0.15</ess>
@@ -760,7 +760,7 @@
 			<page>0</page>
 		</bioware>
 		<bioware>
-			<id>39984ae3-bde4-46c6-bc65-3a12e7ea77eb</id>
+			<id>48871e01-2203-4b54-acc8-679ea8cc7d87</id>
 			<name>Sealskin (Transgenic)</name>
 			<category>Transgenic Alteration</category>
 			<ess>0.15</ess>
@@ -773,7 +773,7 @@
 			<page>0</page>
 		</bioware>
 		<bioware>
-			<id>58bc732d-5436-4f5c-9f90-562b4883335a</id>
+			<id>693b8596-c6d2-4073-9f9b-579575684214</id>
 			<name>Sharkskin (Transgenic)</name>
 			<category>Transgenic Alteration</category>
 			<ess>0.375</ess>
@@ -789,7 +789,7 @@
 			<page>0</page>
 		</bioware>
 		<bioware>
-			<id>b25a0ee7-a76a-4f1f-b1ca-bac2bd942aa2</id>
+			<id>6a227def-a763-4e78-9cd6-196aaa67d3a7</id>
 			<name>Skill Group Reflex Recorder</name>
 			<limit>False</limit>
 			<category>Cultured</category>
@@ -810,7 +810,7 @@
 			<page>1</page>
 		</bioware>
 		<bioware>
-			<id>b45fdde5-f8ff-4821-88e8-4aad82641ea3</id>
+			<id>ac5d12a7-4ee7-4103-a210-9ce70cff0679</id>
 			<name>Quadmod</name>
 			<category>Basic</category>
 			<ess>Rating * 0.1</ess>
@@ -837,7 +837,7 @@
 			<page>1</page>
 		</bioware>
 		<bioware>
-			<id>3871eebf-0a0a-4eea-9391-53bf43edb81b</id>
+			<id>00d9e758-3406-48ff-ace5-2f6f5adb37e5</id>
 			<name>False Front</name>
 			<category>Basic</category>
 			<ess>Rating * 0.2</ess>
@@ -856,7 +856,7 @@
 			<notes>Requires signal drug (50 nuyen/dose) to activate.</notes>
 		</bioware>
 		<bioware>
-			<id>83bb80be-6feb-4c16-a24a-d214b2055b08</id>
+			<id>b299af61-17e0-4611-a804-269c17d1ea17</id>
 			<name>False Front Mimic Option</name>
 			<category>Basic</category>
 			<ess>0</ess>
@@ -880,7 +880,7 @@
 			<notes>Rating and grade must match False Front. Requires signal drug (500 nuyen/dose) to activate.</notes>
 		</bioware>
 		<bioware>
-			<id>d5bae04f-2fb2-4701-a0d5-542f984af620</id>
+			<id>10f90dd8-3424-4222-afef-82f70cbb263c</id>
 			<name>Cognitive Shield</name>
 			<category>Cultured</category>
 			<bannedgrades>
@@ -900,8 +900,8 @@
 			<page>1</page>
 		</bioware>
 		<bioware>
-			<id>1831532b-1a26-4c23-8654-4c8988d37a4e</id>
-			<name>Cognitive Shield</name>
+			<id>857344e6-cad6-4cba-b5d1-f02a24183ef3</id>
+			<name>Manasense</name>
 			<category>Cultured</category>
 			<bannedgrades>
 				<grade>Used</grade>
@@ -916,8 +916,8 @@
 			<notes>Provides Magic Sense, using INT/2 instead of MAG to calculate range.</notes>
 		</bioware>
 		<bioware>
-			<id>52b455cc-6f55-4079-a098-d60decbd1bdb</id>
-			<name>Booster Endosont</name>
+			<id>f3a13a70-d2da-47cc-8fb8-2ddcaa44d115</id>
+			<name>Cypher Leech</name>
 			<category>Symbionts</category>
 			<ess>0.2</ess>
 			<capacity>0</capacity>
@@ -928,7 +928,7 @@
 			<notes>+1 to Firewall for a single owned device.</notes>
 		</bioware>
 		<bioware>
-			<id>59d03d71-7db0-412d-8953-0dc3ddf570e9</id>
+			<id>b75556b8-c1a6-41a5-83ed-954867772020</id>
 			<name>Chemical Gland (Gradual Release)</name>
 			<limit>False</limit>
 			<category>Basic</category>

@@ -3,7 +3,7 @@
 <chummer>
   <powers>
     <power>
-      <id>281B1842-389A-41B8-BD91-B6EE8711D827</id>
+      <id>cef77276-0756-4763-8be6-07755f30f29e</id>
       <name>Dash</name>
       <points>0.25</points>
       <levels>True</levels>
@@ -17,7 +17,7 @@
       </bonus>
     </power>
     <power>
-      <id>154267C7-76B1-4290-AD60-247DD1527252</id>
+      <id>02d7dc35-d679-4794-9635-cc5171ad79d0</id>
       <name>Improved Mental Attribute</name>
       <points>1</points>
       <levels>True</levels>
@@ -54,7 +54,7 @@
       </notes>
     </power>
     <power>
-      <id>08B55206-5164-498B-A0E9-9950703C1CEE</id>
+      <id>a6306904-4615-4692-b079-eb418fefc928</id>
       <name>Improved Ability (Skill Group)</name>
       <points>1</points>
       <levels>True</levels>
@@ -81,7 +81,7 @@
 			</bonus>
     </power>
     <power>
-      <id>3FAD1B82-7BB6-4CAB-95A0-DCD636367655</id>
+      <id>31e115d2-aa6b-4d5f-944f-04d195b06e73</id>
       <name>Cosmetic Control</name>
       <points>1</points>
       <levels>True</levels>
@@ -106,7 +106,7 @@
       </bonus>
     </power>
     <power>
-      <id>79b41c96-e28a-432b-bcc7-f9ed88435175</id>
+      <id>64f64bb7-fe74-41bc-8668-415712ae940a</id>
       <name>Distance Strike</name>
       <points>2</points>
       <levels>False</levels>
@@ -127,7 +127,7 @@
       </notes>
     </power>
     <power>
-      <id>cc1ab658-82ab-461f-9f5b-731bb6bb5937</id>
+      <id>484c7769-ab92-461c-93dd-f3d93201e354</id>
       <name>Multitasking</name>
       <points>1</points>
       <levels>False</levels>
@@ -148,7 +148,7 @@
       </notes>
     </power>
     <power>
-      <id>f79be704-bb73-4606-bd39-532b651ce8c2</id>
+      <id>86673f36-1697-4a44-92ed-62f02e7071bd</id>
       <name>Quick March</name>
       <points>0.5</points>
       <levels>False</levels>
@@ -169,7 +169,7 @@
       </notes>
     </power>
     <power>
-      <id>42e4619b-5c00-46b8-a5c1-d049949314a9</id>
+      <id>ca34fa55-80d6-41cb-ad30-5c65d39d00d4</id>
       <name>Nail Driver</name>
       <points>1</points>
       <levels>False</levels>
@@ -211,7 +211,7 @@
       </notes>
     </power>
     <power>
-      <id>fc1d7ff9-61a7-49e8-9caa-852657eb04d0</id>
+      <id>5aeaa6ba-91a0-40ca-ab12-eb83fcff4e1a</id>
       <name>Additional Adept Spells</name>
       <points>0.25</points>
       <levels>True</levels>
@@ -228,7 +228,7 @@
   </powers>
   <enhancements>
     <enhancement>
-      <id>a396d1f5-0770-4b57-a3b9-a5cbfb63a315</id>
+      <id>38fb6ca0-79c6-4fd7-9653-034dcd44c6f4</id>
       <name>Stride</name>
       <power>Dash</power>
       <source>4PR</source>
@@ -255,7 +255,7 @@
       <notes>Incompatible with the Skimmers cyberware or the Movement power.</notes>
     </enhancement>
     <enhancement>
-      <id>2b78a688-d9ad-4b13-8135-b03fca6874c7</id>
+      <id>37a39439-c8cd-415a-8947-c4b2405b44ee</id>
       <name>Skyfall</name>
       <power>Freefall</power>
       <source>4PR</source>

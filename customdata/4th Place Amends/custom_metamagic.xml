@@ -24,7 +24,7 @@
 	<metamagics>
 		<!-- Ally Spirit Metamagic for all -->
 		<metamagic>
-			<id>100e8eaf-08cb-42b5-a10f-336c5d780217</id>
+			<id>b65fbc2f-8f95-4631-b3ad-edbc460bdb53</id>
 			<name>Ally Spirit</name>
 			<adept>True</adept>
 			<magician>True</magician>
@@ -45,7 +45,7 @@
 			</forbidden>
 		</metamagic>
 		<metamagic>
-			<id>9a0064a5-17db-4fe4-8c2f-1f4ffe8a2319</id>
+			<id>8b50db24-374e-4a59-b7a5-dba9c3b68c39</id>
 			<name>Durable Astral Form</name>
 			<adept>True</adept>
 			<magician>True</magician>
@@ -54,7 +54,7 @@
 			<notes>Adds (Initiate Grade) to Astral Armor.</notes>
 		</metamagic>
 		<metamagic>
-			<id>5e7d5ade-be3d-4531-a60f-1d318b72d582</id>
+			<id>f613cef8-5cf5-4d82-bad7-086403fece2a</id>
 			<name>Spell Blade</name>
 			<adept>False</adept>
 			<magician>True</magician>
@@ -63,7 +63,7 @@
 			<notes>can use any Close Combat skill to make touch attacks for T range spells. Reach is IG/2 or 4, whichever is lower.</notes>
 		</metamagic>
 		<metamagic>
-			<id>b0179b99-246f-4d60-822a-f42d460c6ada</id>
+			<id>04548205-b414-43b2-bf04-3a3071956df3</id>
 			<name>Stealth Effect</name>
 			<adept>False</adept>
 			<magician>True</magician>
@@ -72,7 +72,7 @@
 			<notes>Use a Free action and take +2 Drain to make a spell invisible to visual detection. The spell's effect is not stealthed.</notes>
 		</metamagic>
 		<metamagic>
-			<id>807ecaec-a75b-4d26-b438-a9fb3cd949a0</id>
+			<id>506e3ac1-095b-42ff-8e08-c066bd8468b8</id>
 			<name>Peak Performance</name>
 			<adept>True</adept>
 			<magician>False</magician>
@@ -86,8 +86,8 @@
 			<notes>Reroll up to (IG+1) failed dice on non-combat tests involving skills in the Athletics skill group or attribute-only tests using only physical attributes.</notes>
 		</metamagic>
 		<metamagic>
-			<id>d5e3993c-6ef1-4f4b-ad57-792120eb9e13</id>
-			<name>Aspected astral projection</name>
+			<id>290d85a1-3021-4a69-a237-bca1b4ed80ec</id>
+			<name>Aspected Astral Projection</name>
 			<adept>False</adept>
 			<magician>True</magician>
 			<required>

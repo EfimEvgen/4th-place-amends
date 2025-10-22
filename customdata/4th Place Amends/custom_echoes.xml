@@ -22,7 +22,7 @@
   <echoes>
 <!-- 4e Techno Stuff -->
     <echo>
-      <id>7366698f-7526-40a2-bca8-f6b385345dea</id>
+      <id>a05395f3-d4a2-44a1-ae64-25d608e98b3b</id>
       <name>Mesh Reality</name>
       <source>4PR</source>
       <page>1</page>
@@ -42,7 +42,7 @@
 	  </required>
     </echo>
     <echo>
-      <id>59f602b0-242d-4124-a30f-47a99b42235d</id>
+      <id>bc77eb88-35a1-4c00-96f0-59e7e12a8a06</id>
       <name>Advanced Overclocking</name>
       <source>4PR</source>
       <page>1</page>
@@ -65,7 +65,7 @@
       </bonus>
     </echo>
 	<echo>
-	  <id>e98619b5-674a-4a08-89ae-09e47ce3674c</id>
+	  <id>fb26d0e2-ed3c-407e-964c-aa9140aa16bd</id>
 	  <name>Biowires</name>
 	  <bonus>
         <skillsoftaccess precedence="0">FixedValues(6)</skillsoftaccess>
@@ -75,21 +75,21 @@
 	  <page>1</page>
 	</echo>
 	<echo>
-	  <id>328aae14-e0f1-4cb2-9608-9a98fd290846</id>
+	  <id>766e9ad6-696b-455b-9d58-febe575ba34b</id>
 	  <name>E-Sensing</name>
 	  <source>4PR</source>
 	  <page>1</page>
 	  <notes>Provides Technosense (RES + SG)m range and a Rating (SG/2) Radar Sensor (CF 81)</notes>
 	</echo>
 	<echo>
-	  <id>48a8b85c-b58a-44a0-b7a9-7202e6f3ca90</id>
+	  <id>295ae52f-04a7-402f-a554-28a1857f8e03</id>
 	  <name>Multiprocessing</name>
 	  <source>4PR</source>
 	  <page>1</page>
 	  <notes>2 extra Free actions per pass, Observe in Detail is a Free Action</notes>
 	</echo>
 	<echo>
-	  <id>49d929fc-5784-43cd-8219-eac8f853d852</id>
+	  <id>ce45b1ca-5044-489e-b9d9-c943376704af</id>
 	  <name>Tactical Network</name>
 	  <bonus>
         <specificskill>
@@ -103,7 +103,7 @@
 	</echo>
 <!-- 6e Techno Stuff -->
 	<echo>
-	  <id>3d62563d-99cc-4708-8259-44e95cd13376</id>
+	  <id>0f7db4b4-3507-49c0-9459-d5e2fd18ecbe</id>
 	  <name>Symbiosis</name>
 	  <source>4PR</source>
 	  <page>1</page>

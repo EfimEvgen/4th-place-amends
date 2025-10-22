@@ -21,7 +21,7 @@
 	<qualities>
 		<quality>
 			<!-- Infected: Ghoul -->
-			<id>25b62a16-33e3-410d-a2e0-213c94a6e638</id>
+			<id>51843b5c-53b9-4323-a0ed-4e528f6dc865</id>
 			<name>Infected: Ghoul</name>
 			<karma>29</karma>
 			<category>Positive</category>
@@ -127,7 +127,7 @@
 		</quality>
 		<quality>
 			<!-- Infected Advanced Power: Bone Spikes -->
-			<id>1ccc988a-b0bc-43af-85e9-854192bf1370</id>
+			<id>6e224195-78ad-4b98-ab33-afae63ad75ff</id>
 			<name>Infected Advanced Power: Bone Spikes</name>
 			<karma>5</karma>
 			<category>Positive</category>
@@ -147,7 +147,7 @@
 		</quality>
 		<quality>
 			<!-- Infected Advanced Power: Corrosive Spit (Infected) -->
-			<id>f4274a62-38bb-4a28-8462-3c24d4d2be70</id>
+			<id>ae558c85-907c-4c5a-aa13-dfc7f6fc7946</id>
 			<name>Infected Advanced Power: Corrosive Spit (Infected)</name>
 			<karma>9</karma>
 			<category>Positive</category>
@@ -167,7 +167,7 @@
 		</quality>
 		<quality>
 			<!-- Infected Advanced Power: Gnashing Teeth -->
-			<id>e0304806-6657-46ae-95db-1883d486dd2e</id>
+			<id>1de6bf1d-1fc9-434d-b458-f2b5612c9fd1</id>
 			<name>Infected Advanced Power: Gnashing Teeth</name>
 			<karma>6</karma>
 			<category>Positive</category>
@@ -187,7 +187,7 @@
 		</quality>
 		<quality>
 			<!-- Infected Advanced Power: Rat King -->
-			<id>b1c43d79-6fcf-4757-be3b-b1f60928fc0a</id>
+			<id>fe890075-8187-40a6-a5ad-3236f0fd6890</id>
 			<name>Infected Advanced Power: Rat King</name>
 			<karma>12</karma>
 			<category>Positive</category>
@@ -207,7 +207,7 @@
 		</quality>
 		<quality>
 			<!-- Infected Advanced Power: Secretion/Substance Extrusion (Anti-Coagulant) -->
-			<id>9f5c88da-18be-416f-b719-c2b3fe66c74d</id>
+			<id>0333ecf1-614e-46d9-9710-dc351a6faf9f</id>
 			<name>Infected Advanced Power: Secretion/Substance Extrusion (Anti-Coagulant)</name>
 			<karma>9</karma>
 			<category>Positive</category>
@@ -227,7 +227,7 @@
 		</quality>
 		<quality>
 			<!-- Infected Advanced Power: Sonic Shriek -->
-			<id>f08cdcf5-09e8-42ba-aed8-00c91793f79d</id>
+			<id>8e1e7938-b6d4-45bd-b9de-96ab9842d808</id>
 			<name>Infected Advanced Power: Sonic Shriek</name>
 			<karma>9</karma>
 			<category>Positive</category>
@@ -247,7 +247,7 @@
 		</quality>
 		<quality>
 			<!-- Infected Advanced Power: Tunneling Claws -->
-			<id>d0df057d-f12c-48d7-97fe-dc4c3e546076</id>
+			<id>79077ec1-1a3b-482a-bd22-03ac5fc131f8</id>
 			<name>Infected Advanced Power: Tunneling Claws</name>
 			<karma>9</karma>
 			<category>Positive</category>
@@ -266,7 +266,7 @@
 			<page>136</page>
 		</quality>
 		<quality>
-			<id>8890e4ca-b88a-4ccd-9ee3-3e5a9597377f</id>
+			<id>2ac30d83-022b-45d1-af88-ca75d28a7e40</id>
 			<name>Infected Optional Power: Minor Regeneration</name>
 			<karma>3</karma>
 			<category>Positive</category>
@@ -297,7 +297,7 @@
 			<page>0</page>
 		</quality>
 		<quality>
-			<id>775a4180-4a3b-48a4-af49-3c1309c6f4f4</id>
+			<id>125c03c4-98c0-45a3-832a-2d107b4ba617</id>
 			<name>Infected Optional Power: Lesser Regeneration</name>
 			<karma>6</karma>
 			<category>Positive</category>

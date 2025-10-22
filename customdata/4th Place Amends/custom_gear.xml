@@ -26,7 +26,7 @@
 	<gears>
 		<!-- More Ammo Stuff -->
 		<gear>
-			<id>486FE4DD-2878-4D81-877E-20ACF6AB8E88</id>
+			<id>16fa6da3-c9b6-4d8c-9cdf-1a8f58d305f1</id>
 			<name>Ammo: Gyrojet</name>
 			<category>Ammunition</category>
 			<rating>0</rating>
@@ -38,7 +38,7 @@
 			<ammoforweapontype>gyrojet</ammoforweapontype>
 		</gear>
 		<gear>
-			<id>30F676EA-F51A-478B-95DB-B696BBE38A1B</id>
+			<id>0d1b2ab8-864b-4301-9fd9-3b473386c1d4</id>
 			<name>Ammo: Gyrojet Plus</name>
 			<category>Ammunition</category>
 			<rating>0</rating>
@@ -54,7 +54,7 @@
 			<ammoforweapontype>gyrojet</ammoforweapontype>
 		</gear>
 		<gear>
-			<id>46C34D63-CF93-44B1-8D7B-A4DC65EE5760</id>
+			<id>d10ac9d6-c2bf-49ad-8a8e-d07cebf4c198</id>
 			<name>Ammo: Gyrojet Tracker, Security Tag</name>
 			<category>Ammunition</category>
 			<rating>0</rating>
@@ -66,7 +66,7 @@
 			<ammoforweapontype>gyrojet</ammoforweapontype>
 		</gear>
 		<gear>
-			<id>1E2A4728-54CA-455D-87BE-18A31295BCE2</id>
+			<id>479dfaa7-101b-468c-b705-d20496aa8be0</id>
 			<name>Ammo: Gyrojet Tracker, Stealth Tag</name>
 			<category>Ammunition</category>
 			<rating>0</rating>
@@ -78,7 +78,7 @@
 			<ammoforweapontype>gyrojet</ammoforweapontype>
 		</gear>
 		<gear>
-			<id>87b2d671-cb70-4e55-99d3-25ab7aa01755</id>
+			<id>e8941c79-0bb7-4974-831a-3593b62e4f4f</id>
 			<name>Flametosser Fuel</name>
 			<category>Ammunition</category>
 			<rating>0</rating>
@@ -90,7 +90,7 @@
 			<ammoforweapontype>flame</ammoforweapontype>
 		</gear>
 		<gear>
-			<id>06272a4e-0583-4fcf-b0f3-61f5ce9922e7</id>
+			<id>49c2f7c6-1da4-4406-9ebf-04c0511ffc6f</id>
 			<name>Ammo: APDS (Assault Cannon)</name>
 			<category>Ammunition</category>
 			<rating>0</rating>
@@ -105,7 +105,7 @@
 			<ammoforweapontype>cannon</ammoforweapontype>
 		</gear>
 		<gear>
-			<id>fa04879f-61e7-4877-8ece-270d39581402</id>
+			<id>c47a90ff-5498-49f5-b631-3efca3ffebb2</id>
 			<name>Ammo: AV Rounds (Assault Cannon)</name>
 			<category>Ammunition</category>
 			<rating>0</rating>
@@ -120,7 +120,7 @@
 			<ammoforweapontype>cannon</ammoforweapontype>
 		</gear>
 		<gear>
-			<id>d03b32c8-1fd7-4c69-b9c5-bfe9f0bec50e</id>
+			<id>4908f62f-bb9c-4830-ae48-75c481173ae2</id>
 			<name>Ammo: Depleted Uranium (Assault Cannon)</name>
 			<category>Ammunition</category>
 			<rating>0</rating>
@@ -136,7 +136,7 @@
 			<ammoforweapontype>cannon</ammoforweapontype>
 		</gear>
 		<gear>
-			<id>92db9d04-c6ee-4018-8cea-00c15e851999</id>
+			<id>a65a4fbe-c1ed-4964-8341-1dd6271dbc9a</id>
 			<name>Ammo: Explosive Rounds (Assault Cannon)</name>
 			<category>Ammunition</category>
 			<rating>0</rating>
@@ -152,7 +152,7 @@
 			<ammoforweapontype>cannon</ammoforweapontype>
 		</gear>
 		<gear>
-			<id>78de8971-f021-4d46-9d77-95bec6c3b420</id>
+			<id>26dd31d0-bf54-42f9-90dd-e0b8c8c0a710</id>
 			<name>Ammo: EX-Explosive Rounds (Assault Cannon)</name>
 			<category>Ammunition</category>
 			<rating>0</rating>
@@ -168,7 +168,7 @@
 			<ammoforweapontype>cannon</ammoforweapontype>
 		</gear>
 		<gear>
-			<id>1b695904-6f3e-43cd-a8eb-de93a9af13e8</id>
+			<id>6f8cdf48-2b02-4d58-8c6a-83f88cefb8e5</id>
 			<name>Ammo: Krime Power Rounds (Assault Cannon)</name>
 			<category>Ammunition</category>
 			<rating>0</rating>
@@ -180,7 +180,7 @@
 			<ammoforweapontype>cannon</ammoforweapontype>
 		</gear>
 		<gear>
-			<id>a191dd66-b73f-4c27-a2ec-1e32b70f97f9</id>
+			<id>5a622cad-a8ec-4785-9ad6-5f8c58ef3812</id>
 			<name>Ammo: Railgun</name>
 			<category>Ammunition</category>
 			<rating>0</rating>
@@ -195,7 +195,7 @@
 			<ammoforweapontype noextra="True">magnetic</ammoforweapontype>
 		</gear>
 		<gear>
-			<id>1061d046-4ba4-40f8-a650-dd145cbcdcd2</id>
+			<id>c4a96a76-2a36-447e-9fca-f2514c677b7f</id>
 			<name>Ammo: High Powered Rounds</name>
 			<category>Ammunition</category>
 			<rating>0</rating>
@@ -208,7 +208,7 @@
 		</gear>
 		<!-- More Minigrenades -->
 		<gear>
-			<id>215f8266-ea78-48b6-b232-984b0d1975df</id>
+			<id>8e2e57cd-cfbb-4cc3-9d01-11e3edc0dbc1</id>
 			<name>Minigrenade: Paint</name>
 			<category>Ammunition</category>
 			<rating>0</rating>
@@ -219,7 +219,7 @@
 			<cost>100</cost>
 		</gear>
 		<gear>
-			<id>b2b95ff3-8444-4f84-85e3-70a546c115ca</id>
+			<id>757a2d48-decd-4919-9c39-2c0509d17c89</id>
 			<name>Minigrenade: Maker</name>
 			<category>Ammunition</category>
 			<rating>0</rating>
@@ -230,7 +230,7 @@
 			<cost>500</cost>
 		</gear>
 		<gear>
-			<id>0f5d45e1-c534-4e22-b7c3-8bed5604a45c</id>
+			<id>e1c014f5-9eb5-4306-84a4-cb4904c23395</id>
 			<name>Minigrenade: Maker, Aerodynamic</name>
 			<category>Ammunition</category>
 			<rating>0</rating>
@@ -241,7 +241,7 @@
 			<cost>500</cost>
 		</gear>
 		<gear>
-			<id>37b2af33-83d8-43cb-911f-309c6bafe696</id>
+			<id>40671c96-1e8b-41b0-8dfe-ff8459344b22</id>
 			<name>Minigrenade: Fuzzy Boom Boom Bunnies</name>
 			<category>Ammunition</category>
 			<rating>20</rating>
@@ -252,7 +252,7 @@
 			<ammoforweapontype noextra="True">glauncher</ammoforweapontype>
 		</gear>
 		<gear>
-			<id>181f2e81-75b2-489c-93b6-2f67e795ccf8</id>
+			<id>5749033a-8ada-450e-b044-87286c716788</id>
 			<name>Minigrenade: COS</name>
 			<category>Ammunition</category>
 			<rating>0</rating>
@@ -263,7 +263,7 @@
 			<ammoforweapontype noextra="True">glauncher</ammoforweapontype>
 		</gear>
 		<gear>
-			<id>76c518a5-dc88-4acc-adb5-9cd23a4c8589</id>
+			<id>d9443339-23d4-4320-9947-4119da1856db</id>
 			<name>Minigrenade: Douser</name>
 			<category>Ammunition</category>
 			<rating>10</rating>
@@ -274,7 +274,7 @@
 			<ammoforweapontype noextra="True">glauncher</ammoforweapontype>
 		</gear>
 		<gear>
-			<id>a6923a2e-eaf2-40b4-b310-55991975a2f7</id>
+			<id>8721f53e-aced-4bb9-8115-330a4bf108a6</id>
 			<name>Minigrenade: Krime Cleaner</name>
 			<category>Ammunition</category>
 			<rating>0</rating>
@@ -285,7 +285,7 @@
 			<ammoforweapontype noextra="True">glauncher</ammoforweapontype>
 		</gear>
 		<gear>
-			<id>c26a8aa2-dee4-4df4-96ac-87f3a063d661</id>
+			<id>e66ba35e-fad6-4144-aa5b-844366063a15</id>
 			<name>Minigrenade: Krime Party</name>
 			<category>Ammunition</category>
 			<rating>0</rating>
@@ -296,7 +296,7 @@
 			<ammoforweapontype noextra="True">glauncher</ammoforweapontype>
 		</gear>
 		<gear>
-			<id>56c6bcee-b6e9-4179-a160-34ce22334c76</id>
+			<id>fb63313c-1c36-4351-a57b-44e2e001114b</id>
 			<name>Minigrenade: Krime Cocktail</name>
 			<category>Ammunition</category>
 			<rating>0</rating>
@@ -307,7 +307,7 @@
 			<ammoforweapontype noextra="True">glauncher</ammoforweapontype>
 		</gear>
 		<gear>
-			<id>b8170563-8f74-47fc-b0f9-48a3c8c5a2b6</id>
+			<id>266f6ea5-9689-4709-a1f7-567a60ac6425</id>
 			<name>Minigrenade: Krime Stinger</name>
 			<category>Ammunition</category>
 			<rating>0</rating>
@@ -319,7 +319,7 @@
 		</gear>
 		<!-- Misc Gear -->
 		<gear>
-			<id>fe03bdeb-707a-49bf-8859-1b5fd8eb318a</id>
+			<id>c699d503-e181-4d51-b060-0f9cd9f0e735</id>
 			<name>Glass Cutter</name>
 			<category>Breaking and Entering Gear</category>
 			<rating>0</rating>
@@ -329,7 +329,7 @@
 			<cost>550</cost>
 		</gear>
 		<gear>
-			<id>ef3b3d01-cfc7-4a4a-ab71-5dbd984ce58b</id>
+			<id>b4a2078c-a126-41ee-ad95-0d3854274f9d</id>
 			<name>Urban Explorer Daedalus Wingsuit Jetpack</name>
 			<category>Survival Gear</category>
 			<rating>0</rating>
@@ -340,7 +340,7 @@
 			<notes>This pack fits under and around the Daedalus parachute. It consists of two kerosene rockets and an electronic firing mechanism. When activated as a simple action (free action if wireless), it offers the wingsuit user horizontal flight at a speed of 200 meters per Combat Turn for a total of up to three minutes (60 combat turns). It can only be used once and must then be discarded.</notes>
 		</gear>
 		<gear>
-			<id>a993adf2-b147-42bc-ae46-22612232b8e5</id>
+			<id>627cb05e-185b-4947-a293-34670f32302a</id>
 			<name>Bolt: Monotip Head</name>
 			<category>Ammunition</category>
 			<source>HT</source>
@@ -354,7 +354,7 @@
 			<ammoforweapontype>crossbow</ammoforweapontype>
 		</gear>
 		<gear>
-			<id>294de1d3-271b-40a2-bc65-6a7e90905807</id>
+			<id>cd835fef-7b09-4e3c-99b6-41c75f48ab1d</id>
 			<name>Vulcan Systems "Hotdrop" Rapid-Egress Jetpack System</name>
 			<category>Future Tech</category>
 			<rating>0</rating>
@@ -364,7 +364,7 @@
 			<cost>22000</cost>
 		</gear>
 		<gear>
-			<id>248e1fbb-eec2-46bd-b48c-b752af215be3</id>
+			<id>bdb763dc-b778-46ae-9907-9ab64d884463</id>
 			<name>Vulcan Systems "Hotdrop" Rapid-Egress Jetpack System Refuel</name>
 			<category>Future Tech</category>
 			<rating>0</rating>
@@ -374,7 +374,7 @@
 			<cost>250</cost>
 		</gear>
 		<gear>
-			<id>052aec6a-6457-4c82-9464-6898764b21fc</id>
+			<id>5d01283d-554d-4327-91fa-e5290daf6020</id>
 			<name>Ritual Formula</name>
 			<category>Formulae</category>
 			<rating>0</rating>
@@ -388,7 +388,7 @@
 			<allowrename>True</allowrename>
 		</gear>
 		<gear>
-			<id>356b60b0-7a50-4e8a-8b90-b536722c51bf</id>
+			<id>2892eac3-dda9-4d06-bbfc-fec597c7eab5</id>
 			<name>Sony 800AL Field PAB Unit</name>
 			<category>Programmable ASIST Biofeedback</category>
 			<rating>1</rating>
@@ -398,7 +398,7 @@
 			<cost>6000</cost>
 		</gear>
 		<gear>
-			<id>150d1751-cee9-43b8-afa1-fb96963b6244</id>
+			<id>68cda499-5421-4aa3-8dd6-0b45affb02a0</id>
 			<name>DocWagon Cleansweep</name>
 			<category>Programmable ASIST Biofeedback</category>
 			<rating>2</rating>
@@ -408,7 +408,7 @@
 			<cost>8000</cost>
 		</gear>
 		<gear>
-			<id>3ffd8601-ebb5-4eff-bd4f-0f9d2469419d</id>
+			<id>3313137a-9a3b-4d87-a3b4-2b80cb92a9fe</id>
 			<name>MCT MemEdit III Suite</name>
 			<category>Programmable ASIST Biofeedback</category>
 			<rating>3</rating>
@@ -418,7 +418,7 @@
 			<cost>10000</cost>
 		</gear>
 		<gear>
-			<id>82ad657d-fcf1-4941-a537-907d77765cf0</id>
+			<id>452e1e33-6450-467d-a1ee-c1236220132f</id>
 			<name>Interneurox G-Series Memory Master</name>
 			<category>Programmable ASIST Biofeedback</category>
 			<rating>4</rating>
@@ -428,7 +428,7 @@
 			<cost>13000</cost>
 		</gear>
 		<gear>
-			<id>ecd43372-be58-4af7-a8f8-5bc196898324</id>
+			<id>5e5153f1-3522-4002-85aa-b746f5e4a7c6</id>
 			<name>Transys-Neuronet MES Grand</name>
 			<category>Programmable ASIST Biofeedback</category>
 			<rating>5</rating>
@@ -438,7 +438,7 @@
 			<cost>16000</cost>
 		</gear>
 		<gear>
-			<id>29035f34-e614-4b0c-8ebb-6cfbb2d164e8</id>
+			<id>5c938870-8b12-4ed1-a519-9559e33a13bf</id>
 			<name>Renraku MR-X ASIST Reprogrammer</name>
 			<category>Programmable ASIST Biofeedback</category>
 			<rating>6</rating>
@@ -448,7 +448,7 @@
 			<cost>20000</cost>
 		</gear>
 		<gear>
-			<id>637017c2-eeb0-41eb-92a5-6b662fed3061</id>
+			<id>b82aadb4-a6e9-4d40-89e2-ad1a2372354f</id>
 			<name>All Common Programs</name>
 			<category>Common Programs</category>
 			<rating>0</rating>
@@ -500,7 +500,7 @@
 			</gears>
 		</gear>
 		<gear>
-			<id>e942a969-b776-4de6-b5f0-e2ed22c15353</id>
+			<id>b583f4a8-d31e-4d2c-8d4a-327e71b1c668</id>
 			<name>All Hacking Programs</name>
 			<category>Hacking Programs</category>
 			<rating>0</rating>
@@ -636,7 +636,7 @@
 			</gears>
 		</gear>
 		<gear>
-			<id>a2ebc7fd-1c86-4432-bbf4-f1ee8d5cdaa1</id>
+			<id>27ef42c9-65b0-4b87-a9b2-49373ec512e5</id>
 			<name>Deck Optimization: Firewall</name>
 			<!-- Category was arbitrarily chosen btw -->
 			<category>Electronic Modification</category>
@@ -665,7 +665,7 @@
 			</forbidden>
         </gear>
 		<gear>
-			<id>6a3a5374-4277-4d43-92ec-908ac9e93c0a</id>
+			<id>4ef3d858-ae27-448b-9d09-68046f11b5c1</id>
 			<name>Deck Optimization: Data Processing</name>
 			<!-- Category was arbitrarily chosen btw -->
 			<category>Electronic Modification</category>
@@ -694,7 +694,7 @@
 			</forbidden>
         </gear>
 		<gear>
-			<id>4bebac38-a795-47a5-8960-0acb8d68206e</id>
+			<id>cc7c5743-ec7d-4b5d-a850-f9e2783ed805</id>
 			<name>Deck Optimization: Attack</name>
 			<!-- Category was arbitrarily chosen btw -->
 			<category>Electronic Modification</category>
@@ -723,7 +723,7 @@
 			</forbidden>
         </gear>
 		<gear>
-			<id>a3470eb8-0d67-4628-9943-42cb8802233d</id>
+			<id>361a6288-9d7b-4b7c-be02-ae37c652e8d2</id>
 			<name>Deck Optimization: Sleaze</name>
 			<!-- Category was arbitrarily chosen btw -->
 			<category>Electronic Modification</category>
@@ -752,7 +752,7 @@
 			</forbidden>
         </gear>
 		<gear>
-			<id>962761a3-9a22-48b0-a20a-f5d72058023b</id>
+			<id>00ae0aad-084e-4afb-88e7-45cef384691b</id>
 			<name>Deck Optimization: Additional Cyberdeck Module</name>
 			<!-- Category was arbitrarily chosen btw -->
 			<category>Electronic Modification</category>
@@ -780,7 +780,7 @@
 			</forbidden>
         </gear>
 		<gear>
-			<id>ebfbbd63-0976-4cc3-b181-e52b7d35d1c3</id>
+			<id>ee4def93-bd71-4afe-b7f1-cb58ae35d869</id>
 			<name>Deck Optimization: Additional Program Slot</name>
 			<!-- Category was arbitrarily chosen btw -->
 			<category>Electronic Modification</category>
@@ -808,7 +808,7 @@
 			</forbidden>
         </gear>
 		<gear>
-			<id>4bcb0f79-fd56-440d-97ea-1c4fd163d67b</id>
+			<id>7edfc747-b39f-4945-a79e-f4374a1ec282</id>
 			<name>Deck Optimization: Noise Reduction</name>
 			<!-- Category was arbitrarily chosen btw -->
 			<category>Electronic Modification</category>
@@ -836,7 +836,7 @@
 			</forbidden>
         </gear>
 		<gear>
-			<id>b3038c84-80c5-4de7-8a38-b3112aec4355</id>
+			<id>a74d558c-03ee-4e2d-a00d-224fe37922ba</id>
 			<name>Fake Profession License</name>
 			<category>ID/Credsticks</category>
 			<rating>6</rating>
@@ -860,7 +860,7 @@
 			<allowrename>True</allowrename>
 		</gear>
 		<gear>
-			<id>7fdb0033-6237-43aa-854a-a6064ad062b1</id>
+			<id>15e37202-8002-42d3-8812-a063630a84f6</id>
 			<name>Fake Combat License</name>
 			<category>ID/Credsticks</category>
 			<rating>6</rating>
@@ -884,7 +884,7 @@
 			<allowrename>True</allowrename>
 		</gear>
 		<gear>
-			<id>055ac5af-8afa-412c-9b9b-d16392f886ad</id>
+			<id>54ea9975-c2c7-42d7-a0ab-0aa307357cbe</id>
 			<name>Fake Augmentation License</name>
 			<category>ID/Credsticks</category>
 			<rating>6</rating>
@@ -908,7 +908,7 @@
 			<allowrename>True</allowrename>
 		</gear>
 		<gear>
-			<id>f14561fe-e0a1-4d72-810f-1eaf89a75d5f</id>
+			<id>2758e699-fb4a-42f6-9618-9453042f40be</id>
 			<name>Fake Forbidden Permit</name>
 			<category>ID/Credsticks</category>
 			<rating>6</rating>
@@ -922,7 +922,7 @@
 			<allowrename>True</allowrename>
 		</gear>
 		<gear>
-			<id>91c14f4d-426d-4107-8d75-ba3e614cbe27</id>
+			<id>663db5b6-7127-4bfb-bae3-d1a428ff6060</id>
 			<name>Magnetic Deflection Array</name>
 			<category>Survival Gear</category>
 			<source>LCD</source>
@@ -931,7 +931,7 @@
 			<cost>100000</cost>
 		</gear>
 		<gear>
-			<id>f94a8980-d225-45e9-a1c2-417818edb4c1</id>
+			<id>e2a03e1d-cc3b-4900-b705-92569d8a93b2</id>
 			<name>Ruger Lawbringer (Commlink)</name>
 			<category>Commlinks</category>
 			<rating>0</rating>
@@ -953,7 +953,7 @@
 			</gears>
 		</gear>
 		<gear>
-			<id>da608ed8-00e6-4b68-9823-255dbccae614</id>
+			<id>03864845-6170-434f-b6a2-690d0aeeb5a2</id>
 			<name>Black Tide</name>
 			<category>Drugs</category>
 			<addoncategory>Drug Grades</addoncategory>
@@ -966,7 +966,7 @@
 			<notes>Addiction Rating 11, Threshold 4 (Both), Injection Vector. +1 BOD/AGI/WIL, +2d6 Init, High Pain Tolerance 3 for duration.</notes>
 		</gear>
 		<gear>
-			<id>bcbc9cf5-2a0c-40b0-b9b1-115e21eb2567</id>
+			<id>0f8fae53-5bce-4102-a362-6f88735c8647</id>
 			<name>Eel</name>
 			<category>Drugs</category>
 			<addoncategory>Drug Grades</addoncategory>
@@ -980,7 +980,7 @@
 			<notes>Addiction Rating 11, Threshold 3 (Both), Injection + Inhalation Vector. -3 STR, +4 REA, +3 INT, +1 WIL for duration.</notes>
 		</gear>
 		<gear>
-			<id>62c438ba-f738-4f63-87f5-7f45011a1eb2</id>
+			<id>ef2a767f-1616-4723-aca7-12618bc7e76b</id>
 			<name>Eel</name>
 			<category>Drugs</category>
 			<addoncategory>Drug Grades</addoncategory>
@@ -994,7 +994,7 @@
 			<notes>Addiction Rating 11, Threshold 3 (Both), Injection + Inhalation Vector. -3 STR, +4 REA, +3 INT, +1 WIL for duration.</notes>
 		</gear>
 		<gear>
-			<id>610ecd42-a8f7-4532-bca6-89bd01ce83eb</id>
+			<id>30b25115-7817-4d05-b4bd-730a259764b5</id>
 			<name>Grey's Resistor</name>
 			<category>Drugs</category>
 			<addoncategory>Drug Grades</addoncategory>
@@ -1007,7 +1007,7 @@
 			<notes>Addiction Rating 8, Threshold 2 (Both), Injection Vector. Magic Resistance 4 for duration.</notes>
 		</gear>
 		<gear>
-			<id>36f6d56b-4351-4ad9-ad6f-8d93f7db9adf</id>
+			<id>47ab32bb-b9bf-4b99-a21f-36a647e44975</id>
 			<name>Manaproof IPA</name>
 			<category>Drugs</category>
 			<addoncategory>Drug Grades</addoncategory>
@@ -1020,7 +1020,7 @@
 			<notes>Addiction Rating 8, Threshold 2 (Psychological), Ingestion Vector. -1 REA, -1 LOG, gains a 4d spell defense pool.</notes>
 		</gear>
 		<gear>
-			<id>1765fe1a-6444-477f-aae0-c301f146c2d5</id>
+			<id>300b00e6-51cb-425f-85e6-27679717557e</id>
 			<name>Spell Stripper</name>
 			<category>Toxins</category>
 			<rating>0</rating>
@@ -1032,7 +1032,7 @@
 			<notes>Power 11. Inhalation + Injection. Unresisted Power is treated as hits on dispelling and banishing against the target.</notes>
 		</gear>
 		<gear>
-			<id>14964a6d-5ced-4542-a38b-dfecec3f2c77</id>
+			<id>58752079-da01-4ebb-b438-5facd4522a48</id>
 			<name>Voidburst</name>
 			<category>Toxins</category>
 			<rating>0</rating>
@@ -1044,7 +1044,7 @@
 			<notes>Power 11. Inhalation + Injection. Unresisted Power is added to Drain (no more than double drain).</notes>
 		</gear>
 		<gear>
-			<id>7ba5b001-a952-4f05-9e8f-3613f3c7223b</id>
+			<id>32c56e1e-7395-40f3-9fb8-b51593ee0fa7</id>
 			<name>God Chip BTL</name>
 			<category>BTLs</category>
 			<rating>0</rating>
@@ -1055,7 +1055,7 @@
 			<notes>+1 to all physical attributes, -2 WIL.</notes>
 		</gear>
 		<gear>
-			<id>d374f9f8-4f90-4256-a532-37295d0d2a39</id>
+			<id>a1d06d92-2431-4a81-aa5d-ce2ca6b57f07</id>
 			<name>Vulcan BTL</name>
 			<category>BTLs</category>
 			<rating>0</rating>

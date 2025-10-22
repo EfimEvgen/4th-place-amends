@@ -20,7 +20,7 @@
 <chummer>
 	<vehicles>
 		<vehicle>
-			<id>116f6efe-2bb0-4fd4-80de-c25d6fa721bd</id>
+			<id>6bd505e1-f6c1-4f7e-8eaf-505df646a23b</id>
 			<name>BMW M8</name>
 			<page>1</page>
 			<source>4PR</source>
@@ -44,7 +44,7 @@
 			<seats>4</seats>
 		</vehicle>
 		<vehicle>
-			<id>1a50c08f-6c44-4e2d-b15c-457cc98f10b9</id>
+			<id>0704c268-fb51-4bc9-b59b-f508a47cd4c1</id>
 			<name>Mercury Cruiser</name>
 			<page>1</page>
 			<source>4PR</source>
@@ -68,7 +68,7 @@
 			<seats>5</seats>
 		</vehicle>
 		<vehicle>
-			<id>1eb827c6-cda1-40fe-b855-8a1f41a34700</id>
+			<id>67294a2d-2c43-4594-9ca9-3d9fece2ba23</id>
 			<name>Mercedes-Benz CityMog</name>
 			<page>1</page>
 			<source>4PR</source>
@@ -92,7 +92,7 @@
 			<seats>3</seats>
 		</vehicle>
 		<vehicle>
-			<id>122a3919-dc05-4d8d-89b3-fa0ac9e1d669</id>
+			<id>35a86b38-f481-4add-8c4a-3f001dbcf501</id>
 			<name>Mercedes-Benz CityMog CM-X (Pickup)</name>
 			<page>1</page>
 			<source>4PR</source>
@@ -116,7 +116,7 @@
 			<seats>5</seats>
 		</vehicle>
 		<vehicle>
-			<id>e0a63cca-ce9b-4b1b-b88b-1d496c37e82d</id>
+			<id>a2146995-9356-4cff-b04c-f40eecfb2b70</id>
 			<name>Mercedes-Benz CityMog Traveler</name>
 			<page>1</page>
 			<source>4PR</source>
@@ -143,7 +143,7 @@
 			<seats>20</seats>
 		</vehicle>
 		<vehicle>
-			<id>04b54f68-d1df-42f7-a03e-0bc465e42024</id>
+			<id>5a996dd4-7ef4-4fa2-9955-9b37f066a8ba</id>
 			<name>Mercedes-Benz CityMog Elite</name>
 			<page>1</page>
 			<source>4PR</source>
@@ -170,7 +170,7 @@
 			<seats>12</seats>
 		</vehicle>
 		<vehicle>
-			<id>b52811c6-03d4-4dee-8a2e-04ea043b79e8</id>
+			<id>87adc68b-08c3-4b00-bf2b-968ad538ac69</id>
 			<name>Volkswagen Multicity</name>
 			<page>1</page>
 			<source>4PR</source>
@@ -194,7 +194,7 @@
 			<seats>3</seats>
 		</vehicle>
 		<vehicle>
-			<id>8abe349d-d687-45a0-a1c9-d6189e4eac39</id>
+			<id>1db7288d-d16e-4070-a72e-1fdbc0bd3d7a</id>
 			<name>Volkswagen Urban Explorer</name>
 			<page>1</page>
 			<source>4PR</source>
@@ -222,7 +222,7 @@
 			<seats>4</seats>
 		</vehicle>
 		<vehicle>
-			<id>9b5cf9b8-c3ce-4853-91c7-215a73ad4ed2</id>
+			<id>285838a5-dcc8-4860-a6f2-2e738a57b6b0</id>
 			<name>Volkswagen Urban Transporter</name>
 			<page>1</page>
 			<source>4PR</source>
@@ -246,7 +246,7 @@
 			<seats>2</seats>
 		</vehicle>
 		<vehicle>
-			<id>61c57dad-8683-464e-92e1-3ad57776365e</id>
+			<id>e4e42033-18ba-42bc-8be1-d5e1fca8b3bb</id>
 			<name>Volkswagen Urban Traveler</name>
 			<page>1</page>
 			<source>4PR</source>
@@ -270,7 +270,7 @@
 			<seats>9</seats>
 		</vehicle>
 		<vehicle>
-			<id>1581a0b7-d198-46ba-bf68-88871554fcf1</id>
+			<id>02085635-57cb-4233-bcbe-7416390cc874</id>
 			<name>Volkswagen Urban Watcher</name>
 			<page>1</page>
 			<source>4PR</source>
@@ -301,7 +301,7 @@
 			<seats>4</seats>
 		</vehicle>
 		<vehicle>
-			<id>98dc1868-0c72-468a-bf82-a87dbbcd0002</id>
+			<id>c7b89502-0d5e-4f84-8df3-1e9b2f3ba33c</id>
 			<name>Dodge Hurricane</name>
 			<page>1</page>
 			<source>4PR</source>
@@ -325,7 +325,7 @@
 			<seats>3</seats>
 		</vehicle>
 		<vehicle>
-			<id>31a6d5b8-025e-4391-b302-ff4ae38ae196</id>
+			<id>e4ac3c5b-4895-49dc-80dd-bbdadc2d7474</id>
 			<name>Dodge Hurricane Crew Model</name>
 			<page>1</page>
 			<source>4PR</source>
@@ -349,7 +349,7 @@
 			<seats>6</seats>
 		</vehicle>
 		<vehicle>
-			<id>6a8c2884-7ca3-4070-a87f-5aff00b852f8</id>
+			<id>bee4ac2b-b640-4626-9756-9125bd3b9c53</id>
 			<name>Dodge Hurricane Security Model</name>
 			<page>1</page>
 			<source>4PR</source>
@@ -373,7 +373,7 @@
 			<seats>5</seats>
 		</vehicle>
 		<vehicle>
-			<id>349e9cdf-fa51-4da1-87ee-2ecd535fd019</id>
+			<id>9e68a12e-7ffa-459c-b82c-e1959ad79e5b</id>
 			<name>BMW X Infinity</name>
 			<page>1</page>
 			<source>4PR</source>
@@ -397,7 +397,7 @@
 			<seats>6</seats>
 		</vehicle>
 		<vehicle>
-			<id>ae157cb7-0bfa-418f-92fe-d0dce4d77c1c</id>
+			<id>b837d216-37a2-4140-8b13-26078d015d00</id>
 			<name>Ares Shadowdancer Armor</name>
 			<page>1</page>
 			<source>4PR</source>
@@ -430,7 +430,7 @@
 			<notes>The Shadowdancer's Drone Arms have Agility 8 and Strength 9.</notes>
 		</vehicle>
 		<vehicle>
-			<id>35b350af-f7b0-4935-919f-eb5d485dcb05</id>
+			<id>355071ef-2726-4bcf-aac3-ae6f7a132938</id>
 			<name>Crotch Rocker</name>
 			<page>62</page>
 			<source>SL</source>
@@ -457,7 +457,7 @@
 </notes>
 		</vehicle>
 		<vehicle>
-			<id>76ff1cd5-7a19-4645-bf52-56282b66972d</id>
+			<id>55250d67-8409-4737-8d1a-129a87c01b89</id>
 			<name>CV-9 "Devil Rat APC</name>
 			<source>4PR</source>
 			<page>1</page>
@@ -496,7 +496,7 @@
 			<seats>12</seats>
 		</vehicle>
 		<vehicle>
-			<id>e2f6e155-62f1-4b1a-894d-243c429be911</id>
+			<id>64bc748f-e440-4f08-88ff-1d07a3b6a30e</id>
 			<name>Evo Nightwing (Small Drone)</name>
 			<page>1</page>
 			<source>4PR</source>
@@ -525,7 +525,7 @@
 			</mods>
 		</vehicle>
 		<vehicle>
-			<id>859fbbbb-efa5-48a4-a537-25704955406f</id>
+			<id>69bbb768-210d-4d91-a8dc-11e9bf9b7463</id>
 			<name>Renraku Kitsune (Medium Drone)</name>
 			<page>1</page>
 			<source>4PR</source>
@@ -590,10 +590,80 @@
 				</weapon>
 			</weapons>
 		</vehicle>
+		<vehicle>
+      <id>7618b065-e211-4eef-8aad-21e9697d624d</id>
+      <name>RRR-Eyes Sting</name>
+      <page>466</page>
+      <source>SR5</source>
+      <accel>2</accel>
+      <armor>0</armor>
+      <avail>16F</avail>
+      <body>1</body>
+      <category>Drones: Mini</category>
+      <cost>3500</cost>
+      <handling>3</handling>
+      <pilot>3</pilot>
+      <sensor>2</sensor>
+      <speed>2</speed>
+      <gears>
+        <gear>
+          <name>Sensor Array</name>
+          <rating>2</rating>
+          <maxrating>2</maxrating>
+          <gear rating="3" select="Injector Pen">[Weapon] Targeting Autosoft</gear>
+        </gear>
+      </gears>
+      <mods>
+        <name rating="2">Realistic Features</name>
+        <name>Rigger Interface</name>
+        <name>Chameleon Coating</name>
+        <name rating="2">Signature Masking</name>
+      </mods>
+       <weaponmounts>
+        <weaponmount>
+          <control>Remote</control>
+          <flexibility>Fixed</flexibility>
+          <size>Mini (Drone)</size>
+          <visibility>External</visibility>
+          <allowedweapons>Injector Pen</allowedweapons>
+        </weaponmount>
+      </weaponmounts>
+      <weapons>
+        <weapon>
+          <name>Injector Pen</name>
+        </weapon>
+      </weapons>
+    </vehicle>
+    <vehicle>
+      <id>16d4e660-7014-434e-a437-08bc869c6200</id>
+      <name>Aztechnology Crawler (Small)</name>
+      <page>466</page>
+      <source>SR5</source>
+      <accel>1</accel>
+      <armor>3</armor>
+      <avail>4</avail>
+      <body>3</body>
+      <category>Drones: Small</category>
+      <cost>4000</cost>
+      <handling>4</handling>
+      <pilot>4</pilot>
+      <sensor>3</sensor>
+      <speed>3</speed>
+      <gears>
+        <gear>
+          <name>Sensor Array</name>
+          <rating>3</rating>
+          <maxrating>3</maxrating>
+        </gear>
+      </gears>
+      <mods>
+        <name>Rigger Interface</name>
+      </mods>
+    </vehicle>
 	</vehicles>
 	<mods>
 		<mod>
-			<id>3433b962-0ed6-49e9-9807-0a160642ae91</id>
+			<id>f78d7330-a71d-4aa2-bea9-e741ed5561e9</id>
 			<name>Ejection seat</name>
 			<page>1</page>
 			<source>4PR</source>
@@ -621,7 +691,7 @@
 			</required>
 		</mod>
 		<mod>
-			<id>1644ac56-c6fa-4cf1-aede-90738f84814a</id>
+			<id>6e0c3052-86d9-42a3-a14e-498d4713b863</id>
 			<name>Secondary Propulsion (Vector Thrust, LAV)</name>
 			<page>1</page>
 			<source>4PR</source>
@@ -632,7 +702,7 @@
 			<slots>10</slots>
 		</mod>
 		<mod>
-			<id>a4191237-f6a8-403a-b87b-9e5e40b0aea3</id>
+			<id>8bf5c081-2005-4602-8c29-d7210e5c54fb</id>
 			<name>Secondary Propulsion (Wheeled)</name>
 			<page>1</page>
 			<source>4PR</source>
@@ -643,7 +713,7 @@
 			<slots>4</slots>
 		</mod>
 		<mod>
-			<id>b99a30cc-cb91-4907-a033-cdfc08fde36a</id>
+			<id>27ba042f-b3da-4426-9725-e27c77f46bd0</id>
 			<name>Secondary Propulsion (Winged)</name>
 			<page>1</page>
 			<source>4PR</source>
@@ -654,7 +724,7 @@
 			<slots>8</slots>
 		</mod>
 		<mod>
-			<id>cadc77d6-576c-435b-b710-979bd56be556</id>
+			<id>cb1fbeaa-78a7-4be0-8e3c-773057ea2b85</id>
 			<name>Secondary Propulsion (Gravdrive)</name>
 			<page>1</page>
 			<source>4PR</source>
@@ -665,7 +735,7 @@
 			<slots>8</slots>
 		</mod>
 		<mod>
-			<id>8a2f9e41-1eb7-48a0-a154-519803bb85c8</id>
+			<id>beacb326-e9ea-4231-91f1-0308d8d32bba</id>
 			<name>Engine Replacement (Gravdrive)</name>
 			<page>1</page>
 			<source>4PR</source>
@@ -684,7 +754,7 @@
 			</required>
 		</mod>
 		<mod>
-			<id>ff8d6e0a-4035-45f9-9eb7-137848749763</id>
+			<id>2f1c7335-c2a0-4b62-89bc-da436b269729</id>
 			<name>Self Built (It just has to fit)</name>
 			<page>1</page>
 			<source>4PR</source>
@@ -700,7 +770,7 @@
 			</required>
 		</mod>
 		<mod>
-			<id>32bad502-5454-47d5-a233-e557fb7c6622</id>
+			<id>820dd8f6-3718-4328-a8ab-65db0894e54c</id>
 			<name>It Just Has To Fit Discount</name>
 			<page>1</page>
 			<source>4PR</source>
