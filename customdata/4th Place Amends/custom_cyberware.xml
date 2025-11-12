@@ -32,7 +32,7 @@
       		<capacity>0</capacity>
       		<avail>0</avail>
       		<cost>0</cost>
-      		<source>DM</source>
+      		<source>4PR</source>
       		<page>0</page>
       		<bonus>
         		<armor>Rating</armor>
@@ -440,7 +440,8 @@
 			<id>fed98406-b2ff-42d2-a03a-acb870482dbe</id>
 			<name>ECM Integration</name>
 			<category>Codemods</category>
-			<ess>0.1</ess>
+			<rating>6</rating>
+			<ess>Rating * 0.1</ess>
 			<avail>4F</avail>
 			<cost>2500</cost>
 			<source>4PR</source>
