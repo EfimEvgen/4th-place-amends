@@ -20,6 +20,52 @@
 <chummer>
   <accessories>
     <accessory>
+      <id>e854797c-52fc-4e87-a4a9-8458709dae7c</id>
+      <name>Raijin Rapid Release Sheath™</name>
+      <mount />
+      <avail>14F</avail>
+      <cost>10000</cost>
+      <source>4PR</source>
+      <page>1</page>
+      <rating>0</rating>
+      <required>
+        <weapondetails>
+          <OR>
+           <category>Blades</category>
+           <name>Katana</name>
+           <name>Ares 'One' Monosword</name>
+           <name>Horizon-Flynn Rapier</name>
+           <name>Katzbalger</name>
+           <name>Cougar Fineblade: Long</name>
+           <name>Renraku Red Samurai Katana</name>
+           <name>Sabre</name>
+           <name>Sword</name>
+           <name>Vibro Sword</name>
+           <name>Victorinox Memory Blade: Sword</name>
+           <name>Knife</name>
+           <name>Combat Knife</name>
+           <name>Lapel Dagger</name>
+           <name>Cougar Fineblade: Short</name>
+           <name>Ceramic/Plasteel Knife</name>
+           <name>Horizon-Flynn Defense-Com Commlink Knife</name>
+           <name>Krime Shiv</name>
+           <name>Onotari-Arms Silent Claw Stiletto</name>
+           <name>Sapphire Knife</name>
+           <name>Survival Knife</name>
+           <name>Vibro Knife</name>
+           <name>Victorinox Memory Blade: Dagger</name>
+          </OR>
+        </weapondetails>
+      </required>
+      <notes>
+        The Raijin Rapid Release Sheath™ is brought to you by the brilliant engineers at Renraku. The sheath makes use of an internal battery pack to allow for quite the explosive draw of your blade. Guaranteed to remove limbs, and defeat foes through sheer Shock and Awe. Though they are a bit difficult to use, requiring some training on how to draw a blade at incredible speeds, they offer an incredible burst of damage and penetration for a strike used after the draw.
+
+        It requires a Quick Draw action to use, and requires the user to make a Reaction + Blades (4) test, in addition to knowing either the Iaijutsu martial art or having the Rapid Draw adept power to accomplish this. A failure on this roll will cause the user to have to chase their blade as it launches 10 meters in the direction they were facing. A critical glitch requires the user to soak damage equal to their weapon's damage +5 and AP value.
+
+        Success on this roll will increase their damage and Armor Penetration for this immediate strike by 2 and -2 respectively. The sheath only has enough power for 1 use, after which it requires a charge time of 30 seconds through wireless induction. This may only be used with blades that can be reasonably wielded with 1 hand, such as the Katana or Monosword, and may be used with two weapons at the same time assuming you have two sheathes.
+      </notes>
+    </accessory>
+    <accessory>
       <id>20e8192b-b4f0-49a3-b1f5-68675fd608af</id>
       <name>Underbarrel Carbine</name>
       <mount>Under</mount>

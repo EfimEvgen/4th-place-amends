@@ -507,6 +507,18 @@
 			<useskill>Blades</useskill>
 		</weapon>
 		<weapon>
+			<name>Walther Battle Sword</name>
+			<conceal>10</conceal>
+		</weapon>
+		<weapon>
+			<name>Katzbalger</name>
+			<conceal>2</conceal>
+		</weapon>
+		<weapon>
+			<name>Sabre</name>
+			<conceal>6</conceal>
+		</weapon>
+		<weapon>
 			<!-- melee chakram -->
 			<id>dc18811b-eb07-43d8-8d95-d5c468f048f4</id>
 			<useskill>Blades</useskill>
@@ -524,6 +536,18 @@
 			<conceal amendoperation="replace">+10</conceal>
 		</weapon>
 		<!--  Clubs -->
+		<weapon>
+			<name>Rheinmetall Wrecking Ball</name>
+			<conceal>10</conceal>
+		</weapon>
+		<weapon>
+			<name>Entrenching Tool of the German Army</name>
+			<conceal>4</conceal>
+		</weapon>
+		<weapon>
+			<name>Rheinmetall Cleaner (Telescoping Halberd)</name>
+			<conceal>10</conceal>
+		</weapon>
 		<weapon>
 			<name>Ballistic Shield</name>
 			<useskill>Clubs</useskill>
