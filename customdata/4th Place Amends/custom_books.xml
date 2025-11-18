@@ -20,17 +20,17 @@
 <chummer xmlns="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema books.xsd">
     <books>
         <book>
-            <id>ce42600b-e8eb-4c79-addc-8ab956ce8264</id>
+            <id>301b9e95-fecf-4e75-a6ee-263eb31411d4</id>
             <name>4e Rules Import</name>
             <code>4e</code>
         </book>
         <book>
-            <id>41003dba-fe3d-4c7c-a1ba-d247a6dc2bef</id>
+            <id>c698ce56-33e2-4eb8-b94c-453b46a67151</id>
             <name>6e Rules Import</name>
             <code>6e</code>
         </book>
         <book>
-            <id>10b8f266-c55f-48ea-8a0e-6e5cd94e18c5</id>
+            <id>ca8b2296-d207-4e86-b615-b1d3903c585d</id>
             <name>Fourth Place Rules Document</name>
             <code>4PR</code>
         </book>

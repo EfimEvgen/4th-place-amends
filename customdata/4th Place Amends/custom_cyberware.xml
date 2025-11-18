@@ -24,7 +24,7 @@
 	</categories>
 	<cyberwares>
 		<cyberware>
-			<id>230e61d4-c6a1-4da1-a68b-be0fd55c7422</id>
+			<id>70209a70-7cdb-4981-94cd-0015c2ee3308</id>
       		<name>Hard Skin Mastery Armor</name>
      		<limit>False</limit>
       		<category>Bodyware</category>
@@ -45,7 +45,7 @@
             </required>
 		</cyberware>
 		<cyberware>
-			<id>4148eaa1-0e94-49a9-b843-136c366ff5b8</id>
+			<id>95903737-067c-44d0-84fc-e4d5734b3614</id>
 			<name>One-Shot Dartgun</name>
 			<rating>False</rating>
 			<category>Cyber Implant Weapon</category>
@@ -62,7 +62,7 @@
 		</cyberware>
 		<!-- AI bullshit -->
 		<cyberware>
-			<id>29f22110-d41d-4d0a-88b5-c98d6617f757</id>
+			<id>0f6e3e19-57da-44e0-9946-3bdf0cc91c7e</id>
 			<name>Attribute Augmentation (Wilpower)</name>
 			<rating>4</rating>
 			<category>Codemods</category>
@@ -84,7 +84,7 @@
 			</bonus>
 		</cyberware>
 		<cyberware>
-			<id>107a034c-4116-492b-8bde-dbc206754fe8</id>
+			<id>2a1ac371-20f3-4a2c-9209-17cd8d805028</id>
 			<name>Attribute Augmentation (Charisma)</name>
 			<rating>4</rating>
 			<category>Codemods</category>
@@ -106,7 +106,7 @@
 			</bonus>
 		</cyberware>
 		<cyberware>
-			<id>8a966046-52ed-4ca8-bec3-df43cac6dde2</id>
+			<id>e2083363-193f-43e5-917c-149b71759669</id>
 			<name>Attribute Augmentation (Intuition)</name>
 			<rating>4</rating>
 			<category>Codemods</category>
@@ -128,7 +128,7 @@
 			</bonus>
 		</cyberware>
 		<cyberware>
-			<id>0b191790-5aeb-40bf-a8ba-7875734f5aaa</id>
+			<id>bbed7808-2d3b-4e62-a828-545be9fa4315</id>
 			<name>Attribute Augmentation (Logic)</name>
 			<rating>4</rating>
 			<category>Codemods</category>
@@ -150,7 +150,7 @@
 			</bonus>
 		</cyberware>
 		<cyberware>
-			<id>f4f18fb7-1301-4e32-b0bf-4116cf48396c</id>
+			<id>8a20c421-d621-4199-b55e-2df82f53c6f7</id>
 			<name>Attack Augmentation</name>
 			<rating>4</rating>
 			<category>Codemods</category>
@@ -172,7 +172,7 @@
 			</bonus>
 		</cyberware>
 		<cyberware>
-			<id>3caadbc0-3c89-410d-9dbe-54a12acd783c</id>
+			<id>67c93a65-1d2a-4fb0-a5d0-628f1d869395</id>
 			<name>Sleaze Augmentation</name>
 			<rating>4</rating>
 			<category>Codemods</category>
@@ -194,7 +194,7 @@
 			</bonus>
 		</cyberware>
 		<cyberware>
-			<id>bee0f8d8-4079-4bb5-bc65-6bbda41d0ff8</id>
+			<id>f2df2c9b-4006-4f8c-ab49-996f86a63250</id>
 			<name>Data Processing Augmentation</name>
 			<rating>4</rating>
 			<category>Codemods</category>
@@ -216,7 +216,7 @@
 			</bonus>
 		</cyberware>
 		<cyberware>
-			<id>058bda61-c7bd-456e-ba98-d3d6e8adf17e</id>
+			<id>5cbdb30f-3fda-4eca-9844-2a794917fa8b</id>
 			<name>Firewall Augmentation</name>
 			<rating>4</rating>
 			<category>Codemods</category>
@@ -238,7 +238,7 @@
 			</bonus>
 		</cyberware>
 		<cyberware>
-			<id>179f1601-95e7-4f4c-a21d-3f5edbb5604a</id>
+			<id>c3957dfe-b115-45a0-8170-4520c19dce6d</id>
 			<name>Quantum Processor</name>
 			<rating>4</rating>
 			<category>Codemods</category>
@@ -258,7 +258,7 @@
 			</bonus>
 		</cyberware>
 		<cyberware>
-			<id>9a6ef10e-373b-49c1-9024-e18207a2f12b</id>
+			<id>4113de8f-e526-4aa6-a5e8-6ad5bf9a5b1f</id>
 			<name>Core Code Redundancy</name>
 			<rating>4</rating>
 			<category>Codemods</category>
@@ -279,7 +279,7 @@
 			</bonus>
 		</cyberware>
 		<cyberware>
-			<id>fa59d0ca-6f6f-497b-b37d-b4b8dfa2e04b</id>
+			<id>03f87452-c5c8-433c-b68c-30938fdc65e1</id>
 			<name>Core Code Shielding</name>
 			<rating>6</rating>
 			<category>Codemods</category>
@@ -295,7 +295,7 @@
 			</required>
 		</cyberware>
 		<cyberware>
-			<id>49986a0d-5be9-4f29-936a-8087e9d5b06e</id>
+			<id>28a34097-5866-49d8-92bc-5cb3ba1cdf9a</id>
 			<name>Damage Mitigation Protocols</name>
 			<rating>6</rating>
 			<category>Codemods</category>
@@ -311,7 +311,7 @@
 			</required>
 		</cyberware>
 		<cyberware>
-			<id>2057ff73-492d-4ce2-b52e-e3ec0ccd3e37</id>
+			<id>a7645663-4a4e-4991-ad96-6d2609ce6d6b</id>
 			<name>Damage Response Overrides</name>
 			<rating>12</rating>
 			<category>Codemods</category>
@@ -332,7 +332,7 @@
 			</required>
 		</cyberware>
 		<cyberware>
-			<id>0ecb955e-9e55-49d1-b8fd-bc8cf72c1385</id>
+			<id>1dd91a52-1c46-4a6f-a33b-f2dee52e5470</id>
 			<name>RCC Emulator</name>
 			<rating>8</rating>
 			<category>Codemods</category>
@@ -348,7 +348,7 @@
 			</required>
 		</cyberware>
 		<cyberware>
-			<id>1d650653-550f-4dea-b43b-c60726ad1015</id>
+			<id>e843bbc0-0e95-438d-a304-3e0e41feb94b</id>
 			<name>Sideload Processor</name>
 			<rating>12</rating>
 			<category>Codemods</category>
@@ -364,7 +364,7 @@
 			</required>
 		</cyberware>
 		<cyberware>
-			<id>221469e7-70b1-4e25-998a-a8308b30808d</id>
+			<id>592ecc4e-bd90-46e6-b3e7-c9f95355fa00</id>
 			<name>Synthetic Skill Driver: Activesoft</name>
 			<rating>6</rating>
 			<category>Codemods</category>
@@ -384,7 +384,7 @@
 			</required>
 		</cyberware>
 		<cyberware>
-			<id>dc7c8afc-9378-4cca-b20a-bee76c56ae69</id>
+			<id>70ad2872-89d3-4532-8f4b-8da658142b8e</id>
 			<name>Synthetic Skill Driver: Knowsoft</name>
 			<category>Codemods</category>
 			<ess>0.1</ess>
@@ -402,7 +402,7 @@
 			</required>
 		</cyberware>
 		<cyberware>
-			<id>da29f8c5-29ff-489e-b3f4-80378c89e517</id>
+			<id>b2966588-ff79-43c8-bcdf-d61157e0dd14</id>
 			<name>Synthetic Skill Driver: Linguasoft </name>
 			<rating>6</rating>
 			<category>Codemods</category>
@@ -421,7 +421,7 @@
 			</required>
 		</cyberware>
 		<cyberware>
-			<id>1e6a7ae1-0287-48cf-ac0d-de1519780ade</id>
+			<id>00be17a8-1744-40f0-9132-899baa6b6adc</id>
 			<name>Active Signal Filter</name>
 			<rating>6</rating>
 			<category>Codemods</category>
@@ -437,7 +437,7 @@
 			</required>
 		</cyberware>
 		<cyberware>
-			<id>fed98406-b2ff-42d2-a03a-acb870482dbe</id>
+			<id>6324870c-de32-4ace-adf1-d73038e5ed51</id>
 			<name>ECM Integration</name>
 			<category>Codemods</category>
 			<rating>6</rating>
@@ -453,7 +453,7 @@
 			</required>
 		</cyberware>
 		<cyberware>
-			<id>6f85206e-fcec-4ffd-94bd-ea1dd800a000</id>
+			<id>46479b02-b8c8-43fd-92c3-3be23c73ece3</id>
 			<name>PAN Emulation</name>
 			<rating>3</rating>
 			<category>Codemods</category>
@@ -469,7 +469,7 @@
 			</required>
 		</cyberware>
 		<cyberware>
-			<id>0cd30a99-0f22-42e7-ae53-ad55d31f0550</id>
+			<id>4e6c0a4c-4c98-4486-be09-6719d5f305eb</id>
 			<name>Control Rig Integration</name>
 			<rating>3</rating>
 			<category>Codemods</category>
@@ -485,7 +485,7 @@
 			</required>
 		</cyberware>
 		<cyberware>
-			<id>ae25485d-4beb-48b5-9a8d-22e015bcd061</id>
+			<id>0bd96501-7a97-4d88-9ae4-a4af867f0e61</id>
 			<name>Simsense Integration</name>
 			<category>Codemods</category>
 			<ess>0.15</ess>
@@ -500,7 +500,7 @@
 			</required>
 		</cyberware>
 		<cyberware>
-			<id>9961fdab-dc4e-471b-aef7-12813fb37ed2</id>
+			<id>4091cbd9-29da-4aea-8ed1-ea2601a00a8a</id>
 			<name>Smartlink Adapter</name>
 			<category>Codemods</category>
 			<ess>0.2</ess>
@@ -518,7 +518,7 @@
 			</required>
 		</cyberware>
 		<cyberware>
-			<id>79052040-f161-4f0a-99eb-7d86047d62e3</id>
+			<id>b896a457-fed2-4df0-a18f-d0e46ff76851</id>
 			<name>Slashing Strike</name>
 			<category>Codemods</category>
 			<ess>0.25</ess>
@@ -533,7 +533,7 @@
 			</required>
 		</cyberware>
 		<cyberware>
-			<id>e077293a-fad0-4935-a9c9-b255a4aa04d0</id>
+			<id>94deebbf-8bc5-4804-bab9-9da8e13891dc</id>
 			<name>Thunderstrike</name>
 			<category>Codemods</category>
 			<ess>0.5</ess>
@@ -548,7 +548,7 @@
 			</required>
 		</cyberware>
 		<cyberware>
-			<id>44ca392b-ec65-4cba-97db-8badf1eea6ae</id>
+			<id>96077749-714f-405d-a409-3ec106d52fbe</id>
 			<name>Liminal Body, Lamia</name>
 			<category>Cyberlimb</category>
 			<ess>3</ess>
@@ -590,7 +590,7 @@
 			</subsystems>
 		</cyberware>
 		<cyberware>
-			<id>f8988a81-ee73-4eee-9491-47acb72cc1d7</id>
+			<id>094e3c64-f909-402c-a520-dad3cb0d01cf</id>
 			<name>Lamia Left Arm</name>
 			<category>Cyberlimb</category>
 			<ess>3</ess>
@@ -622,7 +622,7 @@
 			<limbslot>leg</limbslot>
 		</cyberware>
 		<cyberware>
-			<id>4591da8d-f504-4cb3-8b57-a44c1a514dd9</id>
+			<id>b1f623f8-b45c-4e9d-a69c-27b612fa6571</id>
 			<name>Dermal Sheath</name>
 			<category>Bodyware</category>
 			<ess>FixedValues(0.6,1,1.6)</ess>
@@ -644,7 +644,7 @@
 			<rating>3</rating>
 		</cyberware>
 		<cyberware>
-			<id>39f0a166-3759-40a0-a521-dede0a08a72e</id>
+			<id>2ee09c3d-9068-483f-a1c4-96e8f5768097</id>
 			<name>Blood Circuit Control System</name>
 			<category>Bodyware</category>
 			<ess>1</ess>
@@ -666,7 +666,7 @@
 			</wirelessbonus>
 		</cyberware>
 		<cyberware>
-			<id>8b9cc824-0378-4934-97e2-be888c58e67f</id>
+			<id>06761f3e-7cff-4504-a6e3-3d632aa7060d</id>
 			<name>Encephalon</name>
 			<category>Headware</category>
 			<ess>0.75</ess>
@@ -695,7 +695,7 @@
 			<notes>This can be taken by AIs. The wireless bonus represents the effects of the Encephalon while in VR.</notes>
 		</cyberware>
 		<cyberware>
-			<id>dd18b5ae-0084-431f-a2af-6d48bdb8bb8f</id>
+			<id>a4f11b4b-7b4f-42fb-8130-bcf898e70065</id>
 			<name>Lamia Right Arm</name>
 			<category>Cyberlimb</category>
 			<ess>3</ess>
@@ -727,7 +727,7 @@
 			<limbslot>leg</limbslot>
 		</cyberware>
 		<cyberware>
-			<id>5a69bb26-1a2d-4562-bcfa-bff91b0df745</id>
+			<id>ebbd9dc7-cadd-4d00-809d-79f5f95dcfa9</id>
 			<name>Mechanical Heart</name>
 			<category>Bodyware</category>
 			<ess>Rating * 0.3</ess>
@@ -745,7 +745,7 @@
 			<rating>3</rating>
 		</cyberware>
 		<cyberware>
-			<id>193ff186-6c07-4472-8dbb-bd17b4c89af0</id>
+			<id>7d885723-44c8-4060-af42-1d4c4406f392</id>
 			<name>Datajack</name>
 			<limit>False</limit>
 			<category>Skullware</category>
@@ -765,7 +765,7 @@
 			<requireparent />
 		</cyberware>
 		<cyberware>
-			<id>d04e1206-738f-4411-8355-c9ba9743adf7</id>
+			<id>24cddb22-fccb-45fa-925b-3ecdee196a91</id>
 			<name>Datajack Plus</name>
 			<limit>False</limit>
 			<category>Skullware</category>
@@ -790,7 +790,7 @@
 			<requireparent />
 		</cyberware>
 		<cyberware>
-			<id>a8a3aa2e-0ee8-48be-a404-f7d9a0d651de</id>
+			<id>0ca23da6-d60b-4f0f-9091-9304daadec3b</id>
 			<name>Dream Link</name>
 			<category>Skullware</category>
 			<capacity>[1]</capacity>
@@ -801,7 +801,7 @@
 			<requireparent />
 		</cyberware>
 		<cyberware>
-			<id>95f17f10-44b5-47cf-a3b1-9704b250c6a2</id>
+			<id>859596c8-23df-49b3-937a-5a34e2a2a450</id>
 			<name>Flashback System</name>
 			<category>Skullware</category>
 			<capacity>[3]</capacity>
@@ -816,7 +816,7 @@
 			<requireparent />
 		</cyberware>
 		<cyberware>
-			<id>fcfb906c-0981-471b-8b7a-3aa561a7596a</id>
+			<id>696c8909-1565-463e-a697-38a1eb3e3a36</id>
 			<name>Simrig</name>
 			<category>Skullware</category>
 			<capacity>[1]</capacity>
@@ -827,7 +827,7 @@
 			<requireparent />
 		</cyberware>
 		<cyberware>
-			<id>66b1e393-dc70-4907-85c5-f30369b260d8</id>
+			<id>529e7592-1d64-4ed6-b416-4f4a5a2857e7</id>
 			<name>Skilljack</name>
 			<category>Skullware</category>
 			<capacity>[1]</capacity>
@@ -842,7 +842,7 @@
 			<requireparent />
 		</cyberware>
 		<cyberware>
-			<id>937b4f17-8953-4fd3-8a0b-d53a1c33e253</id>
+			<id>77aaa6bb-13c9-4354-b685-cddf1d7663be</id>
 			<name>Visualizer</name>
 			<category>Skullware</category>
 			<capacity>[1]</capacity>
@@ -853,7 +853,7 @@
 			<requireparent />
 		</cyberware>
 		<cyberware>
-			<id>0e09f431-cb63-4b8a-9c70-a456d760da85</id>
+			<id>221d20be-3e8c-48fc-bab8-aefca056f665</id>
 			<name>Math SPU</name>
 			<category>Skullware</category>
 			<capacity>[1]</capacity>
@@ -875,7 +875,7 @@
 			<requireparent />
 		</cyberware>
 		<cyberware>
-			<id>c6837921-101c-4da3-8a69-378dc1b8c19f</id>
+			<id>5a5b81b6-4858-4e43-8bda-ad87e67f3d5e</id>
 			<name>Attention Coprocessor</name>
 			<category>Skullware</category>
 			<capacity>[1]</capacity>
@@ -900,7 +900,7 @@
 			<requireparent />
 		</cyberware>
 		<cyberware>
-			<id>e58d684d-58c7-4cd8-ae4d-7dacc29ca413</id>
+			<id>6b4e8b5b-b09f-453c-8977-8f5348babdeb</id>
 			<name>Commlink Slot</name>
 			<limit>False</limit>
 			<category>Skullware</category>
@@ -920,7 +920,7 @@
 			</required>
 		</cyberware>
 		<cyberware>
-			<id>c10de60f-9e96-4841-bef5-c97fc331f0de</id>
+			<id>206b17d2-3b62-4f3f-b029-4f32e4f0328b</id>
 			<name>Cyberdeck Slot</name>
 			<limit>False</limit>
 			<category>Skullware</category>
@@ -940,7 +940,7 @@
 			</required>
 		</cyberware>
 		<cyberware>
-			<id>3c695dcc-0cd9-4de1-bec5-48a60dcee37d</id>
+			<id>66c059ec-b9a1-4110-9adf-7584f3eca383</id>
 			<name>Cyberwings</name>
 			<category>Bodyware</category>
 			<ess>2</ess>
@@ -968,7 +968,7 @@
 			</bonus>
 		</cyberware>
 		<cyberware>
-			<id>b6fee7e0-ad5d-46e7-9a9b-0742364295fb</id>
+			<id>928f18c8-3ed2-4d42-80cf-b0f059c33ad2</id>
 			<name>Speed Booster</name>
 			<category>Bodyware</category>
 			<ess>0.5</ess>
@@ -980,7 +980,7 @@
 			<notes>Running and Sprinting no longer take actions and do not penalize attacks. The first use of Dodge or RFYL in a combat turn does not cost Initiative.</notes>
 		</cyberware>
 		<cyberware>
-			<id>8e40965d-c9e7-4b7d-be87-097a5c1548a7</id>
+			<id>74d817a2-0184-4f22-8e23-b807eebc1c8d</id>
 			<name>Grey Mana Dermal Plating</name>
 			<category>Bodyware</category>
 			<ess>Rating * 0.1</ess>
@@ -1001,7 +1001,7 @@
 			<notes>Grey Mana Dermal Plating's rating and grade must match your Dermal Plating rating and grade.</notes>
 		</cyberware>
 		<cyberware>
-			<id>545419f9-284d-4544-8383-f7d921b47e4d</id>
+			<id>e97adf67-bc97-432c-8c0b-ec73449248a1</id>
 			<name>Grey Mana Bone Lacing</name>
 			<category>Bodyware</category>
 			<ess>0.2</ess>
@@ -1023,7 +1023,7 @@
 			<notes>Subtracts 1 hit from any Health, mana-based Illusion, or mental Manipulation spells that affect the character. Bare-handed unarmed attacks ignore ItNW. Must be of identical grade to the character's Bone Lacing.</notes>
 		</cyberware>
 		<cyberware>
-			<id>f609cf3f-d4ae-4779-9d24-5e05f5d4ce8a</id>
+			<id>a84cea04-34f9-4cc5-abf5-52b916871b71</id>
 			<name>Active Control Rig</name>
 			<category>Headware</category>
 			<ess>Rating * 0.8</ess>
@@ -1047,7 +1047,7 @@
 			</subsystems>
 		</cyberware>
 		<cyberware>
-			<id>92af05b9-0b9d-41f1-b240-4eed8fd6e994</id>
+			<id>90a68769-f60f-4173-8a56-58ccd82e2dd2</id>
 			<name>Simsense Interface Overdrive</name>
 			<category>Headware</category>
 			<ess>Rating * 0.2</ess>
@@ -1066,7 +1066,7 @@
 			<notes>This cyberware only functions while in VR.</notes>
 		</cyberware>
 		<cyberware>
-			<id>e4e84ec3-f6e1-41eb-9dd5-2324664d8a6b</id>
+			<id>66e6c7bd-08b5-4c07-bbc4-d5c6842ed158</id>
 			<name>Grey Mana Cyberlimb Armor</name>
 			<limit>False</limit>
 			<category>Cyberlimb Enhancement</category>
@@ -1082,7 +1082,7 @@
 			<requireparent />
 		</cyberware>
 		<cyberware>
-			<id>20b0469d-dde3-4c68-a3f6-4d3d6a784526</id>
+			<id>64ae82b7-a99d-43e9-b8d0-b044fc66bd69</id>
 			<name>Additional Cyberarm Mount</name>
 			<category>Cyberlimb</category>
 			<ess>Rating * 0.2</ess>
@@ -1100,7 +1100,7 @@
 			<rating>4</rating>
 		</cyberware>
 		<cyberware>
-			<id>0009af73-1be2-43be-abd6-311b8dd4d903</id>
+			<id>569df4c5-2ee8-4192-b6a7-44f988c04a11</id>
 			<name>Tentacle Modification</name>
 			<limit>False</limit>
 			<category>Cyberlimb Enhancement</category>
@@ -1132,7 +1132,7 @@
 			<notes>Subudal attacks gain +1 DV and -2 AP per tentacle.</notes>
 		</cyberware>
 		<cyberware>
-			<id>d14ec953-2298-4645-96d6-8f345b347251</id>
+			<id>53f1f606-5717-4dde-9118-e78ba88a8cbd</id>
 			<name>Articulated Weapons Mount</name>
 			<limit>False</limit>
 			<category>Cyber Implant Weapon</category>
@@ -1145,7 +1145,7 @@
 			<notes>Can hold a single weapon of up to Assault Rifle size. Uses Torso Agility + (Autosoft or Activesoft Rating) to attack.</notes>
 		</cyberware>
 		<cyberware>
-			<id>e06aec1f-64c8-4467-968d-fa07f1ce4dbc</id>
+			<id>e3e52fe9-7747-4000-9039-4c97bb682cec</id>
 			<name>Shotgun Palm/Knee</name>
 			<limit>False</limit>
 			<category>Cyber Implant Weapon</category>
@@ -1161,7 +1161,7 @@
 			</allowsubsystems>
 		</cyberware>
 		<cyberware>
-			<id>cfea3aa0-9d0e-4743-9cd8-b12e8ec9329e</id>
+			<id>ad23be46-730c-4fdb-81a5-f49a38ce6f09</id>
 			<name>Tesla Coil</name>
 			<limit>False</limit>
 			<category>Cyber Implant Weapon</category>
@@ -1178,7 +1178,7 @@
 		</cyberware>
 		<!-- 6e Nanoware -->
 		<cyberware>
-			<id>26D26829-5993-4403-A3FA-230483C4151A</id>
+			<id>44646865-d6b7-49de-a7a4-2e2403de8378</id>
 			<name>Nano Health Suite</name>
 			<limit>False</limit>
 			<category>Hard Nanoware</category>
@@ -1202,7 +1202,7 @@
 			<rating>6</rating>
 		</cyberware>
 		<cyberware>
-			<id>97ECDCD3-3E00-4BD7-B312-77408EC8B82E</id>
+			<id>e56846af-361a-4fdf-ae54-e174c2e611f6</id>
 			<name>Augmented Neural Network</name>
 			<limit>False</limit>
 			<category>Soft Nanoware</category>
@@ -1220,7 +1220,7 @@
 			<rating>6</rating>
 		</cyberware>
 		<cyberware>
-			<id>FF7204BD-67C8-481D-8842-AA6CE795B433</id>
+			<id>512cf436-0767-4762-8464-b5f3b45a04b0</id>
 			<name>Bio-Response Override</name>
 			<limit>False</limit>
 			<category>Soft Nanoware</category>
@@ -1243,7 +1243,7 @@
 			<rating>6</rating>
 		</cyberware>
 		<cyberware>
-			<id>DEA88B93-C1DE-480F-AD4F-624EEB004F58</id>
+			<id>d20df47c-847d-42a7-8c40-fec096a7c157</id>
 			<name>Extracellular Reinforcement</name>
 			<limit>False</limit>
 			<category>Hard Nanoware</category>
@@ -1263,7 +1263,7 @@
 			<rating>6</rating>
 		</cyberware>
 		<cyberware>
-			<id>9A8B4529-D2B8-4914-9DAE-D0AD4FD0308F</id>
+			<id>3695aa5a-cb64-40ff-bdfd-d90fa6ed9cab</id>
 			<name>Neural Pattern Reinforcement</name>
 			<limit>False</limit>
 			<category>Soft Nanoware</category>
@@ -1277,7 +1277,7 @@
 			<rating>6</rating>
 		</cyberware>
 		<cyberware>
-			<id>be4ce4e8-471a-45db-a492-038f3ed34fee</id>
+			<id>7aa80c73-7983-4248-a6d7-ab4b5c0dce95</id>
 			<name>NPR Skill Boost</name>
 			<limit>False</limit>
 			<category>Soft Nanoware</category>
@@ -1300,7 +1300,7 @@
 			<forcegrade>None</forcegrade>
 		</cyberware>
 		<cyberware>
-			<id>510A56FA-5076-4F8D-BBA3-4F173BDAD419</id>
+			<id>06c25d63-2903-45ba-aebf-33ef39edf692</id>
 			<name>Neurochemical Regulator</name>
 			<limit>False</limit>
 			<category>Soft Nanoware</category>
@@ -1321,7 +1321,7 @@
 			<rating>6</rating>
 		</cyberware>
 		<cyberware>
-			<id>1CB8D1EB-C204-467E-86B0-68416C80A1C7</id>
+			<id>38064726-9f66-4bf8-882a-138693575ffd</id>
 			<name>Muscular Amplfiier</name>
 			<limit>False</limit>
 			<category>Hard Nanoware</category>

@@ -20,7 +20,53 @@
 <chummer>
   <accessories>
     <accessory>
-      <id>083deafa-389d-4da1-8c87-88d788e59a74</id>
+      <id>e854797c-52fc-4e87-a4a9-8458709dae7c</id>
+      <name>Raijin Rapid Release Sheath™</name>
+      <mount />
+      <avail>14F</avail>
+      <cost>10000</cost>
+      <source>4PR</source>
+      <page>1</page>
+      <rating>0</rating>
+      <required>
+        <weapondetails>
+          <OR>
+           <category>Blades</category>
+           <name>Katana</name>
+           <name>Ares 'One' Monosword</name>
+           <name>Horizon-Flynn Rapier</name>
+           <name>Katzbalger</name>
+           <name>Cougar Fineblade: Long</name>
+           <name>Renraku Red Samurai Katana</name>
+           <name>Sabre</name>
+           <name>Sword</name>
+           <name>Vibro Sword</name>
+           <name>Victorinox Memory Blade: Sword</name>
+           <name>Knife</name>
+           <name>Combat Knife</name>
+           <name>Lapel Dagger</name>
+           <name>Cougar Fineblade: Short</name>
+           <name>Ceramic/Plasteel Knife</name>
+           <name>Horizon-Flynn Defense-Com Commlink Knife</name>
+           <name>Krime Shiv</name>
+           <name>Onotari-Arms Silent Claw Stiletto</name>
+           <name>Sapphire Knife</name>
+           <name>Survival Knife</name>
+           <name>Vibro Knife</name>
+           <name>Victorinox Memory Blade: Dagger</name>
+          </OR>
+        </weapondetails>
+      </required>
+      <notes>
+        The Raijin Rapid Release Sheath™ is brought to you by the brilliant engineers at Renraku. The sheath makes use of an internal battery pack to allow for quite the explosive draw of your blade. Guaranteed to remove limbs, and defeat foes through sheer Shock and Awe. Though they are a bit difficult to use, requiring some training on how to draw a blade at incredible speeds, they offer an incredible burst of damage and penetration for a strike used after the draw.
+
+        It requires a Quick Draw action to use, and requires the user to make a Reaction + Blades (4) test, in addition to knowing either the Iaijutsu martial art or having the Rapid Draw adept power to accomplish this. A failure on this roll will cause the user to have to chase their blade as it launches 10 meters in the direction they were facing. A critical glitch requires the user to soak damage equal to their weapon's damage +5 and AP value.
+
+        Success on this roll will increase their damage and Armor Penetration for this immediate strike by 2 and -2 respectively. The sheath only has enough power for 1 use, after which it requires a charge time of 30 seconds through wireless induction. This may only be used with blades that can be reasonably wielded with 1 hand, such as the Katana or Monosword, and may be used with two weapons at the same time assuming you have two sheathes.
+      </notes>
+    </accessory>
+    <accessory>
+      <id>20e8192b-b4f0-49a3-b1f5-68675fd608af</id>
       <name>Underbarrel Carbine</name>
       <mount>Under</mount>
       <avail>9F</avail>
@@ -35,7 +81,7 @@
       </required>
     </accessory>
     <accessory>
-      <id>123c201b-7443-4418-bec4-fe160a6fef17</id>
+      <id>3bac60f5-f2fb-4221-a780-c5704c4aabda</id>
       <name>Spare Clip (Ammo Skip)</name>
       <mount />
       <avail>4</avail>
@@ -55,7 +101,7 @@
       </required>
     </accessory>
     <accessory>
-      <id>7d55c967-a8d6-4444-9cf8-468d7d9fd985</id>
+      <id>82733728-0e65-4f92-833a-8403f0503093</id>
       <name>Improved Dikote</name>
       <mount />
       <avail>14</avail>
@@ -81,7 +127,7 @@
       </forbidden>
     </accessory>
     <accessory>
-      <id>8391a558-410c-4e42-b7d4-e5c05b2cd731</id>
+      <id>63fc6e5e-5187-4a37-8266-f2e615710bbb</id>
       <name>Ruthenium Coating (Melee)</name>
       <mount />
       <avail>12F</avail>
@@ -104,7 +150,7 @@
       </forbidden>
     </accessory>
     <accessory>
-      <id>682e9d91-1517-4cb0-a854-f7fe5a85a2e8</id>
+      <id>bc2c25b0-3c1c-42d0-82a5-3b6edd1da9b1</id>
       <name>Smart Materials</name>
       <mount />
       <avail>+3</avail>
@@ -131,7 +177,7 @@
       </forbidden>
     </accessory>
     <accessory>
-      <id>587bd927-d121-468e-b59b-984440d78171</id>
+      <id>24729437-36c2-4a42-8c7b-b2ba694f9bb4</id>
       <name>Zapper Coating</name>
       <mount />
       <avail>+3</avail>
@@ -148,7 +194,7 @@
     <notes>The weapon's damage becomes Electricity.</notes>
     </accessory>
     <accessory>
-      <id>4dc36cf7-5d17-4e6c-a58b-f416cd0318b0</id>
+      <id>521da0a5-b386-4aa7-929a-331ff9cd473b</id>
       <name>Laser Sight (Bow)</name>
       <mount />
       <avail>2</avail>
@@ -159,7 +205,7 @@
       <rating>0</rating>
     </accessory>
     <accessory>
-      <id>3eab8f0a-5484-4cfa-b753-2976c3a65c5e</id>
+      <id>ab85cb2d-e451-4c06-877d-9a3c150b7f5c</id>
       <name>Holographic Sight (Bow)</name>
       <mount />
       <avail>2</avail>
@@ -179,7 +225,7 @@
     </accessory>
     <!-- Mundane Mastery Qualities Weapon Adjustments -->
     <accessory>
-      <id>f3f2ba17-ed6f-4c55-a789-c3b543a72dc5</id>
+      <id>b89ff36c-d7b2-41b8-80c9-cda5bc63a2ef</id>
       <name>Hard Skin Torso Accuracy Boost</name>
       <mount />
       <avail>0</avail>
@@ -206,7 +252,7 @@
       </required>
     </accessory>
     <accessory>
-      <id>b25496f8-bb3e-49a3-923f-f779528f220b</id>
+      <id>d215ecb6-57bc-439a-af8b-75604d1e853c</id>
       <name>Trajectory Mastery Accuracy Boost</name>
       <mount />
       <avail>0</avail>
@@ -251,7 +297,7 @@
       <page>0</page>
     </accessory>
     <accessory>
-      <id>774d4974-0a24-44c1-87d9-b43fa8078eed</id>
+      <id>4a1151f3-82d7-42e3-a997-80cbc70dd1de</id>
       <name>Augmented Strength Mastery Accuracy Boost</name>
       <mount />
       <avail>0</avail>
@@ -271,7 +317,7 @@
       <page>0</page>
     </accessory>
     <accessory>
-      <id>4c6b1978-02a4-418e-81fb-54d614b88f21</id>
+      <id>32eff4d2-9857-48c5-92ba-5e9a90916405</id>
       <name>Trajectory Mastery Damage Boost</name>
       <limit>False</limit>
       <mount />
@@ -317,7 +363,7 @@
       <page>0</page>
     </accessory>
     <accessory>
-      <id>1e0ae700-f5d2-4bfb-bad7-17a1d9739018</id>
+      <id>7ff1c8cd-5757-4719-9279-6ddbce80cb91</id>
       <name>Augmented Strength Mastery Damage Boost</name>
       <limit>False</limit>
       <mount />
@@ -342,7 +388,7 @@
       <page>0</page>
     </accessory>
     <accessory>
-      <id>803d6aa0-8e6b-47a5-8256-f3fb8895777d</id>
+      <id>ce92885b-c206-42ea-8fea-1d09da8e34b8</id>
       <name>Deft Thrower Damage Boost</name>
       <limit>False</limit>
       <mount />
@@ -370,7 +416,7 @@
   </accessories>
   <weapons>
     <weapon>
-      <id>3aa5c859-6536-4e6d-9857-610e600492f3</id>
+      <id>92e894d2-f769-4252-a07c-9ff2d8397b4e</id>
       <name>Kitsune Bite</name>
       <category>Unarmed</category>
       <type>Melee</type>
@@ -389,7 +435,7 @@
       <hide />
     </weapon>
     <weapon>
-      <id>911df3af-65b0-4415-bd77-f96a785a4a8b</id>
+      <id>9b3224a6-d801-44bd-b727-2b5e0585fb30</id>
       <name>One-Shot Dartgun</name>
       <category>Holdouts</category>
       <type>Ranged</type>
@@ -414,7 +460,7 @@
       <spec>Semi-Automatics</spec>
     </weapon>
     <weapon>
-      <id>a5ea3ccf-45d1-4f60-add9-588e9506738b</id>
+      <id>5f74c373-7637-42bc-9638-346ebbcde99e</id>
       <name>Terracotta Arms Ferrus Minor</name>
       <category>Heavy Pistols</category>
       <type>Ranged</type>
@@ -446,7 +492,7 @@
       <weapontype>magnetic</weapontype>
     </weapon>
     <weapon>
-      <id>49610a79-a23e-4a75-a6fb-08aee6a31313</id>
+      <id>2e708522-738c-414a-b275-082a68f36b15</id>
       <name>Terracotta Arms Ferrus Major</name>
       <category>Submachine Guns</category>
       <type>Ranged</type>
@@ -483,7 +529,7 @@
       <weapontype>magnetic</weapontype>
     </weapon>
     <weapon>
-      <id>86e7718f-532f-41b0-9359-6da041ef7a9d</id>
+      <id>2333e222-0c96-48c1-aa2b-4e7a13cfd344</id>
       <name>Terracotta Arms Ferrus Prime</name>
       <category>Assault Rifles</category>
       <type>Ranged</type>
@@ -515,7 +561,7 @@
       <weapontype>magnetic</weapontype>
     </weapon>
     <weapon>
-      <id>caec20ef-e4af-4edc-a244-d303f5227004</id>
+      <id>fde27143-09b0-467e-a1f5-e4db3f9b2169</id>
       <name>Terracotta Arms Ferrus Maximus</name>
       <category>Sniper Rifles</category>
       <type>Ranged</type>
@@ -552,7 +598,7 @@
       <weapontype>magnetic</weapontype>
     </weapon>
     <weapon>
-      <id>3f87fc7a-762e-479d-b7b6-9c0716017634</id>
+      <id>a63dc1ab-2538-4bf4-8c75-a0cf797f6870</id>
       <name>YNT Colossus Chemrail</name>
       <category>Assault Cannons</category>
       <type>Ranged</type>
@@ -589,7 +635,7 @@
       <weapontype>magnetic</weapontype>
     </weapon>
     <weapon>
-      <id>f1ed6685-ec29-4f28-a41e-890d7c7b7097</id>
+      <id>fa15d758-6f60-4825-9e71-372e0b95710e</id>
       <name>rEVOlution Arms Raven</name>
       <category>Light Pistols</category>
       <type>Ranged</type>
@@ -617,7 +663,7 @@
       <spec>Semi-Automatics</spec>
     </weapon>
     <weapon>
-      <id>27246449-61da-41ba-81a2-2fc02ca359e8</id>
+      <id>024087cb-664a-445d-975a-fdcd5f80de41</id>
       <name>Ruger Lawbringer CS</name>
       <category>Heavy Pistols</category>
       <type>Ranged</type>
@@ -647,7 +693,7 @@
       <spec>Semi-Automatics</spec>
     </weapon>
     <weapon>
-      <id>05f29c05-be58-4b43-bb4f-38d0f69547d2</id>
+      <id>ccb26ac9-d86a-4ecd-9e87-b6330e05f13e</id>
       <name>Ares Predator VI</name>
       <category>Heavy Pistols</category>
       <type>Ranged</type>
@@ -680,7 +726,7 @@
       <spec>Semi-Automatics</spec>
     </weapon>
     <weapon>
-      <id>7a6f99a7-1da8-4902-abca-bb447867c8d9</id>
+      <id>756bf173-f3e5-4cb0-a6ff-7b38863ee317</id>
       <name>Colt Government 2066TC</name>
       <category>Heavy Pistols</category>
       <type>Ranged</type>
@@ -722,7 +768,7 @@
       <spec>Semi-Automatics</spec>
     </weapon>
     <weapon>
-      <id>bb106d64-5357-4e8c-883c-94af1feb5163</id>
+      <id>458128e7-d1ba-40c9-9227-e3c7301efef1</id>
       <name>Ruger Lawbringer</name>
       <category>Heavy Pistols</category>
       <type>Ranged</type>
@@ -777,7 +823,7 @@
       </accessorymounts>
     </weapon>
     <weapon>
-      <id>b39f533d-c969-4a35-ba23-87b52db6aba1</id>
+      <id>f9e255b3-f0b6-426d-8fa1-58c8d1c7f77c</id>
       <name>rEVOlution Arms Iron Eagle</name>
       <category>Heavy Pistols</category>
       <type>Ranged</type>
@@ -807,7 +853,7 @@
       <spec>Semi-Automatics</spec>
     </weapon>
     <weapon>
-      <id>c3261901-e857-4897-b881-9cd3d6a9c1e1</id>
+      <id>1a9192e8-4d8b-4cf8-af37-ce3b785f8888</id>
       <name>Cavalier Sheriff</name>
       <category>Heavy Pistols</category>
       <type>Ranged</type>
@@ -844,7 +890,7 @@
       <weapontype>hipower</weapontype>
     </weapon>
     <weapon>
-      <id>695d03a4-9aae-4267-a947-8a881cc35722</id>
+      <id>fcf8fa83-c884-456d-aa5d-470d93de8283</id>
       <name>Colt M24</name>
       <category>Machine Pistols</category>
       <type>Ranged</type>
@@ -869,7 +915,7 @@
       <spec>Semi-Automatics</spec>
     </weapon>
     <weapon>
-      <id>be996cc7-be3c-41fb-9e7a-9104644bbb95</id>
+      <id>2c4c9736-c37a-4982-bc1d-d27eae255e0d</id>
       <name>Cavalier/Parashield Emergency Responder</name>
       <category>Submachine Guns</category>
       <type>Ranged</type>
@@ -904,7 +950,7 @@
       </accessorymounts>
     </weapon>
     <weapon>
-      <id>b1b89f64-4e68-4492-9570-06ee0b95917d</id>
+      <id>f517d97c-2e6c-4ecf-8e88-8b91780ae949</id>
       <name>Cavalier/Parashield Emergency Responder Dart Gun</name>
       <category>Exotic Ranged Weapons</category>
       <type>Ranged</type>
@@ -931,7 +977,7 @@
       <weapontype>dartgun</weapontype>
     </weapon>
     <weapon>
-      <id>cfc569f1-0226-4d17-a751-2a89d2ba58e8</id>
+      <id>68443f04-473b-4a71-9bea-74a2e58ab26e</id>
       <name>rEVOlution Arms Cheetah</name>
       <category>Submachine Guns</category>
       <type>Ranged</type>
@@ -956,7 +1002,7 @@
       <notes>The Cheetah is a Super Machine Gun and can fire Narrow Bursts.</notes>
     </weapon>
     <weapon>
-      <id>38e6d4c9-5698-4c61-a8c3-24f0f93038dd</id>
+      <id>4db2ec5f-cd1c-43af-9051-849e5de56b4c</id>
       <name>Rhipsalis</name>
       <category>Submachine Guns</category>
       <type>Ranged</type>
@@ -1024,7 +1070,7 @@
       </accessorymounts>
     </weapon>
     <weapon>
-      <id>c201f84f-f6bc-40b7-990a-1246555342e7</id>
+      <id>f11df20f-4d9b-412d-aa25-72a7f79d4a6f</id>
       <name>Shiawase Arms Tactical Model 73</name>
       <category>Assault Rifles</category>
       <type>Ranged</type>
@@ -1054,7 +1100,7 @@
       </accessorymounts>
     </weapon>
     <weapon>
-      <id>d6a48bed-4e7d-4a6b-9c8a-79afaedbffcf</id>
+      <id>acae7ead-c6e3-4b64-8319-b229e994860d</id>
       <name>rEVOlution Arms Black Wolf</name>
       <category>Assault Rifles</category>
       <type>Ranged</type>
@@ -1087,7 +1133,7 @@
       </accessorymounts>
     </weapon>
     <weapon>
-      <id>b2ec8eac-83b9-4c69-b85c-40452ffe23d6</id>
+      <id>df684d18-313a-48a9-a682-f86d703c7aab</id>
       <name>Onotari Arms Rhino Hunter</name>
       <category>Sporting Rifles</category>
       <type>Ranged</type>
@@ -1117,7 +1163,7 @@
       </accessorymounts>
     </weapon>
     <weapon>
-      <id>fa188996-2637-4829-bc51-482d436167cb</id>
+      <id>a2d283c7-f7c2-4962-b714-0f6332dc1d82</id>
       <name>Crackshot Arms Roaring Thunder</name>
       <category>Light Machine Guns</category>
       <type>Ranged</type>
@@ -1147,7 +1193,7 @@
       <notes>May use Minigun suppression.</notes>
     </weapon>
     <weapon>
-      <id>9952c50f-6825-4aa2-89c6-ddd311c765b4</id>
+      <id>cbe315f5-c7fe-43cc-9615-6b4e57c43b89</id>
       <name>Ingram Black Knight</name>
       <category>Heavy Machine Guns</category>
       <type>Ranged</type>
@@ -1186,7 +1232,7 @@
       <notes>Base Accuracy is 5 when firing FA.</notes>
     </weapon>
     <weapon>
-      <id>66668b66-837f-42b2-af0f-ad4cf40e851a</id>
+      <id>fe0c7ff5-45a8-4a65-beae-e0ee7d4bf6f0</id>
       <name>rEVOlution Arms Megalodon</name>
       <category>Assault Cannons</category>
       <type>Ranged</type>
@@ -1210,7 +1256,7 @@
       </accessorymounts>
     </weapon>
     <weapon>
-      <id>06f8effe-c112-40e3-966a-3025e521b9df</id>
+      <id>549535e9-d0bb-49c0-9606-68b961473f39</id>
       <name>Ares Scylla</name>
       <category>Exotic Ranged Weapons</category>
 			<useskill>Directed Energy Weapons</useskill>
@@ -1235,7 +1281,7 @@
       <range>Flamethrowers</range>
     </weapon>
     <weapon>
-      <id>b5ca6fcd-6027-46b8-a710-3b7705d7a75b</id>
+      <id>a56e12e8-a0e1-4711-994e-868b5202884c</id>
       <name>Ares Firebolt</name>
       <category>Laser Weapons</category>
       <type>Ranged</type>
@@ -1266,7 +1312,7 @@
       <useskillspec>Laser Weapons</useskillspec>
     </weapon>
     <weapon>
-      <id>19dd1135-a365-4482-a1f1-62bf72f7485e</id>
+      <id>84946026-abe7-4b27-8b13-aa4adf1b8ec5</id>
       <name>Ares Firebrand MP Laser</name>
       <category>Laser Weapons</category>
       <type>Ranged</type>
@@ -1299,7 +1345,7 @@
       <useskillspec>Laser Weapons</useskillspec>
     </weapon>
     <weapon>
-      <id>d6aef6b5-1ff2-47f8-95e2-e4550cf3395c</id>
+      <id>d84ce0f8-2522-484b-b613-d8be17fb83d7</id>
       <name>Ares Firebird Heavy Laser</name>
       <category>Laser Weapons</category>
       <type>Ranged</type>
@@ -1331,7 +1377,7 @@
       <useskillspec>Laser Weapons</useskillspec>
     </weapon>
     <weapon>
-      <id>88c468fd-0b14-411f-9cd1-166c4122afe0</id>
+      <id>9e16ed00-2ef8-4a82-9431-af9d28f886a0</id>
       <name>Shotgun Palm/Knee</name>
       <category>Unarmed</category>
       <type>Melee</type>
@@ -1354,7 +1400,7 @@
       <ammocategory>Shotguns</ammocategory>
     </weapon>
     <weapon>
-      <id>a5f25e97-fd9e-4246-94b3-f1291450b234</id>
+      <id>87d57578-6ba7-4bd9-b9cd-05c9386def7e</id>
       <name>Tesla Coil</name>
       <category>Exotic Ranged Weapons</category>
 			<useskill>Directed Energy Weapons</useskill>
@@ -1381,7 +1427,7 @@
       <hide />
     </weapon>
     <weapon>
-      <id>0df03a3e-5091-4b95-8e65-05c33610d40a</id>
+      <id>91232d56-e4cd-4abd-ab99-6da02ed52d78</id>
       <name>Electrogenesis</name>
       <category>Unarmed</category>
       <type>Melee</type>

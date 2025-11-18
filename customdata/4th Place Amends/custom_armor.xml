@@ -41,7 +41,7 @@
 <chummer xmlns="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema armor.xsd">
     <armors>
       <armor>
-        <id>afde04df-1d67-4a42-bb55-d682ffe4a0e8</id>
+        <id>37bee87c-0ce1-4050-8293-9dd1bd2bb1ea</id>
         <name>Guardian Angel Protection System (Light)</name>
         <category>Specialty Armor</category>
         <armor>12</armor>
@@ -62,7 +62,7 @@
         <page>1</page>
       </armor>
       <armor>
-        <id>dd932aca-b9ff-4ac3-9c41-51c68dd4a025</id>
+        <id>1816643c-007d-4ade-9a33-42bf44b7ec88</id>
         <name>Guardian Angel Protection System (Medium)</name>
         <category>Specialty Armor</category>
         <armor>+3</armor>
@@ -84,7 +84,7 @@
         <notes>Must be worn with GAPS (Light).</notes>
       </armor>
       <armor>
-        <id>499965e0-f4c5-48db-a80e-f268e5e90613</id>
+        <id>8956a4f2-1a12-4cbd-9af9-ad9c4152c6f9</id>
         <name>Guardian Angel Protection System (Heavy)</name>
         <category>Specialty Armor</category>
         <armor>+3</armor>
@@ -106,7 +106,7 @@
         <notes>Must be worn with GAPS (Light) and GAPS (Medium).</notes>
       </armor>
       <armor>
-        <id>a596254d-3cc2-4fed-bc47-ded3991a68f2</id>
+        <id>8aa6efaa-2258-43a6-9a12-2c5a86d23306</id>
         <name>GAPS Patrol Cap</name>
         <category>Specialty Armor</category>
         <armor>+1</armor>
@@ -122,7 +122,7 @@
         <page>1</page>
       </armor>
       <armor>
-        <id>00d8f267-f916-406f-b908-e9ecd9bb0e2e</id>
+        <id>5e66968e-6df0-4bc8-b86b-b87797c220e4</id>
         <name>GAPS Combat Helmet</name>
         <category>Specialty Armor</category>
         <armor>+3</armor>
@@ -141,7 +141,7 @@
         <page>1</page>
       </armor>
       <armor>
-        <id>0b971b02-1076-4878-9968-e3edabc3b8e5</id>
+        <id>6004806f-1a83-41d0-8ce5-5aa68b760eca</id>
         <name>Low Threat Exploration Suit</name>
         <category>Specialty Armor</category>
         <armor>10</armor>
@@ -166,7 +166,7 @@
         <notes>12 hour oxygen supply, 24 hour power supply.</notes>
       </armor>
       <armor>
-        <id>2091c33c-ffc5-40f9-befb-6a978279f5b5</id>
+        <id>2fabbc25-80b8-4051-ac4b-ffdb6a73d770</id>
         <name>Encounter Suit</name>
         <category>Specialty Armor</category>
         <armor>15</armor>
@@ -188,7 +188,7 @@
         <notes>12 hour oxygen supply, 24 hour power supply.</notes>
       </armor>
       <armor>
-        <id>635dc6ea-e079-46b8-b128-534da185ed1e</id>
+        <id>0af55f6d-c5ae-41f8-ad0f-47325348fe1a</id>
         <name>Ares Mark III Encounter Suit</name>
         <category>Specialty Armor</category>
         <armor>20</armor>
@@ -209,7 +209,7 @@
         <notes>12 hour oxygen supply, 24 hour power supply.</notes>
       </armor>
       <armor>
-        <id>8c7cc0a2-c805-4246-b0bd-e41205a4b626</id>
+        <id>152e71ca-7b83-4394-a8a6-45437b3c2066</id>
         <name>Encounter Suit Helmet</name>
         <category>Specialty Armor</category>
         <armor>+3</armor>
@@ -224,7 +224,7 @@
         <page>66</page>
       </armor>
       <armor>
-        <id>1243d5d9-db05-40db-9a85-d109f0527226</id>
+        <id>0fb69cd0-7591-49fb-82e0-d19a520625ae</id>
         <name>SOLDIER: Basic</name>
         <category>Armor</category>
         <armor>12</armor>
@@ -252,7 +252,7 @@
         <notes>Pilot Rating 2. Attribute bonuses only apply if properly fit for wearer.</notes>
       </armor>
       <armor>
-        <id>d58cd7cb-ebaf-4942-b2a3-5be1de6b2752</id>
+        <id>a358a80b-5397-4570-9ef8-0e3cd54cba58</id>
         <name>SOLDIER: Twitch</name>
         <category>Armor</category>
         <armor>6</armor>
@@ -280,7 +280,7 @@
         <notes>Pilot Rating 2. Attribute bonuses only apply if properly fit for wearer.</notes>
       </armor>
       <armor>
-        <id>72a5a4f6-6e1b-41dc-b21d-e1552c51024c</id>
+        <id>b6b7bbb4-08a2-40e2-be60-29385a3311f2</id>
         <name>SOLDIER: Shieldbearer</name>
         <category>Armor</category>
         <armor>18</armor>
@@ -305,7 +305,7 @@
         <notes>Pilot Rating 2. Attribute bonuses only apply if properly fit for wearer.</notes>
       </armor>
       <armor>
-        <id>312b854e-8489-4650-9e16-73d417c75cfa</id>
+        <id>3209f9a6-2ff5-4cdf-a9bd-63b8e3a01dfb</id>
         <name>SOLDIER: Vulture</name>
         <category>Armor</category>
         <armor>12</armor>
@@ -330,7 +330,7 @@
         <notes>Pilot Rating 2. Attribute bonuses only apply if properly fit for wearer.</notes>
       </armor>
       <armor>
-        <id>aa33f805-8ead-4181-9fe2-c442caf7ebb7</id>
+        <id>b3f1c4ee-c5c7-4adb-8331-324264b55e62</id>
         <name>Krime Rave</name>
         <category>High-Fashion Armor Clothing</category>
         <armor>11</armor>
@@ -360,7 +360,7 @@
         <notes>Can project holograms. Holograms are detectable with a Perception (2) test.</notes>
       </armor>
       <armor>
-        <id>88040509-1c2d-4afa-a8bb-29874b6a0bb6</id>
+        <id>51b13b97-6e0b-41d7-bee2-868b275cb7fb</id>
         <name>Tres Chic Clothing</name>
         <category>Clothing</category>
         <armor>0</armor>
@@ -388,7 +388,7 @@
         <page>1</page>
       </armor>
       <armor>
-        <id>07420fe4-ad90-47df-9b22-1fe44bedfb77</id>
+        <id>f5b4cb04-b5c7-4340-9ad1-4df978545222</id>
         <name>Smart Clothes</name>
         <category>Clothing</category>
         <armor>0</armor>
@@ -402,7 +402,7 @@
         <page>1</page>
       </armor>
       <armor>
-        <id>e344569a-64b4-4dc1-82e9-cde9045922ec</id>
+        <id>67344c51-d389-4c91-92ed-ed9e2b7c62ac</id>
         <name>Transforming Garment</name>
         <category>Clothing</category>
         <armor>0</armor>
@@ -416,7 +416,7 @@
     </armors>
 	<mods>
     <mod>
-      <id>acc2f9d9-041b-4288-95a8-1151613ca902</id>
+      <id>5fc2cd8c-559d-475f-8cbb-bc82447dd036</id>
       <name>Ballistic Hood</name>
       <category>General</category>
       <armor>+1</armor>
@@ -429,7 +429,7 @@
       <notes>Availability is equal to the armor being upgraded. Cannot be used along with a helmet or ballistic mask.</notes>
     </mod>
     <mod>
-      <id>8724c315-70e1-46c7-8b30-9c8a1e354a86</id>
+      <id>4b1fbe09-3dfd-4a0d-a344-e2856bb07748</id>
       <name>Quick Release</name>
       <category>General</category>
       <maxrating>1</maxrating>
@@ -441,7 +441,7 @@
       <notes>Allows removing armor with 1 Complex action. Wireless: armor can be removed as a Simple action.</notes>
     </mod>
     <mod>
-      <id>a3b83b98-ecca-4696-bb32-eaf3c743127e</id>
+      <id>fdeb207a-39a9-4abd-b4eb-0ab67ae39229</id>
       <name>Transforming Garment (Armor)</name>
       <category>General</category>
       <armor>-2</armor>
@@ -454,7 +454,7 @@
       <notes>Equip on transforming armor to represent the armor reduction.</notes>
     </mod>
     <mod>
-      <id>90f81410-5ba9-47d3-a07b-8a8d2d4066f3</id>
+      <id>8571ccda-b095-4fa9-9662-abdd992530b1</id>
       <name>Transforming Garment (Clothing)</name>
       <category>Clothing</category>
       <armor>0</armor>
@@ -467,7 +467,7 @@
       <notes>Equip on transforming non-armor clothing.</notes>
     </mod>
     <mod>
-      <id>0b1e7dc5-da08-46c3-9df1-3dcd6adecb36</id>
+      <id>3abae997-bef8-4fe1-887c-aeeb2191cf62</id>
       <name>Localized Manasphere Generator</name>
       <category>General</category>
       <hide />
@@ -481,7 +481,7 @@
       <notes>Reduces background count value by 2 or caps it at +/-10. Blocks external attunement and astral projection.</notes>
     </mod>
     <mod>
-      <id>a1470785-162c-466a-a397-d3cff35fee6a</id>
+      <id>aaa0dfd5-a9e7-4a36-baf7-be96a959843f</id>
       <name>Shield Mount</name>
       <category>General</category>
       <hide />
@@ -495,7 +495,7 @@
       <notes>Allows the use of a shield with two-handed weapons.</notes>
     </mod>
     <mod>
-      <id>6d9e0850-52c0-4f10-b08c-599479f5d43c</id>
+      <id>a55c9873-37b7-444d-8be4-d7a094f89c7b</id>
       <name>Antigrav Wings</name>
       <category>General</category>
       <hide />

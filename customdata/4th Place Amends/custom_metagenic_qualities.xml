@@ -21,7 +21,7 @@
 	<qualities>
 		<!-- Adds the new metagenic qualities -->
 		<quality>
-			<id>3ee0c24d-2a07-4a9f-9238-4afef9ea1c2c</id>
+			<id>037aa097-2a1e-444a-82ee-3bd04d4dda3b</id>
 			<name>'Ware Intolerance (Metagenic)</name>
 			<karma>-15</karma>
 			<category>Negative</category>
@@ -41,7 +41,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>6c73f283-755e-4b30-9cda-4d52af1bed91</id>
+			<id>da109a82-5aef-408b-b4de-338b2599d4f8</id>
 			<name>Metagenic Allergy (Uncommon, Mild)</name>
 			<karma>-5</karma>
 			<category>Negative</category>
@@ -61,7 +61,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>90a3cb25-99b2-4cc3-80d2-59ec3dfe7e16</id>
+			<id>56efe126-5717-42c2-bca6-059dfb550638</id>
 			<name>Metagenic Allergy (Uncommon, Moderate)</name>
 			<karma>-10</karma>
 			<category>Negative</category>
@@ -74,7 +74,7 @@
 			<page>78</page>
 		</quality>
 		<quality>
-			<id>82419c50-b89a-45fa-b533-cf4abc0249d8</id>
+			<id>19df979c-db4c-4e82-bc38-bb1fa50f883c</id>
 			<name>Metagenic Allergy (Uncommon, Severe)</name>
 			<karma>-15</karma>
 			<category>Negative</category>
@@ -94,7 +94,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>fcec00e5-9a54-4cac-808e-2cfb648ef755</id>
+			<id>8959245a-5501-443b-b8cc-848981849919</id>
 			<name>Metagenic Allergy (Uncommon, Extreme)</name>
 			<karma>-20</karma>
 			<category>Negative</category>
@@ -114,7 +114,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>92045c70-9c02-4f3a-ae2e-5b0430a463aa</id>
+			<id>8b9007a8-c753-4bfb-ac4d-8ccd9715d666</id>
 			<name>Metagenic Allergy (Common, Mild)</name>
 			<karma>-10</karma>
 			<category>Negative</category>
@@ -134,7 +134,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>38b1c178-8777-4519-a195-71b5baa8b7a9</id>
+			<id>352fd8c7-123f-4468-8fc2-ec1f0f0e8246</id>
 			<name>Metagenic Allergy (Common, Moderate)</name>
 			<karma>-15</karma>
 			<category>Negative</category>
@@ -154,7 +154,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>e07d8ee2-b0cc-45fc-8aa7-cacfb81eaf8c</id>
+			<id>18162608-56af-42f2-b8fb-fe87461f3ee9</id>
 			<name>Metagenic Allergy (Common, Severe)</name>
 			<karma>-20</karma>
 			<category>Negative</category>
@@ -174,7 +174,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>b7d4def0-79c2-497e-9b8b-3a323b17d4f4</id>
+			<id>12839bf5-e7f3-43a8-af9e-9c6caa1ea67e</id>
 			<name>Metagenic Allergy (Common, Extreme)</name>
 			<karma>-25</karma>
 			<category>Negative</category>
@@ -194,7 +194,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>b57913fc-8cc5-4b25-982d-49f9eaa8a9c2</id>
+			<id>e874c593-272b-47a5-89ab-a9bdb0ef4f27</id>
 			<name>Asthma (Metagenic)</name>
 			<karma>-8</karma>
 			<category>Negative</category>
@@ -211,7 +211,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>b1dc9022-0a8c-4077-9292-82c2b26e2458</id>
+			<id>25cfcc4c-bef6-4c18-b94d-4fe4ac6cb42c</id>
 			<name>Antipathy (Metagenic)</name>
 			<karma>-8</karma>
 			<category>Negative</category>
@@ -228,7 +228,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>5de0a89f-207f-45b5-813a-656c34a59a38</id>
+			<id>d1370ed0-33e2-47e9-a3eb-3e803e7e9a29</id>
 			<name>Impassive (Metagenic)</name>
 			<karma>-7</karma>
 			<category>Negative</category>
@@ -251,7 +251,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>a1cc0e3d-4274-4c35-8ca7-4af953da9ea9</id>
+			<id>a5b6d876-ceb8-489f-8028-0e8f310c4fce</id>
 			<name>Bi-Polar (Metagenic)</name>
 			<karma>-7</karma>
 			<category>Negative</category>
@@ -268,7 +268,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>50974712-89f7-4b6b-a0d1-9d1328d5a399</id>
+			<id>a800d154-8346-430e-8e9c-498074116e45</id>
 			<name>Blind (Metagenic)</name>
 			<karma>-15</karma>
 			<category>Negative</category>
@@ -300,7 +300,7 @@
 			<page>153</page>
 		</quality>
 		<quality>
-			<id>6a94ae5b-a810-4f3e-87c9-23c3102ec268</id>
+			<id>e07a9e87-65c6-4a10-913a-c24631c1ea48</id>
 			<name>Deaf (Metagenic)</name>
 			<karma>-15</karma>
 			<category>Negative</category>
@@ -322,7 +322,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>e6c5daff-ecd6-4940-9236-feb545c2aae0</id>
+			<id>9244626b-cc69-4944-81b5-482548f03045</id>
 			<name>Metagenic Dependent (Nuisance)</name>
 			<karma>-3</karma>
 			<category>Negative</category>
@@ -347,7 +347,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>5eae873d-b206-4e4e-a31f-fd1c9e85e025</id>
+			<id>31b2daf0-3027-4077-8663-a8f85719a7a1</id>
 			<name>Metagenic Dependent (Inconvenience)</name>
 			<karma>-6</karma>
 			<category>Negative</category>
@@ -372,7 +372,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>455ccdb9-a7de-4c4f-a559-64f4bf7de219</id>
+			<id>362ebc64-fd4b-418e-a4cd-8f9e81cb0736</id>
 			<name>Metagenic Dependent (Demanding)</name>
 			<karma>-9</karma>
 			<category>Negative</category>
@@ -397,7 +397,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>2fa9b6a9-9337-48f5-9b72-04eae0de3a22</id>
+			<id>3903f13a-f7e8-4ba8-9594-51ba0c48979b</id>
 			<name>Faraday Himself (Metagenic)</name>
 			<karma>-7</karma>
 			<category>Negative</category>
@@ -414,7 +414,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>a0fa27c0-d435-4943-ab46-171955c1980e</id>
+			<id>9738fdfd-b087-4e96-bb1c-b3b7df20263d</id>
 			<name>Infirm (Metagenic)</name>
 			<karma>-5</karma>
 			<category>Negative</category>
@@ -449,7 +449,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>144cabfa-44a3-4235-aa66-08891ddd26aa</id>
+			<id>8832c82c-8a28-4ad7-876c-9984e8571540</id>
 			<name>Metagenic Insomnia (Basic)</name>
 			<karma>-10</karma>
 			<category>Negative</category>
@@ -471,7 +471,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>16debbe6-72f4-436d-9fff-6860a9499424</id>
+			<id>1271af7b-13db-4798-912a-66b2d20142d0</id>
 			<name>Metagenic Insomnia (Full)</name>
 			<karma>-15</karma>
 			<category>Negative</category>
@@ -493,7 +493,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>7ec8a5ae-66ae-4c22-9be2-421cc279b22a</id>
+			<id>d76a18ec-cc86-457a-b1c0-a6acaf64c121</id>
 			<name>Low Pain Tolerance (Metagenic)</name>
 			<karma>-9</karma>
 			<category>Negative</category>
@@ -514,7 +514,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>99c0831d-9fef-4b85-b9f0-080e9960ae5b</id>
+			<id>934d65a7-2fb5-45ef-b349-9bd8d27a1a75</id>
 			<name>Motion Sickness (Metagenic)</name>
 			<karma>-4</karma>
 			<category>Negative</category>
@@ -531,7 +531,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>670363ba-d2f0-4119-9d96-15cc24e67d2a</id>
+			<id>6729ebc7-12f6-4ae9-afee-7cc65277dcc8</id>
 			<name>Quasimodo (Metagenic)</name>
 			<karma>-5</karma>
 			<category>Negative</category>
@@ -558,7 +558,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>e440875d-6c91-4440-83ec-5ccf65bed5f2</id>
+			<id>17f964fe-cb9b-42f0-9a6c-2360c989d3c3</id>
 			<name>Metagenic Reduced Sense (Smell)</name>
 			<karma>-2</karma>
 			<category>Negative</category>
@@ -575,7 +575,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>e756a13b-9da5-4388-bad1-7580adfbf65a</id>
+			<id>9a1be016-8ddf-4f2e-aff5-f66323cbec34</id>
 			<name>Metagenic Reduced Sense (Taste)</name>
 			<karma>-2</karma>
 			<category>Negative</category>
@@ -592,7 +592,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>d83deb9c-556e-497c-9ba2-cf681aa9a69f</id>
+			<id>50800496-2015-4c80-9b4c-64109da114b8</id>
 			<name>Metagenic Reduced Sense (Touch)</name>
 			<karma>-10</karma>
 			<category>Negative</category>
@@ -609,7 +609,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>57508b90-43c8-4c8b-8bb7-b67c42bb443c</id>
+			<id>5ce890d4-2862-45e5-99d4-eb0a3544816d</id>
 			<name>Metagenic Reduced Sense (Hearing)</name>
 			<karma>-5</karma>
 			<category>Negative</category>
@@ -631,7 +631,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>566e2cf3-2fe7-4ca4-93a1-7864a45e2db1</id>
+			<id>52a91bfc-bca8-481d-b919-bcf4976f281c</id>
 			<name>Metagenic Reduced Sense (Sight)</name>
 			<karma>-5</karma>
 			<category>Negative</category>
@@ -653,7 +653,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>2decee53-20dc-4c9b-b325-907dcf92c95c</id>
+			<id>5c911503-2cdd-471b-b0fd-649e379245a4</id>
 			<name>Metagenic Reduced Sense (Astral Sight)</name>
 			<karma>-5</karma>
 			<category>Negative</category>
@@ -680,7 +680,7 @@
 			<page>159</page>
 		</quality>
 		<quality>
-			<id>97c68f38-4574-4984-bfd6-455e775e9a34</id>
+			<id>76a2af31-a3b7-4c8c-871f-4ae491199fa1</id>
 			<name>AVRse (Metagenic)</name>
 			<karma>-9</karma>
 			<category>Negative</category>
@@ -690,7 +690,7 @@
 			<page>76</page>
 		</quality>
 		<quality>
-			<id>21559ef2-b134-4cec-8481-c1007fb1a297</id>
+			<id>8c38fd5e-e626-47e6-ae6d-b0a6f6e85876</id>
 			<name>Spirit Pariah (Metagenic)</name>
 			<karma>-14</karma>
 			<category>Negative</category>
@@ -707,7 +707,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>a57336b0-be08-4081-b039-b06c9a5b736b</id>
+			<id>8f9d1ab1-9b43-4d60-83ef-fa485af8fb7f</id>
 			<name>Albinism I (Metagenic)</name>
 			<karma>-4</karma>
 			<category>Negative</category>
@@ -730,7 +730,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>2cece0d4-0781-4ff4-b9a4-ea839d1f7b3b</id>
+			<id>239952e6-ea85-4435-b597-674839d7c305</id>
 			<name>Albinism II (Metagenic)</name>
 			<karma>-8</karma>
 			<category>Negative</category>
@@ -754,7 +754,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>4d917b58-6638-4da6-8c61-d190ad9e17bc</id>
+			<id>4f79d5ca-ce4a-40ac-9580-0affe79ed9ff</id>
 			<name>Astral Beacon (Metagenic)</name>
 			<karma>-10</karma>
 			<category>Negative</category>
@@ -789,7 +789,7 @@
 			<page>78</page>
 		</quality>
 		<quality>
-			<id>1d427927-4a93-4fe8-a83b-612fd753db1d</id>
+			<id>4d4d0985-d337-4ed3-b958-5e96ba224cea</id>
 			<name>Minor Cosmetic Feature</name>
 			<karma>1</karma>
 			<category>Positive</category>
@@ -809,7 +809,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>b7b030fd-86f6-4942-9681-c3ff46df2097</id>
+			<id>9df25b81-6811-493a-b209-080f44c7991c</id>
 			<name>Weak Immune System (Metagenic)</name>
 			<karma>-10</karma>
 			<category>Negative</category>
@@ -837,7 +837,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>cca6fa75-1b5d-4bec-9a4b-91b6cf7d769d</id>
+			<id>90091012-0515-4272-9ae6-d304620ea1b4</id>
 			<name>Dimmer Bulb (Metagenic)</name>
 			<karma>-5</karma>
 			<category>Negative</category>
@@ -876,7 +876,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>05220509-5cbe-429d-a7bd-163c7fe7ea83</id>
+			<id>e1126b98-c20a-41aa-827e-cad018de424e</id>
 			<name>Infirm (Metagenic)</name>
 			<karma>-5</karma>
 			<category>Negative</category>
@@ -917,7 +917,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>095d627f-9c78-4b59-a150-22a336580391</id>
+			<id>d025e4b6-c1dc-4545-99f1-caf43fc13be7</id>
 			<name>Lack of Focus (Metagenic)</name>
 			<karma>-6</karma>
 			<category>Negative</category>
@@ -934,7 +934,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>b6e330bf-1265-48e5-ae5c-c88a04eddd93</id>
+			<id>75fbcb3a-1515-4b1c-ac53-1448fa32d60b</id>
 			<name>Lightweight (Metagenic)</name>
 			<karma>-6</karma>
 			<category>Negative</category>
@@ -951,7 +951,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>ef5bdabc-2a70-4bef-8cca-62965d297abb</id>
+			<id>24a5a057-cf3b-44ae-891b-cf6421fe2925</id>
 			<name>Night Blindness (Metagenic)</name>
 			<karma>-6</karma>
 			<category>Negative</category>
@@ -968,7 +968,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>966b73a7-3c16-45d1-bc62-11831a939cb7</id>
+			<id>08b1773d-ae6f-409b-a7bd-c1592a048c92</id>
 			<name>Phobia (Uncommon, Mild)</name>
 			<karma>-5</karma>
 			<category>Negative</category>
@@ -987,7 +987,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>ca479709-8832-46f9-a9c2-fd378807934f</id>
+			<id>ae66e2fa-fc4c-4d7e-a22e-36b41305d2f7</id>
 			<name>Metagenic Phobia (Uncommon, Moderate)</name>
 			<karma>-7</karma>
 			<category>Negative</category>
@@ -1007,7 +1007,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>772935d8-9269-414b-a0e4-2fc26908573d</id>
+			<id>9eeb23de-3cde-47b2-8c64-d77c27e38080</id>
 			<name>Metagenic Phobia (Uncommon, Severe)</name>
 			<karma>-12</karma>
 			<category>Negative</category>
@@ -1027,7 +1027,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>6af3c376-23db-4c7f-aebd-909658248827</id>
+			<id>69909a30-ff86-4d25-90c2-4603f8a2f84d</id>
 			<name>Metagenic Phobia (Common, Mild)</name>
 			<karma>-8</karma>
 			<category>Negative</category>
@@ -1047,7 +1047,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>c6f267e4-a385-45c1-ad4c-9708f424d2f8</id>
+			<id>7d16e358-e026-4f92-8645-ebfd9d48cef2</id>
 			<name>Metagenic Phobia (Common, Moderate)</name>
 			<karma>-10</karma>
 			<category>Negative</category>
@@ -1067,7 +1067,7 @@
 			</required>
 		</quality>
 		<quality>
-			<id>4fd15afb-f4cd-41a2-b8d6-87650799fa59</id>
+			<id>ff8de1e9-a52d-4e66-af3b-5fc65a63d4ad</id>
 			<name>Metagenic Phobia (Common, Severe)</name>
 			<karma>-15</karma>
 			<category>Negative</category>
@@ -1088,7 +1088,7 @@
 		</quality>
 		<!-- The 6e Stuff-->
 		<quality>
-			<id>db0ba470-55a0-4ee0-8ad0-4a632b94935e</id>
+			<id>ecf0baca-3def-4ada-8f25-73a7c9850977</id>
 			<name>Regrowth</name>
 			<karma>3</karma>
 			<category>Positive</category>
@@ -1102,7 +1102,7 @@
 			<notes>The character possesses healing capabilities not dissimilar to various species of lizards, starfish, and arthropods. They heal somewhat faster, gaining a +2 bonus to natural healing tests. Additionally, they can regrow lost limbs and other body parts given time. In game terms, the character will regrow any lost limb or destroyed organ (assuming they survive whatever destroyed said limb or organ) in one month's time. Regrowing a limb takes a lot of resources. The character increases their lifestyle cost by 10% during any month in which they have regrown or are in the process of regrowing a limb.</notes>
 		</quality>
 		<quality>
-			<id>4b5e0741-a15e-4cf2-b062-e418f3a566cb</id>
+			<id>8f13b09d-5a4e-4665-a2ff-024cee5d98e6</id>
 			<name>Electrogenesis</name>
 			<karma>5</karma>
 			<addweapon>Electrogenesis</addweapon>
@@ -1113,7 +1113,7 @@
 			<notes>The character's body contains several organs made from electrocytes, allowing them to deliver an electrical shock to those they touch. Applying the shock requires a successful unarmed attack and has a damage code equal to (Body)S(e) -5AP.</notes>
 		</quality>
 		<quality>
-			<id>4494b375-f658-4180-b0ba-f8ac3b91bf1c</id>
+			<id>b91c0af9-d4ce-414a-8436-395d0dc11b2c</id>
 			<name>Ink</name>
 			<karma>4</karma>
 			<category>Positive</category>
@@ -1123,7 +1123,7 @@
 			<notes>The character has glands capable of producing and shooting a sticky black ink. To make use of this ink, the character makes a Ranged Attack Test using the Exotic Ranged Weapon (Ink) + Agility [Physical], with a range of (Body) meters. A successful hit from this attack deals no damage, but leaves the target completely blind (treat as having been hit with a called shot to each eye). The ink clears from an uncovered eye automatically after 1 combat turn. A covered eye or camera does not clear up on its own and requires a complex action to scrub off the sticky ink, or requires the wearer to remove the covering using the appropriate action. Creatures that do not perceive vision via eyes or cameras (e.g. spirits) are of course immune. The ink will also stain skin for about a week and will permanently stain most clothing and other fabrics.</notes>
 		</quality>
 		<quality>
-			<id>c844d133-799f-4184-a8b8-9fb881a6ff69</id>
+			<id>55f21447-b43e-4cd3-b3a5-54771160c4e6</id>
 			<name>Functional Wings (Type I: Gliders)</name>
 			<karma>4</karma>
 			<category>Positive</category>
@@ -1140,7 +1140,7 @@
 			</forbidden>
 		</quality>
 		<quality>
-			<id>131c05eb-3925-4e0b-95d6-a022b902b33f</id>
+			<id>6912b204-893b-427b-855b-01078b9bc3ed</id>
 			<name>Functional Wings (Type II: Functional Wings)</name>
 			<karma>6</karma>
 			<category>Positive</category>
@@ -1194,7 +1194,7 @@
 			</forbidden>
 		</quality>
 		<quality>
-			<id>593b87d6-efa8-4220-85a0-28ef1a08e791</id>
+			<id>b9845cec-499c-420d-a6f7-097d7cb1361b</id>
 			<name>Functional Wings (Type III: Magical Flight)</name>
 			<karma>15</karma>
 			<category>Positive</category>
@@ -1242,7 +1242,7 @@ If you ever lose your magic attribute, you can't use the wings this way. Neverth
 			</forbidden>
 		</quality>
 		<quality>
-			<id>2d5d6043-c5f0-49c9-9715-f2a1f1b6fdf9</id>
+			<id>cf46d78d-ac0a-41d7-9d82-4b9b701f2b0d</id>
 			<name>Striking Sclera</name>
 			<karma>-2</karma>
 			<category>Negative</category>
@@ -1254,7 +1254,7 @@ If the character ever replaces his eyes with cybereyes, he must buy of this qual
 			</notes>
 		</quality>
 		<quality>
-			<id>4a4b38bc-9535-4c08-8028-7e24a087f43e</id>
+			<id>2e37b794-041e-459d-b54e-53025ae211c9</id>
 			<name>Lamia Body</name>
 			<karma>-10</karma>
 			<category>Negative</category>
@@ -1267,7 +1267,7 @@ If this quality is taken in concert with Adiposis you are always counted as ‘r
 			</notes>
 		</quality>
 		<quality>
-			<id>9416e077-4163-4c74-9a48-240738f187bd</id>
+			<id>a6f63ecd-11d2-4c5c-9f76-120160df0ad4</id>
 			<name>Slime Coating</name>
 			<karma>-5</karma>
 			<category>Negative</category>
@@ -1278,7 +1278,7 @@ If this quality is taken in concert with Adiposis you are always counted as ‘r
 			</notes>
 		</quality>
 		<quality>
-			<id>66f94e6b-1bd8-4433-90d3-19275438fa2e</id>
+			<id>07f54153-0ca8-4418-9d7d-2efd03f21b28</id>
 			<name>Cutaneous Hydration</name>
 			<karma>-10</karma>
 			<category>Negative</category>
@@ -1289,7 +1289,7 @@ If this quality is taken in concert with Adiposis you are always counted as ‘r
 			</notes>
 		</quality>
 		<quality>
-			<id>aa57fa01-6798-47cc-b19f-f3d4a6d8b8f2</id>
+			<id>e2dcb7d6-b521-4842-8693-bd180049d4f3</id>
 			<name>Shark Trance</name>
 			<karma>-6</karma>
 			<category>Negative</category>
@@ -1300,7 +1300,7 @@ If this quality is taken in concert with Adiposis you are always counted as ‘r
 			</notes>
 		</quality>
 		<quality>
-			<id>c6331bd6-ee14-4488-ba16-de9fb297162e</id>
+			<id>0f5cd42c-5e29-4199-b042-a1b9fc7d4d93</id>
 			<name>Aural Helix Dysmorphia (Avian)</name>
 			<karma>-4</karma>
 			<category>Negative</category>
@@ -1314,7 +1314,7 @@ These individuals have had their cranial/aural properties adjusted to appear lik
 			</notes>
 		</quality>
 		<quality>
-			<id>440ffa56-2cc8-42a6-93d3-fee42eb7dfef</id>
+			<id>af5b27e6-a041-418e-b3c0-9ec135f2de17</id>
 			<name>Aural Helix Dysmorphia (Canine/Feline)</name>
 			<karma>-4</karma>
 			<category>Negative</category>
@@ -1327,7 +1327,7 @@ This is a very common trait, with an assortment of canine and feline variations.
 			</notes>
 		</quality>
 		<quality>
-			<id>103c49f5-16a3-4c03-8cdf-7c57655834da</id>
+			<id>063edcad-b9fd-4de4-8440-e8fb58b0184b</id>
 			<name>Aural Helix Dysmorphia (Canine/Feline)</name>
 			<karma>-4</karma>
 			<category>Negative</category>
@@ -1340,7 +1340,7 @@ This is a very common trait, with an assortment of canine and feline variations.
 			</notes>
 		</quality>
 		<quality>
-			<id>439aad5f-1fef-4401-b245-8bd2d82f71f4</id>
+			<id>54e56af3-48f2-4fe1-97e8-52f5ef5080af</id>
 			<name>Aural Helix Dysmorphia (Pachy)</name>
 			<karma>-4</karma>
 			<category>Negative</category>
@@ -1353,7 +1353,7 @@ Individuals have widened upper aural helices, often with some adjustment to the 
 </notes>
 		</quality>
 		<quality>
-			<id>619230ec-efd5-4b69-b0c0-bf4f718e0d69</id>
+			<id>401734e0-d718-4799-9588-0f91e1f98719</id>
 			<name>Broad Feet</name>
 			<karma>-6</karma>
 			<category>Negative</category>
@@ -1364,7 +1364,7 @@ Individuals have widened upper aural helices, often with some adjustment to the 
 			</notes>
 		</quality>
 		<quality>
-			<id>ebb8cbd4-8b06-4825-b3b5-0970fd5e93e6</id>
+			<id>82cea610-ca1a-4659-917d-366e7252f6b1</id>
 			<name>Reflective Eyes</name>
 			<karma>-4</karma>
 			<category>Negative</category>
@@ -1375,7 +1375,7 @@ Individuals have widened upper aural helices, often with some adjustment to the 
 			</notes>
 		</quality>
 		<quality>
-			<id>9dac5447-546e-4c39-a505-17493be03927</id>
+			<id>a503f353-9ef5-4852-8153-c79c7ae9a4bd</id>
 			<name>Mad Eyes</name>
 			<karma>-4</karma>
 			<category>Negative</category>
@@ -1386,7 +1386,7 @@ Individuals have widened upper aural helices, often with some adjustment to the 
 			</notes>
 		</quality>
 		<quality>
-			<id>89654866-19c4-4f2d-be92-6961e095b1ba</id>
+			<id>6d45dc29-5fbc-41e6-bc9d-286c4a89b956</id>
 			<name>Hairless</name>
 			<karma>-4</karma>
 			<category>Negative</category>
@@ -1397,7 +1397,7 @@ Individuals have widened upper aural helices, often with some adjustment to the 
 			</notes>
 		</quality>
 		<quality>
-			<id>b2b94039-8bf2-430a-a02f-d111c0aababb</id>
+			<id>a3cf95c2-694d-4c0e-8c6f-c4594b322bac</id>
 			<name>Living Hair</name>
 			<karma>4</karma>
 			<category>Positive</category>
@@ -1411,7 +1411,7 @@ Characters with this quality will normally incur social modifiers (Freaks sideba
 			</notes>
 		</quality>
 		<quality>
-			<id>5fb897ea-b370-4b0f-bf78-00b7a8e50ba4</id>
+			<id>424cc4f1-ca9d-4a7c-a4c0-2c8fe87d7920</id>
 			<name>Slime Glands</name>
 			<karma>1</karma>
 			<category>Positive</category>
@@ -1429,7 +1429,7 @@ The character leaves slime wherever they go. Not a lot, but just enough to be no
 			</notes>
 		</quality>
 		<quality>
-			<id>929dd5e8-dc93-4076-b041-2b6a71188298</id>
+			<id>00fec4ec-5684-48ab-8f20-c00fce82ef19</id>
 			<name>Brachycephalic Syndrome</name>
 			<karma>4</karma>
 			<category>Negative</category>
@@ -1452,7 +1452,7 @@ The character takes a -2 dice penalty to all Physical Active Skills. The charact
 			</notes>
 		</quality>
 		<quality>
-			<id>00d3e0dd-2db0-4420-a7e7-dd6306024980</id>
+			<id>acf75297-06c8-47d9-a88b-ba18f53aaa37</id>
 			<name>Demonic Features</name>
 			<karma>-6</karma>
 			<category>Negative</category>
@@ -1467,7 +1467,7 @@ It also causes the character to suffer the Hostile (SR5 140) social modifier whe
 			</notes>
 		</quality>
 		<quality>
-			<id>6589aeee-c36d-4f7c-a66c-32e4109d450e</id>
+			<id>686d8fdc-22f9-4d0a-bc1f-7a86551956f5</id>
 			<name>Diurnal</name>
 			<karma>-5</karma>
 			<category>Negative</category>
@@ -1478,7 +1478,7 @@ It also causes the character to suffer the Hostile (SR5 140) social modifier whe
 			</notes>
 		</quality>
 		<quality>
-			<id>9c255b1e-39d4-4c9a-8f26-747d9056a2d2</id>
+			<id>948099de-55f6-4bef-9489-6e8c92d4a2c4</id>
 			<name>Excessive Molting</name>
 			<karma>-10</karma>
 			<category>Negative</category>
@@ -1492,7 +1492,7 @@ It also causes the character to suffer the Hostile (SR5 140) social modifier whe
 			</notes>
 		</quality>
 		<quality>
-			<id>4d3994a1-1c8c-4abe-867d-3eebbc211595</id>
+			<id>ef5afe48-f201-4c1f-adb4-f6d18f68e336</id>
 			<name>Intermittent Hibernation</name>
 			<karma>-8</karma>
 			<category>Negative</category>
@@ -1506,7 +1506,7 @@ It also causes the character to suffer the Hostile (SR5 140) social modifier whe
 			</notes>
 		</quality>
 		<quality>
-			<id>b747ed18-9ecc-45bd-ab79-b0fcd1469410</id>
+			<id>0a1c0de1-1bb3-42e8-90a1-a4565d5ec9af</id>
 			<name>Muzzle</name>
 			<karma>-4</karma>
 			<category>Negative</category>
@@ -1518,7 +1518,7 @@ On the plus side, if you have the Fangs quality (RF 115), the Accuracy of your f
 			</notes>
 		</quality>
 		<quality>
-			<id>0111dd1f-f2e0-496d-ac41-a8305da42a95</id>
+			<id>9ef55aed-afaf-491c-ba1b-e1995a6d65fc</id>
 			<name>Necrotic Flesh</name>
 			<karma>-8</karma>
 			<category>Negative</category>
@@ -1537,7 +1537,7 @@ On the plus side, you feel less pain and can ignore two additional boxes of dama
 			</notes>
 		</quality>
 		<quality>
-			<id>953836aa-37c0-4794-bcdb-494de917179a</id>
+			<id>c8808918-0a14-4b93-8d50-9f02023b2c7c</id>
 			<name>Reptilian Auditory Apparatus</name>
 			<karma>-5</karma>
 			<category>Negative</category>
@@ -1554,7 +1554,7 @@ Any test involving hearing takes a -3 dice penalty. The character’s hearing ca
 			</notes>
 		</quality>
 		<quality>
-			<id>9845b740-7fa4-4672-a531-a8d4813c1d71</id>
+			<id>4a651b7a-b0ed-4788-90c0-1911d80c49ae</id>
 			<name>Spirit Blight</name>
 			<karma>-10</karma>
 			<category>Negative</category>
@@ -1568,7 +1568,7 @@ The character suffers a -2 dice pool modifier to summon or bind spirits. If the 
 			</notes>
 		</quality>
 		<quality>
-			<id>ac6df19e-9035-464b-a392-bb108fe7d88f</id>
+			<id>50aed18d-7b56-4849-95ae-c2217101b476</id>
 			<name>Stubby Legs</name>
 			<karma>4</karma>
 			<category>Negative</category>
@@ -1598,7 +1598,7 @@ The character suffers a -2 dice pool modifier to summon or bind spirits. If the 
 			</notes>
 		</quality>
 		<quality>
-			<id>9775b4ae-f524-4891-b4c0-a24dfa873565</id>
+			<id>56f22c97-74f9-40dd-9cdc-390127e24531</id>
 			<name>Translucent Skin</name>
 			<karma>-10</karma>
 			<category>Negative</category>
