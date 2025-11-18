@@ -77,12 +77,6 @@
 			<name>Necro Summoning</name>
 			<hide />
 		</spell>
-		<spell> 
-			<!-- Disrupt Focus -->
-			<id>5c9218f6-bdb4-46a5-89ce-00b4adfe0429</id>
-			<name>Disrupt Focus</name>
-			<bonus />
-		</spell>
 
 		<spell>
 			<!-- Lash -->
@@ -106,3 +100,4 @@
 		</spell>
 	</spells>
 </chummer>
+

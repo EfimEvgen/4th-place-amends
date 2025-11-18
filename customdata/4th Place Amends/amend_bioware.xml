@@ -121,5 +121,10 @@
 	  <notes amendoperation="replace">Chummer does not include the drug cost properly; add 100 of drug through Gear button.</notes>
 	  <bonus amendoperation="remove" />
     </bioware>
+	<bioware>
+      <name>Cerebellum Booster</name>
+      <rating amendoperation="replace">3</rating>
+    </bioware>
+
   </biowares>
 </chummer>

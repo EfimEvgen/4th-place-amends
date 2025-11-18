@@ -638,6 +638,7 @@
 			<name>Resonant Stream: Cyberadept</name>
 			<bonus>
 				<cyberadeptdaemon amendoperation="remove"></cyberadeptdaemon>
+				<adapsin />
 			</bonus>
 		</quality>
 		<quality>
@@ -3215,6 +3216,10 @@
 			</bonus>
 		</quality>
 		<quality>
+		  <name>Exceptional Entity</name>
+		  <hide />
+		</quality>
+		<quality>
 			<name>Albinism</name>
 			<forbidden>
 				<oneof>
@@ -3224,11 +3229,3 @@
 		</quality>
 	</qualities>
 </chummer>
-
-
-
-
-
-
-
-
