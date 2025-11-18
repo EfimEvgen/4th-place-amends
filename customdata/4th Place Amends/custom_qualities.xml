@@ -1784,8 +1784,8 @@
 			<category>Positive</category>
 			<required>
 				<allof>
-					<Echo>Biowires</Echo>
-					<Echo>Predictive Analytics</Echo>
+					<echo>Biowires</echo>
+					<echo>Predictive Analytics</echo>
 				</allof>
 			</required>
 			<limit>3</limit>
@@ -2182,7 +2182,7 @@
 			</bonus>
 			<required>
 				<oneof>
-					<Echo>Tactical Network</Echo>
+					<echo>Tactical Network</echo>
 				</oneof>
 			</required>
 			<source>4PR</source>
