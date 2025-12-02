@@ -1444,11 +1444,6 @@
 						<name>Arcana</name>
 						<val>4</val>
 					</skill>
-					<skill>
-						<name>Ritual Spellcasting</name>
-						<val>4</val>
-						<spec>Anchored</spec>
-					</skill>
 				</allof>
 				<oneof>
 				<skill>
@@ -1487,6 +1482,17 @@
 						<name>Artificing</name>
 						<val>4</val>
 						<type>Knowledge</type>
+					</skill>
+				</oneof>
+				<oneof>
+					<skill>
+						<name>Ritual Spellcasting</name>
+						<val>4</val>
+						<spec>Anchored</spec>
+					</skill>
+					<skill>
+						<name>Ritual Spellcasting</name>
+						<val>6</val>
 					</skill>
 				</oneof>
 			</required>
