@@ -614,15 +614,20 @@
 		<weapon>
 			<name>Krime Stopper-II</name>
 			<useskill>Longarms</useskill>
+			<category>Shotguns</category>
+			<range>Heavy Pistols</range>
 		</weapon>
 		<weapon>
 			<name>Krime Stopper-II (Shopkeeper)</name>
 			<useskill>Longarms</useskill>
+			<category>Shotguns</category>
+			<range>Shotguns</range>
 		</weapon>
 		<weapon>
 			<name>Krime Stopper-II (Homeguard)</name>
 			<useskill>Longarms</useskill>
-		</weapon>
+			<category>Shotguns</category>
+			<range>Shotguns</range>
 		<weapon>
 			<name>Krime Saint Nicholas</name>
 			<useskill>Longarms</useskill>
@@ -746,6 +751,19 @@
 			<name>Krime Ripper</name>
 			<hide />
 		</weapon>
+		<!-- Heavy Weapons -->
+		<weapon>
+		<name>HK 82A1</name>
+		<conceal>4</conceal>
+		</weapon>
+		<!--End Region Heavy Weapons-->
+		<!-- Submachineguns -->
+		 <weapon>
+		<name>Krime AKM-SU97</name>
+		<category>Carbines</category>
+		<conceal>4</conceal>
+		</weapon>
+		<!-- End Region Submachineguns -->
 		<!--End Region Banned Items-->
 		<weapon>
 			<name>Narcoject PEP</name>
