@@ -56,6 +56,10 @@
 			<hide />
 		</metamagic>
 		<metamagic>
+			<name>Domain of the Warrior</name>
+			<hide />
+		</metamagic>
+		<metamagic>
 			<!-- Harmonious Defense -->
 			<name>Harmonious Defense</name>
 			<required>
@@ -74,6 +78,22 @@
 			<bonus>
         		<selecttext xml="skills.xml" xpath="/chummer/skills/skill" allowedit="True" />
       		</bonus>
+		</metamagic>
+		<metamagic>
+			<id>8c433e0e-d1ee-41d8-82bd-ecfc20c6a069</id>
+			<name>Domain of the [Way]</name>
+			<adept>True</adept>
+			<magician>False</magician>
+			<required>
+				<oneof>
+				<quality>Adept</quality>
+				<quality>Mystic Adept</quality>
+				</oneof>
+			</required>
+			<bonus>
+				<selecttext />
+			</bonus>
+			<notes>Reduces the effective Background Count by IG/2 when taking magically-enhanced actions aligned with the Adept's Way.</notes>
 		</metamagic>
 	</metamagics>
 </chummer>

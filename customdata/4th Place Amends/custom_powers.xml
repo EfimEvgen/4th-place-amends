@@ -48,8 +48,8 @@
       <notes>
       Attribute Discounts: 
       CHA (Speaker's, Artist's, Spiritual)
-      INT (Beast's, Invisible, Artist's Artisan's, Warrior's)
-      LOG (Invisible, Athlete's)
+      INT (Beast's, Invisible, Artist's, Artisan's, Warrior's)
+      LOG (Invisible, Artisan's)
       WIL (Athlete's, Beast's, Warrior's, Spiritual)
       </notes>
     </power>
@@ -68,6 +68,7 @@
             <quality>The Artisan's Way</quality>
             <quality>The Artist's Way</quality>
             <quality>The Athlete's Way</quality>
+            <quality>The Burnout's Way</quality>
             <quality>The Speaker's Way</quality>
             <quality>The Spiritual Way</quality>
             <quality>The Warrior's Way</quality>
@@ -119,6 +120,7 @@
         <required>
           <oneof>
             <quality>The Warrior's Way</quality>
+            <quality>The Spiritual Way</quality>
           </oneof>
         </required>
       </adeptwayrequires>
@@ -269,6 +271,179 @@
 					<quality>Dilettante</quality>
 				</oneof>
       </required>
+    </enhancement>
+    <enhancement>
+      <id>a6a2cc12-666a-4ed7-8044-4e9fffe52669</id>
+      <name>Beast's Tongue</name>
+      <power>Animal Empathy</power>
+      <source>4PR</source>
+      <page>1</page>
+      <required>
+        <allof>
+          <power>Animal Empathy</power>
+        </allof>
+				<oneof>
+					<quality>The Beast's Way</quality>
+					<quality>Dilettante</quality>
+				</oneof>
+      </required>
+      <notes>The Adept may give complex orders to animals, as if they were metahumans.</notes>
+    </enhancement>
+    <enhancement>
+      <id>ac3258dc-22f1-4198-950f-903ebce52dab</id>
+      <name>Binding Voice</name>
+      <power>Commanding Voice</power>
+      <source>4PR</source>
+      <page>1</page>
+      <required>
+        <allof>
+          <power>Commanding Voice</power>
+        </allof>
+				<oneof>
+					<quality>The Speaker's Way</quality>
+					<quality>Dilettante</quality>
+				</oneof>
+      </required>
+      <notes>The Adept may use Commanding Voice on spirits. Spirits with higher Force than the Adept's Magic gain (Force - Magic) additional resistance dice.</notes>
+    </enhancement>
+    <enhancement>
+      <id>ae495dbb-346c-4b5b-827a-3d3b1d151d4b</id>
+      <name>Critical Spellstrike</name>
+      <power>Critical Strike</power>
+      <source>4PR</source>
+      <page>1</page>
+      <required>
+        <allof>
+          <power>Critical Strike</power>
+        </allof>
+				<oneof>
+					<quality>The Magician's Way</quality>
+					<quality>Dilettante</quality>
+				</oneof>
+      </required>
+      <notes>Touch-range Indirect combat spells the Adept casts gain +1 DV.</notes>
+    </enhancement>
+    <enhancement>
+      <id>a7970c53-139c-4bf9-8172-dc54d02cb23b</id>
+      <name>Nonverbal Communicator</name>
+      <power>Kinesics Mastery</power>
+      <source>4PR</source>
+      <page>1</page>
+      <required>
+        <allof>
+          <power>Kinesics Mastery</power>
+        </allof>
+				<oneof>
+					<quality>The Speaker's Way</quality>
+					<quality>Dilettante</quality>
+				</oneof>
+      </required>
+      <notes>Kinesics Mastery can be used to communicate with characters without Kinesics Mastery.</notes>
+    </enhancement>
+    <enhancement>
+      <id>3a814a8f-46a1-41ea-a5d5-7277a5e6eb6c</id>
+      <name>Pierce the Veil</name>
+      <power>Piercing Senses</power>
+      <source>4PR</source>
+      <page>1</page>
+      <required>
+        <allof>
+          <power>Piercing Senses</power>
+        </allof>
+				<oneof>
+					<quality>The Spiritual Way</quality>
+					<quality>Dilettante</quality>
+				</oneof>
+      </required>
+      <notes>Piercing Senses adds its rating as bonus dice to Assensing rolls when attempting to pierce Aura Masking.</notes>
+    </enhancement>
+    <enhancement>
+      <id>9b76063a-711e-4791-a59b-eb75fd59753a</id>
+      <name>Protean Guard</name>
+      <power>Mystic Armor</power>
+      <source>4PR</source>
+      <page>1</page>
+      <required>
+        <allof>
+          <power>Mystic Armor</power>
+        </allof>
+				<oneof>
+					<quality>The Beast's Way</quality>
+					<quality>Dilettante</quality>
+				</oneof>
+      </required>
+      <notes>While taking animal form via Shift, Shapeshift, or Totem Form, Mystic Armor gives +2 armor per rating instead of +1. Not compatible with ware or worn armor.</notes>
+    </enhancement>
+    <enhancement>
+      <id>275aa883-88f7-4816-b26d-e3a4274886f2</id>
+      <name>Skillwire Savant</name>
+      <power>Demara</power>
+      <source>4PR</source>
+      <page>1</page>
+      <required>
+        <allof>
+          <power>Demara</power>
+        </allof>
+				<oneof>
+					<quality>The Burnout's Way</quality>
+					<quality>Dilettante</quality>
+				</oneof>
+      </required>
+      <notes>Demara can be trained on Activesofts and stacks with an Activesoft's skill rating.</notes>
+    </enhancement>
+    <enhancement>
+      <id>61e34271-d031-4ccf-b32f-06a6a3dd2be3</id>
+      <name>Sorcerous Weapon</name>
+      <power>Elemental Weapon</power>
+      <source>4PR</source>
+      <page>1</page>
+      <required>
+        <allof>
+          <power>Elemental Weapon</power>
+        </allof>
+				<oneof>
+					<quality>The Magician's Way</quality>
+					<quality>Dilettante</quality>
+				</oneof>
+      </required>
+      <notes>May cast T range spells of the same element as the Elemental Weapon power via the weapon focus.
+
+      Bonded weapon foci now count as fetishes for spells of the same element.
+      </notes>
+    </enhancement>
+    <enhancement>
+      <id>4e8f4a59-f93d-48ab-9144-483ad9a6c64b</id>
+      <name>Sudden Strike</name>
+      <power>Critical Strike</power>
+      <source>4PR</source>
+      <page>1</page>
+      <required>
+        <allof>
+          <power>Critical Strike</power>
+        </allof>
+				<oneof>
+					<quality>The Invisible Way</quality>
+					<quality>Dilettante</quality>
+				</oneof>
+      </required>
+      <notes>Critical Strike adds an additional +1 DV when attacking a non-inanimate target that cannot defend against the attack.</notes>
+    </enhancement>
+    <enhancement>
+      <id>1c8b7852-de5c-4949-9783-b8cc6a750519</id>
+      <name>Thousand Weapons</name>
+      <power>Enhanced Accuracy (skill)</power>
+      <source>4PR</source>
+      <page>1</page>
+      <required>
+        <allof>
+          <power>Enhanced Accuracy (skill)</power>
+        </allof>
+				<oneof>
+					<quality>The Invisible Way</quality>
+					<quality>Dilettante</quality>
+				</oneof>
+      </required>
+      <notes>1H items count as knives (if edged) or saps. 2H items count as swords (if edged) or clubs.</notes>
     </enhancement>
   </enhancements>
 </chummer>

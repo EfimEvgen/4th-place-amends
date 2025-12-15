@@ -60,6 +60,15 @@
 		<power>
 			<name>Iron Gut</name>
 			<points>0.5</points>
+			<adeptway>0.25</adeptway>
+			<adeptwayrequires>
+				<required>
+				<oneof>
+					<quality>The Burnout's Way</quality>
+					<quality>The Spiritual's Way</quality>
+				</oneof>
+				</required>
+			</adeptwayrequires>
 		</power>
 		<power>
 			<name>Pain Resistance</name>
@@ -68,6 +77,15 @@
 		<power>
 			<name>Missile Parry</name>
 			<points>1</points>
+			<adeptway>0.5</adeptway>
+			<adeptwayrequires>
+				<required>
+				<oneof>
+					<quality>The Warrior's Way</quality>
+					<quality>The Spiritual's Way</quality>
+				</oneof>
+				</required>
+			</adeptwayrequires>
 		</power>
 		<power>
 			<name>Pain Relief</name>
@@ -96,9 +114,20 @@
 		<power>
 			<name>Skate</name>
 			<points>0.5</points>
+			<adeptway>0.25</adeptway>
+			<adeptwayrequires>
+				<required>
+				<oneof>
+					<quality>The Athlete's Way</quality>
+					<quality>The Burnout's Way</quality>
+					<quality>The Invisible Way</quality>
+					<quality>The Spiritual Way</quality>
+				</oneof>
+				</required>
+			</adeptwayrequires>
 		</power>
 		<power>
-			<name>Rapid healing</name>
+			<name>Rapid Healing</name>
 			<points>0.25</points>
 		</power>
 		<power>
@@ -140,8 +169,118 @@
 				<required>
 					<oneof>
 						<quality>The Speaker's Way</quality>
+						<quality>The Spiritual Way</quality>
+					</oneof>
+				</required>
+			</adeptwayrequires>
+		</power>
+		<power>
+			<name>Improved Physical Attribute</name>
+			<adeptwayrequires>
+				<required>
+				<oneof>
+					<quality>The Athlete's Way</quality>
+					<quality>The Warrior's Way</quality>
+					<quality>The Spiritual's Way</quality>
+				</oneof>
+				</required>
+			</adeptwayrequires>
+		</power>
+		<power>
+			<name>Improved Ability (skill)</name>
+		    <adeptwayrequires>
+				<required>
+					<oneof>
+						<quality>The Artisan's Way</quality>
+						<quality>The Artist's Way</quality>
+						<quality>The Athlete's Way</quality>
+						<quality>The Burnout's Way</quality>
+						<quality>The Speaker's Way</quality>
+						<quality>The Spiritual Way</quality>
 						<quality>The Warrior's Way</quality>
 					</oneof>
+				</required>
+			</adeptwayrequires>
+		</power>
+		<power>
+			<name>Smashing Blow</name>
+		    <adeptwayrequires>
+				<required>
+					<oneof>
+						<quality>The Burnout's Way</quality>
+						<quality>The Spiritual Way</quality>
+					</oneof>
+				</required>
+			</adeptwayrequires>
+		</power>
+		<power>
+			<name>Spell Resistance</name>
+		    <adeptwayrequires>
+				<required>
+					<oneof>
+						<quality>The Burnout's Way</quality>
+						<quality>The Spiritual Way</quality>
+					</oneof>
+				</required>
+			</adeptwayrequires>
+		</power>
+		<power>
+			<name>Supernatural Toughness</name>
+		    <adeptwayrequires>
+				<required>
+					<oneof>
+						<quality>The Burnout's Way</quality>
+						<quality>The Spiritual Way</quality>
+						<quality>The Warrior's Way</quality>
+					</oneof>
+				</required>
+			</adeptwayrequires>
+		</power>
+		<power>
+			<name>Traceless Walk</name>
+		    <adeptwayrequires>
+				<required>
+					<oneof>
+						<quality>The Beast's Way</quality>
+						<quality>The Burnout's Way</quality>
+						<quality>The Invisible Way</quality>
+						<quality>The Spiritual Way</quality>
+					</oneof>
+				</required>
+			</adeptwayrequires>
+		</power>
+		<power>
+			<name>Transmit Damage</name>
+		    <adeptwayrequires>
+				<required>
+					<oneof>
+						<quality>The Burnout's Way</quality>
+						<quality>The Spiritual Way</quality>
+					</oneof>
+				</required>
+			</adeptwayrequires>
+		</power>
+		<power>
+			<name>Wall Running</name>
+		    <adeptwayrequires>
+				<required>
+					<oneof>
+						<quality>The Ahtlete's Way</quality>
+						<quality>The Burnout's Way</quality>
+						<quality>The Invisible Way</quality>
+						<quality>The Spiritual Way</quality>
+					</oneof>
+				</required>
+			</adeptwayrequires>
+		</power>
+		<power>
+			<name>State of Purity</name>
+			<adeptwayrequires>
+				<required>
+				<oneof>
+					<quality>The Warrior's Way</quality>
+					<quality>The Spiritual's Way</quality>
+				</oneof>
 				</required>
 			</adeptwayrequires>
 		</power>
@@ -161,12 +300,7 @@
 		</enhancement>
 		<enhancement>
 			<name>Pied Piper</name>
-			<required amendoperation="replace">
-				<oneof>
-					<quality>The Artist's Way</quality>
-					<quality>Dilettante</quality>
-				</oneof>
-			</required>
+			<hide />
 		</enhancement>
 		<enhancement>
 			<name>Skin Artist</name>
@@ -212,7 +346,7 @@
 					<power>Traceless Walk</power>
 				</allof>
 				<oneof>
-					<quality>The Invisible Way</quality>
+					<quality>The Magician's Way</quality>
 					<quality>Dilettante</quality>
 				</oneof>
 			</required>

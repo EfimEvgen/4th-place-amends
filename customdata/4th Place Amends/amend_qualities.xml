@@ -3227,5 +3227,47 @@
 				</oneof>
 			</forbidden>
 		</quality>
+		<quality>
+			<name>The Artist's Way</name>
+      		<karma>20</karma>
+			<bonus>
+				<focusbindingkarmacost>
+				<name>Qi Focus</name>
+				<val>-2</val>
+				<extracontains>Improved Ability (skill) (Artisan)</extracontains>
+				</focusbindingkarmacost>
+        		<unlockskills name="Artificing">Name</unlockskills>
+			</bonus>
+      		<notes>The reduction in focus binding cost only applies to implanted weapon foci. Add another 2 karma surcharge if binding a non-implanted weapon focus.</notes>
+		</quality>
+		<quality>
+			<name>The Burnout's Way</name>
+      		<karma>20</karma>
+			<bonus>
+				<focusbindingkarmacost>
+				<name>Weapon Focus</name>
+				<val>-2</val>
+				</focusbindingkarmacost>
+			</bonus>
+      		<notes>The reduction in focus binding cost only applies to implanted weapon foci. Add another 2 karma surcharge if binding a non-implanted weapon focus.</notes>
+		</quality>
+		<quality>
+			<name>The Spiritual Way</name>
+			<bonus>
+        		<freequality>ced3fecf-2277-4b20-b1e0-894162ca9ae2</freequality>
+			</bonus>
+      		<notes>Activating or deactivating Astral Perception is a Free Action, and the Adept does not take -2 to physical actions when Astrally Perceiving.</notes>
+		</quality>
+		<quality>
+			<name>The Warrior's Way</name>
+			<bonus>
+				<damageresistance>1</damageresistance>
+				<focusbindingkarmacost>
+				<name>Weapon Focus</name>
+				<val>-2</val>
+				</focusbindingkarmacost>
+			</bonus>
+      		<notes>Warrior's Way also reduces the Attunement costs for weapons by 2.</notes>
+		</quality>
 	</qualities>
 </chummer>
