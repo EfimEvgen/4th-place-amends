@@ -100,6 +100,23 @@
 			<page>1</page>
 		</metamagic>
 		<metamagic>
+			<id>6ba144b29-9fa8-40fa-bbae-a7731437a4e7</id>
+			<name>Sin Eater</name>
+			<adept>True</adept>
+			<magician>True</magician>
+			<required>
+				<oneof>
+				<quality>Magician</quality>
+				<quality>Aspected Magician</quality>
+				<quality>Apprentice</quality>
+				<quality>The Magician's Way</quality>
+				<quality>The Spiritual Way</quality>
+				</oneof>
+			</required>
+			<source>4PR</source>
+			<page>1</page>
+		</metamagic>
+		<metamagic>
 			<id>280fa53f-0802-40a9-94c9-e4431f40ca32</id>
 			<name>Pied Piper</name>
 			<adept>True</adept>
