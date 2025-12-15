@@ -99,5 +99,315 @@
 			<source>4PR</source>
 			<page>1</page>
 		</metamagic>
+		<metamagic>
+			<id>280fa53f-0802-40a9-94c9-e4431f40ca32</id>
+			<name>Pied Piper</name>
+			<adept>True</adept>
+			<magician>False</magician>
+			<required>
+				<oneof>
+				<quality>The Artist's Way</quality>
+				</oneof>
+			</required>
+		</metamagic>
+		<metamagic>
+			<id>ea8b88b7-deb8-430c-b001-8539e25ad7da</id>
+			<name>Beckon Spirit</name>
+			<adept>True</adept>
+			<magician>False</magician>
+			<required>
+				<oneof>
+				<quality>The Spiritual Way</quality>
+				</oneof>
+			</required>
+			<notes>Permits summoning a spirit with (CHA + IG), Force up to MAG. Drain is always (Force) Physical Drain.</notes>
+		</metamagic>
+		<metamagic>
+			<id>a0431bef-db1b-4356-846c-ad0f24bf7c75</id>
+			<name>Between the Gaps</name>
+			<adept>True</adept>
+			<magician>False</magician>
+			<required>
+				<oneof>
+				<quality>The Invisible Way</quality>
+				</oneof>
+			</required>
+			<notes>
+			(-IG) to the AP of 1H Reach 0 blades with Conceal +0 or below, pistols or machine pistols in SS/SA firing mode, or garrotes.
+
+			Max AP bonus is twice Conceal.
+
+			If the target is unaware, clinched, or has been successfully hit with a garrote called shot, add (+IG/2) to attack damage.
+
+			Not compatible with spells or critter powers that would increase attack damage.
+			</notes>
+		</metamagic>
+		<metamagic>
+			<id>01b4ca11-5922-423e-9f89-f05ad19ced25</id>
+			<name>Cybernetic Attunement</name>
+			<adept>True</adept>
+			<magician>False</magician>
+			<required>
+				<oneof>
+				<quality>The Burnout's Way</quality>
+				</oneof>
+			</required>
+			<notes>All implanted weapons and equipment count as Attuned.</notes>
+		</metamagic>
+		<metamagic>
+			<id>7ec28715-0657-4c09-8aec-3472178896c0</id>
+			<name>Fortitude</name>
+			<adept>True</adept>
+			<magician>False</magician>
+			<required>
+				<oneof>
+				<quality>The Warrior's Way</quality>
+				</oneof>
+			</required>
+			<notes>
+			Ignore IG/2 boxes of Stun/Physical damage when calcuating injury penalties. 
+			
+			If the Adept has Pain Resistance or High Pain Tolerance greater than their current injury penalty, they do not fall unconscious from Stun or Physical damage.
+
+			Not compatible with drugs, critter powers, Pain Editors, or Adrenaline Pumps.
+			</notes>
+		</metamagic>
+		<metamagic>
+			<id>b077a7f7-6062-4ae5-a5af-dee0ba66682a</id>
+			<name>Instinctive Defense</name>
+			<adept>True</adept>
+			<magician>False</magician>
+			<required>
+				<oneof>
+				<quality>The Warrior's Way</quality>
+				</oneof>
+			</required>
+			<notes>
+			The Adept gains a pool of Defense Points equal to (5 + [MAG + IG]/2). 
+			
+			Defense Points can be spent instead of Initiative on a 1:1 basis for the following interrupts:
+			
+			Block, Parry, Dodge, Right Back At Ya!, Riposte, and Counterstrike.
+			</notes>
+		</metamagic>
+		<metamagic>
+			<id>c8f591c3-87ee-4c79-a6f4-888371154d4f</id>
+			<name>Instinctive Pilot</name>
+			<adept>True</adept>
+			<magician>False</magician>
+			<required>
+				<oneof>
+				<quality>The Artisan's Way</quality>
+				</oneof>
+			</required>
+			<notes>
+			When piloting a vehicle manually, Control Vehicle is a Free action and attacks are no longer always Complex actions.
+			</notes>
+		</metamagic>
+		<metamagic>
+			<id>b8559cb5-d728-46aa-99f4-cc2279d8da6b</id>
+			<name>King of Beasts</name>
+			<adept>True</adept>
+			<magician>False</magician>
+			<required>
+				<oneof>
+				<quality>The Beast's Way</quality>
+				</oneof>
+			</required>
+			<notes>
+			Can take a Complex action to command non-sapient critters - Animal Handling vs. critter (WIL + INT + MAG + trainer's Animal Handling).
+
+			Multiple critters use the highest defense roll, +1 for each additional critter. If successful, critters will carry out Adept's command.
+			</notes>
+		</metamagic>
+		<metamagic>
+			<id>9afbcc8f-a0f5-4344-8140-937278ce4cb6</id>
+			<name>Magic and Machine</name>
+			<adept>True</adept>
+			<magician>False</magician>
+			<required>
+				<oneof>
+				<quality>The Burnout's Way</quality>
+				</oneof>
+			</required>
+			<notes>
+			Adrenaline Boost and Improved Reflexes may now stack with a single bioware/geneware/cyberware augmentation.
+
+			Improved Physical Attribute may enhance cyberlimbs (but only up to double the Enhanced STR/AGI on the limb).
+			</notes>
+		</metamagic>
+		<metamagic>
+			<id>e3427981-29d5-48f1-b3e7-bec6b25dfe61</id>
+			<name>Martial Synergy</name>
+			<adept>True</adept>
+			<magician>False</magician>
+			<required>
+				<oneof>
+				<quality>The Warrior's Way</quality>
+				</oneof>
+			</required>
+			<notes>
+			The Adept can take a Free action, buying hits on a (IG + Related Combat Skill) [Related Combat Skill] test, to enhance an attack.
+
+			Related Combat Skills:
+			* Any Combat Active skills in the same skill group are related;
+			* Heavy Weapons, Spray Weapons, and Directed Energy count as related;
+			* Monofilament Weapons, Throwing Weapons, and Archery count as related;
+			* For Gunnery, the combat skill that the weapon normally uses counts as related;
+			* For combat use of Gymnastics (via Clinch), Unarmed Combat counts as related.
+			</notes>
+		</metamagic>
+		<metamagic>
+			<id>6ddbcf33-4559-41d5-a5a2-35da07d37303</id>
+			<name>Medium</name>
+			<adept>True</adept>
+			<magician>False</magician>
+			<required>
+				<oneof>
+				<quality>The Spiritual Way</quality>
+				</oneof>
+			</required>
+			<notes>
+			The Adept gains +IG dice to resist possession and can attempt to channel any spirit which attempts to possess them.
+
+			The Adept gains 1 Service per net hit on their possession resistance roll and must resist 2 drain per hit on the spirit's possession roll.
+
+			The spirit is ejected from the Adept's body when Services are depleted or upon sunrise/sunset. 
+			
+			The Adept may inflict (IG) unresisted Stun/Physical damage to the spirit when the spirit is ejected.
+			</notes>
+		</metamagic>
+		<metamagic>
+			<id>e90fc578-214e-423c-89a4-2ae2005be1b2</id>
+			<name>Posthuman Potential</name>
+			<adept>True</adept>
+			<magician>False</magician>
+			<required>
+				<oneof>
+				<quality>The Burnout's Way</quality>
+				</oneof>
+			</required>
+			<notes>
+			Choose IG/2 physical attributes to enhance. 
+			
+			The Adept can augment those attributes to +5/+6 with a total of +6/+9 permanent augmentation bonuses to the attribute respectively.
+
+			Permanent augmentations: ware or adept powers without a Duration.
+			</notes>
+		</metamagic>
+		<metamagic>
+			<id>5fd5c06e-7816-47ba-8af0-9017d57dc7ee</id>
+			<name>Techno-Artificer</name>
+			<adept>True</adept>
+			<magician>False</magician>
+			<required>
+				<oneof>
+				<quality>The Artisan's Way</quality>
+				</oneof>
+			</required>
+			<bonus>
+        		<unlockskills name="Artificing">Name</unlockskills>
+			</bonus>
+			<notes>
+			Reduce the OR of the Telesma or an item being Attuned by (IG/2), min half.
+			</notes>
+		</metamagic>
+		<metamagic>
+			<id>5fd5c06e-7816-47ba-8af0-9017d57dc7ee</id>
+			<name>Techno-Artificer</name>
+			<adept>True</adept>
+			<magician>False</magician>
+			<required>
+				<oneof>
+				<quality>The Artisan's Way</quality>
+				</oneof>
+			</required>
+			<bonus>
+        		<unlockskills name="Artificing">Name</unlockskills>
+			</bonus>
+			<notes>
+			Reduce the OR of the Telesma or an item being Attuned by (IG/2), min half.
+			</notes>
+		</metamagic>
+		<metamagic>
+			<id>cc8863fd-1027-46a3-b06a-616e9daabc22</id>
+			<name>Ritual Art</name>
+			<adept>True</adept>
+			<magician>False</magician>
+			<required>
+				<oneof>
+				<quality>The Artist's Way</quality>
+				</oneof>
+			</required>
+			<notes>
+			Adept may use Anchored Rituals, using lower of (IG) or Artisan instead of Ritual Spellcasting. 
+
+			Adept can roll Artisan (limit [IG]) to decrease time it takes to create a temporary lodge by 10 min/hit.
+			</notes>
+		</metamagic>
+		<metamagic>
+			<id>59163f13-a99d-42ce-8cff-3cb3f55b189a</id>
+			<name>Sharp Tongue</name>
+			<adept>True</adept>
+			<magician>False</magician>
+			<required>
+				<oneof>
+				<quality>The Speaker's Way</quality>
+				</oneof>
+			</required>
+			<notes>
+			Choose an Active Skill Category and roll Intimidation vs. (WIL x 2). Bonuses against intimidation or mental manipulation apply.
+
+			Target's next action using a skill from that category suffers a dice penalty equal to net hits. Only the highest penalty from this metamagic applies.
+			</notes>
+		</metamagic>
+		<metamagic>
+			<id>1bbc0dbd-4a43-4761-8143-bdafd281e088</id>
+			<name>Spirit Familiar</name>
+			<adept>True</adept>
+			<magician>False</magician>
+			<required>
+				<oneof>
+				<quality>The Beast's Way</quality>
+				</oneof>
+			</required>
+			<notes>
+			Mundane unaugmented animal familiars and attuned animals gain Astral Form, Dual Natured, and Materialization. They may learn Assensing and Astral Combat.
+			</notes>
+		</metamagic>
+		<metamagic>
+			<id>09990c0c-cada-45ca-8c54-552d838cc08c</id>
+			<name>Swashbuckler</name>
+			<adept>True</adept>
+			<magician>False</magician>
+			<required>
+				<oneof>
+				<quality>The Artist's Way</quality>
+				</oneof>
+			</required>
+			<notes>
+			+IG to Trick Shot called shots, which can be used in combat. Trick Shots don't require a Free Action to use.
+
+			Trick Shot + Intimidation can be combined into one Complex Action.
+
+			+IG/2 dice when making an attack using a called shot that does not deal damage to the target.
+			</notes>
+		</metamagic>
+		<metamagic>
+			<id>39bde9b7-03de-4110-955f-509e58ba83ce</id>
+			<name>Vehicle Ace</name>
+			<adept>True</adept>
+			<magician>False</magician>
+			<required>
+				<oneof>
+				<quality>The Artisan's Way</quality>
+				</oneof>
+			</required>
+			<notes>
+			Same effective bonuses as a R1 Control Rig when manually piloting a vehicle. Can be taken twice to give the bonuses of a R2 Control Rig instead.
+
+			Does not stack with Control Rig Boosters/Optimization.
+			</notes>
+		</metamagic>
 	</metamagics>
 </chummer>
