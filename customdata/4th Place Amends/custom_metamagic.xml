@@ -100,7 +100,7 @@
 			<page>1</page>
 		</metamagic>
 		<metamagic>
-			<id>6ba144b29-9fa8-40fa-bbae-a7731437a4e7</id>
+			<id>0eda8268-7443-4f84-adef-a4a811a03817</id>
 			<name>Sin Eater</name>
 			<adept>True</adept>
 			<magician>True</magician>
@@ -310,23 +310,6 @@
 			The Adept can augment those attributes to +5/+6 with a total of +6/+9 permanent augmentation bonuses to the attribute respectively.
 
 			Permanent augmentations: ware or adept powers without a Duration.
-			</notes>
-		</metamagic>
-		<metamagic>
-			<id>5fd5c06e-7816-47ba-8af0-9017d57dc7ee</id>
-			<name>Techno-Artificer</name>
-			<adept>True</adept>
-			<magician>False</magician>
-			<required>
-				<oneof>
-				<quality>The Artisan's Way</quality>
-				</oneof>
-			</required>
-			<bonus>
-        		<unlockskills name="Artificing">Name</unlockskills>
-			</bonus>
-			<notes>
-			Reduce the OR of the Telesma or an item being Attuned by (IG/2), min half.
 			</notes>
 		</metamagic>
 		<metamagic>
