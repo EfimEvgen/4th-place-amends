@@ -628,7 +628,7 @@
 			<useskill>Longarms</useskill>
 			<category>Shotguns</category>
 			<range>Shotguns</range>
-		<weapon>
+		</weapon>
 			<name>Krime Saint Nicholas</name>
 			<useskill>Longarms</useskill>
 		</weapon>
@@ -802,4 +802,5 @@
     	</weapon>
 	</weapons>
 </chummer>
+
 
