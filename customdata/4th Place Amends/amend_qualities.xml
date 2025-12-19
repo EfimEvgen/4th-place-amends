@@ -12,6 +12,131 @@
 			<hide />
 		</quality>
 		<quality>
+			<name>Astral Infiltrator</name>
+			<required amendoperation="replace">
+				<allof>
+				<magenabled />
+				<initiategrade>1</initiategrade>
+				</allof>
+				<oneof>
+				<skill>
+					<name>Assensing</name>
+					<val>5</val>
+					<spec>Wards</spec>
+				</skill>
+				<skill>
+					<name>Assensing</name>
+					<val>7</val>
+				</skill>
+				</oneof>
+			</required>
+		</quality>
+		<quality>
+		<name>Dual-Natured Defender</name>
+		<karma>5</karma>
+		<required amendoperation="replace">
+			<allof>
+			<magenabled />
+			<skill>
+				<name>Assensing</name>
+				<val>3</val>
+			</skill>
+			</allof>
+			<oneof>
+				<critterpower>Dual Natured</critterpower>
+				<metamagic>Channeling</metamagic>
+			</oneof>
+		</required>
+		</quality>
+		<quality>
+			<name>Spirit Hunter I</name>
+			<required amendoperation="replace">
+				<allof>
+				<magenabled />
+				</allof>
+				<oneof>
+				<power>Killing Hands</power>
+				<skill>
+					<name>Banishing</name>
+					<val>4</val>
+				</skill>
+				<skill>
+					<name>Unarmed</name>
+					<val>4</val>
+					<spec>Astral Combat</spec>
+				</skill>
+				<skill>
+					<name>Unarmed</name>
+					<val>6</val>
+				</skill>
+				</oneof>
+			</required>
+		</quality>
+		<quality>
+			<name>Spirit Hunter II</name>
+			<required amendoperation="replace">
+				<allof>
+				<magenabled />
+				<quality>Spirit Hunter I</quality>
+				</allof>
+				<oneof>
+				<group>
+					<power>Killing Hands</power>
+					<skill>
+					<name>Unarmed</name>
+					<spec>Astral Combat</spec>
+					<val>6</val>
+					</skill>
+				</group>
+				<skill>
+					<name>Banishing</name>
+					<val>8</val>
+				</skill>
+				<skill>
+					<name>Unarmed</name>
+					<val>8</val>
+					<spec>Astral Combat</spec>
+				</skill>
+				<skill>
+					<name>Unarmed</name>
+					<val>10</val>
+				</skill>
+				</oneof>
+			</required>
+		</quality>
+		<quality>
+		<name>Spirit Hunter III</name>
+		<required amendoperation="replace">
+			<allof>
+			<magenabled />
+			<quality>Spirit Hunter II</quality>
+			</allof>
+			<oneof>
+			<group>
+				<power>Killing Hands</power>
+				<skill>
+				<name>Unarmed</name>
+				<spec>Astral Combat</spec>
+				<val>8</val>
+				</skill>
+			</group>
+			<skill>
+				<name>Banishing</name>
+				<val>12</val>
+			</skill>
+			<skill>
+				<name>Unarmed</name>
+				<val>12</val>
+				<spec>Astral Combat</spec>
+			</skill>
+			<skill>
+				<name>Unarmed</name>
+				<val>14</val>
+			</skill>
+			</oneof>
+		</required>
+		</quality>
+		<quality>
 			<name>Superhuman Psychosis</name>
 			<bonus>
 				<specificskill amendoperation="addnode">
