@@ -165,5 +165,161 @@
 				<selecttext />
 			</bonus>
 		</spell>
+		<spell>
+			<id>37fe59b2-535c-4541-84fc-db279ea233fb</id>
+			<name>Sear</name>
+			<page>0</page>
+			<source>4PR</source>
+			<category>Combat</category>
+			<damage>P</damage>
+			<descriptor>Indirect, Elemental</descriptor>
+			<duration>I</duration>
+			<dv>F-5</dv>
+			<range>T</range>
+			<type>P</type>
+		</spell>
+		<spell>
+			<id>891af0a5-22e9-462f-9164-bdbe45d08fd1</id>
+			<name>Laser</name>
+			<page>0</page>
+			<source>4PR</source>
+			<category>Combat</category>
+			<damage>S</damage>
+			<descriptor>Indirect, Elemental</descriptor>
+			<duration>I</duration>
+			<dv>F-3</dv>
+			<range>LOS</range>
+			<type>P</type>
+		</spell>
+		<spell>
+			<id>6df6f398-a3fd-4cc0-a1fd-9b80b9a88c0f</id>
+			<name>Nova</name>
+			<page>0</page>
+			<source>4PR</source>
+			<category>Combat</category>
+			<damage>S</damage>
+			<descriptor>Indirect, Elemental</descriptor>
+			<duration>I</duration>
+			<dv>F-1</dv>
+			<range>LOS (A)</range>
+			<type>P</type>
+		</spell>
+		<spell>
+			<id>6441da91-1b80-4b53-bbe8-48bffff2a795</id>
+			<name>Spikes</name>
+			<page>0</page>
+			<source>4PR</source>
+			<category>Combat</category>
+			<damage>P</damage>
+			<descriptor>Indirect, Elemental</descriptor>
+			<duration>I</duration>
+			<dv>F-5</dv>
+			<range>T</range>
+			<type>P</type>
+		</spell>
+		<spell>
+			<id>a3085390-ed7d-46c3-b8a9-6293fa056b8f</id>
+			<name>Shards</name>
+			<page>0</page>
+			<source>4PR</source>
+			<category>Combat</category>
+			<damage>S</damage>
+			<descriptor>Indirect, Elemental</descriptor>
+			<duration>I</duration>
+			<dv>F-3</dv>
+			<range>LOS</range>
+			<type>P</type>
+		</spell>
+		<spell>
+			<id>c5d71c8e-4d67-4e51-9605-68e26c8a6671</id>
+			<name>Frag</name>
+			<page>0</page>
+			<source>4PR</source>
+			<category>Combat</category>
+			<damage>S</damage>
+			<descriptor>Indirect, Elemental</descriptor>
+			<duration>I</duration>
+			<dv>F-1</dv>
+			<range>LOS (A)</range>
+			<type>P</type>
+		</spell>
+		<spell>
+			<id>21d506f3-c2c0-4f33-8643-ae9a7a675e1f</id>
+			<name>Choke</name>
+			<page>0</page>
+			<source>4PR</source>
+			<category>Combat</category>
+			<damage>P</damage>
+			<descriptor>Indirect, Elemental</descriptor>
+			<duration>I</duration>
+			<dv>F-5</dv>
+			<range>T</range>
+			<type>P</type>
+		</spell>
+		<spell>
+			<id>90c239ef-c4b9-4f70-8ab5-6b960ba61f9b</id>
+			<name>Steam</name>
+			<page>0</page>
+			<source>4PR</source>
+			<category>Combat</category>
+			<damage>S</damage>
+			<descriptor>Indirect, Elemental</descriptor>
+			<duration>I</duration>
+			<dv>F-3</dv>
+			<range>LOS</range>
+			<type>P</type>
+		</spell>
+		<spell>
+			<id>950839ca-5d58-48bc-9fc1-7eac7e73941a</id>
+			<name>Smoke Cloud</name>
+			<page>0</page>
+			<source>4PR</source>
+			<category>Combat</category>
+			<damage>S</damage>
+			<descriptor>Indirect, Elemental</descriptor>
+			<duration>I</duration>
+			<dv>F-1</dv>
+			<range>LOS (A)</range>
+			<type>P</type>
+		</spell>
+		<spell>
+			<id>91109d5d-b5cb-493d-8a1e-be8cc61678bb</id>
+			<name>Oscillate</name>
+			<page>0</page>
+			<source>4PR</source>
+			<category>Combat</category>
+			<damage>P</damage>
+			<descriptor>Indirect, Elemental</descriptor>
+			<duration>I</duration>
+			<dv>F-5</dv>
+			<range>T</range>
+			<type>P</type>
+		</spell>
+		<spell>
+			<id>99979162-85fe-43c9-b0c8-c0fd67b250f0</id>
+			<name>Screech</name>
+			<page>0</page>
+			<source>4PR</source>
+			<category>Combat</category>
+			<damage>S</damage>
+			<descriptor>Indirect, Elemental</descriptor>
+			<duration>I</duration>
+			<dv>F-3</dv>
+			<range>LOS</range>
+			<type>P</type>
+		</spell>
+		<spell>
+			<id>4daa9722-9605-4ff4-b497-6b9120f9dbc3</id>
+			<name>Sonic Boom</name>
+			<page>0</page>
+			<source>4PR</source>
+			<category>Combat</category>
+			<damage>S</damage>
+			<descriptor>Indirect, Elemental</descriptor>
+			<duration>I</duration>
+			<dv>F-1</dv>
+			<range>LOS (A)</range>
+			<type>P</type>
+		</spell>
 	</spells>
 </chummer>
