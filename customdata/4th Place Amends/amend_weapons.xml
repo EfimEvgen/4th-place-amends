@@ -592,6 +592,10 @@
 			<name>Krime Stun Lance</name>
 			<useskill>Clubs</useskill>
 		</weapon>
+		<weapon>
+			<name>Aztechnology Blood Drinker Combat Axe</name>
+			<reach>1</reach>
+		</weapon>
 		<!--  Longarms -->
 		<weapon>
 			<name>Knockoff Gun Cane</name>
