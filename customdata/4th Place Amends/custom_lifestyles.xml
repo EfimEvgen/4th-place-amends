@@ -518,6 +518,37 @@
       <allowed>Medium,High,Luxury</allowed>
       <source>4PR</source>
       <page>1</page>
-    </quality>	
+    </quality>
+    <quality>
+      <id>8e30194b-c843-4164-b073-b7c79391eb38</id>
+      <name>Chemistry Lab</name>
+      <category>Entertainment - Asset</category>
+      <lp>2</lp>
+      <cost>1000</cost>
+      <allowed>High,Luxury</allowed>
+      <source>4PR</source>
+      <page>1</page>
+    </quality>
+    <quality>
+      <id>9f2f1dca-c15d-46b3-8fe5-7521594407cc</id>
+      <name>Nanofabricator</name>
+      <category>Entertainment - Asset</category>
+      <lp>2</lp>
+      <cost>1000</cost>
+      <allowed>High,Luxury</allowed>
+      <source>4PR</source>
+      <page>1</page>
+    </quality>
+    <quality>
+      <id>db8ade8c-921f-4d9e-81c1-74ae53f68bef</id>
+      <name>Code Cave</name>
+      <category>Entertainment - Asset</category>
+      <lp>2</lp>
+      <cost>1000</cost>
+      <allowed>Medium,High,Luxury</allowed>
+      <source>4PR</source>
+      <page>1</page>
+    </quality>
+
  </qualities>
 </chummer>

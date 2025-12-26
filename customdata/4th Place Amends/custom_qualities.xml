@@ -1065,6 +1065,42 @@
 			<source>4PR</source>
 			<page>0</page>
 		</quality>
+
+        <quality> <!-- Spell Guardian-->
+			<id>51d802e7-f1e6-47a5-b3d6-b0c9cab48f41</id>
+			<name>Spell Guardian</name>
+			<karma>10</karma>
+			<category>Positive</category>
+			<doublecareer>False</doublecareer>
+			<required>
+				<oneof>
+					<skill>
+						<name>Counterspelling</name>
+						<val>1</val>
+					</skill>
+				</oneof>
+			</required>
+			<source>4PR</source>
+			<page>0</page>
+		</quality>
+        <quality> <!-- Remote Disjoiner-->
+			<id>b764189b-2389-4b60-a570-fec22d166281</id>
+			<name>Remote Disjoiner</name>
+			<karma>5</karma>
+			<category>Positive</category>
+			<doublecareer>False</doublecareer>
+			<required>
+				<oneof>
+					<skill>
+						<name>Disenchanting</name>
+						<val>6</val>
+					</skill>
+				</oneof>
+			</required>
+			<source>4PR</source>
+			<page>0</page>
+		</quality>
+
 		<quality> <!-- Resonance [Program] -->
 			<id>9784cb64-56e9-43ef-ab28-05559d3f213b</id>
 			<name>Resonance [Program]</name>

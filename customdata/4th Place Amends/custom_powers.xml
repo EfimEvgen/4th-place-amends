@@ -14,6 +14,15 @@
           <category>Ground</category>
           <val>Rating * 100</val>
         </sprintbonus>
+        <sprintbonus>
+          <category>Swim</category>
+          <val>Rating * 100</val>
+        </sprintbonus>
+		<sprintbonus>
+          <category>Fly</category>
+          <val>Rating * 100</val>
+        </sprintbonus>
+
       </bonus>
     </power>
     <power>
@@ -242,6 +251,22 @@
         </walkmultiplier>
         <runmultiplier>
           <category>Ground</category>
+          <percent>100</percent>
+        </runmultiplier>
+       <walkmultiplier>
+          <category>Swim</category>
+          <percent>100</percent>
+        </walkmultiplier>
+        <runmultiplier>
+          <category>Swim</category>
+          <percent>100</percent>
+        </runmultiplier>
+		        <walkmultiplier>
+          <category>Fly</category>
+          <percent>100</percent>
+        </walkmultiplier>
+        <runmultiplier>
+          <category>Fly</category>
           <percent>100</percent>
         </runmultiplier>
       </bonus>

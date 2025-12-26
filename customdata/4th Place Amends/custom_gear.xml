@@ -207,6 +207,20 @@
 			<ammoforweapontype>hipower</ammoforweapontype>
 		</gear>
 		<!-- More Minigrenades -->
+        <gear>
+          <id>1c1cf32c-0f9c-475a-b432-f4abe3d508b9</id>
+          <name>Grenade: Grey Mana</name>
+          <category>Ammunition</category>
+          <rating>0</rating>
+          <source>4PR</source>
+          <page>1</page>
+          <avail>14F</avail>
+          <addweapon>Grenade: Grey Mana</addweapon>
+          <cost>500</cost>
+          <costfor>1</costfor>
+        </gear>
+
+
 		<gear>
 			<id>8e2e57cd-cfbb-4cc3-9d01-11e3edc0dbc1</id>
 			<name>Minigrenade: Paint</name>
