@@ -242,10 +242,18 @@
             <name>AGI</name>
             <val>1</val>
           </specificattribute>
+		  <cyberlimbattributebonus>
+			<name>AGI</name>
+			<val>1</val>
+          </cyberlimbattributebonus>
           <specificattribute>
             <name>STR</name>
             <val>1</val>
           </specificattribute>
+		  <cyberlimbattributebonus>
+			<name>STR</name>
+			<val>1</val>
+          </cyberlimbattributebonus>
         </bonus>
         <source>4PR</source>
         <page>1</page>
@@ -270,6 +278,10 @@
             <name>AGI</name>
             <val>1</val>
           </specificattribute>
+		  <cyberlimbattributebonus>
+			<name>AGI</name>
+			<val>1</val>
+          </cyberlimbattributebonus>
           <specificattribute>
             <name>REA</name>
             <val>1</val>
@@ -299,6 +311,10 @@
             <name>STR</name>
             <val>2</val>
           </specificattribute>
+		  <cyberlimbattributebonus>
+			<name>STR</name>
+			<val>2</val>
+          </cyberlimbattributebonus>
         </bonus>
         <source>4PR</source>
         <page>1</page>
@@ -324,6 +340,10 @@
             <name>STR</name>
             <val>2</val>
           </specificattribute>
+		  <cyberlimbattributebonus>
+			<name>STR</name>
+			<val>2</val>
+          </cyberlimbattributebonus>
         </bonus>
         <source>4PR</source>
         <page>1</page>
