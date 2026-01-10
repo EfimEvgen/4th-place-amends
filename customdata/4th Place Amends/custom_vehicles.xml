@@ -18,6 +18,9 @@
     https://github.com/chummer5a/chummer5a
 -->
 <chummer>
+    <categories>
+        <category blackmarket="Vehicles">Gravdrive</category>
+    </categories>
 	<vehicles>
 		<vehicle>
 			<id>6bd505e1-f6c1-4f7e-8eaf-505df646a23b</id>
@@ -660,6 +663,216 @@
         <name>Rigger Interface</name>
       </mods>
     </vehicle>
+    <vehicle>
+      <id>645dbb57-ff9b-433b-a59d-09bd84dcf0a0</id>
+      <name>Benevolent</name>
+      <page>1</page>
+      <source>4PR</source>
+      <accel>1</accel>
+      <armor>10</armor>
+      <avail>36R</avail>
+      <body>20</body>
+      <category>Gravdrive</category>
+      <cost>850000</cost>
+      <handling>4</handling>
+      <pilot>5</pilot>
+      <sensor>3</sensor>
+      <speed>2</speed>
+      <gears>
+        <gear>
+          <name>Sensor Array</name>
+          <rating>3</rating>
+          <maxrating>7</maxrating>
+        </gear>
+      </gears>
+      <mods>
+          <name rating="2">Life Support</name>
+          <name>Rigger Interface</name>
+          <name>Winch (Enhanced)</name>
+          <name>Landing Drone Rack (Medium)</name>
+      </mods>
+      <seats>12</seats>
+      <weaponmounts>
+        <weaponmount>
+          <control>Remote</control>
+          <flexibility>Fixed</flexibility>
+          <size>Standard</size>
+          <visibility>External</visibility>
+        </weaponmount>
+        <weaponmount>
+          <control>Remote</control>
+          <flexibility>Fixed</flexibility>
+          <size>Standard</size>
+          <visibility>External</visibility>
+        </weaponmount>
+      </weaponmounts>
+    </vehicle>
+    <vehicle>
+      <id>fb653265-d691-49bb-b11c-7236bdd1cc54</id>
+      <name>Malevolent</name>
+      <page>1</page>
+      <source>4PR</source>
+      <accel>1</accel>
+      <armor>20</armor>
+      <avail>36R</avail>
+      <body>16</body>
+      <category>Gravdrive</category>
+      <cost>850000</cost>
+      <handling>4</handling>
+      <pilot>5</pilot>
+      <sensor>3</sensor>
+      <speed>2</speed>
+      <gears>
+        <gear>
+          <name>Sensor Array</name>
+          <rating>3</rating>
+          <maxrating>7</maxrating>
+        </gear>
+      </gears>
+      <mods>
+          <name rating="2">Life Support</name>
+          <name>Rigger Interface</name>
+          <name>Landing Drone Rack (Medium)</name>
+          <name>Ejection seat</name>
+      </mods>
+      <seats>12</seats>
+      <weaponmounts>
+        <weaponmount>
+          <control>Remote</control>
+          <flexibility>Fixed</flexibility>
+          <size>Standard</size>
+          <visibility>External</visibility>
+        </weaponmount>
+        <weaponmount>
+          <control>Remote</control>
+          <flexibility>Fixed</flexibility>
+          <size>Standard</size>
+          <visibility>External</visibility>
+        </weaponmount>
+        <weaponmount>
+          <control>Remote</control>
+          <flexibility>Fixed</flexibility>
+          <size>Heavy</size>
+          <visibility>External</visibility>
+        </weaponmount>
+        <weaponmount>
+          <control>Remote</control>
+          <flexibility>Fixed</flexibility>
+          <size>Heavy</size>
+          <visibility>External</visibility>
+        </weaponmount>
+      </weaponmounts>
+    </vehicle>
+
+
+<vehicle>
+      <id>79a9e89a-ec54-4725-9244-5157e73efdf2</id>
+      <name>Evocative</name>
+      <page>1</page>
+      <source>4PR</source>
+      <accel>2</accel>
+      <armor>14</armor>
+      <avail>36R</avail>
+      <body>16</body>
+      <category>Gravdrive</category>
+      <cost>900000</cost>
+      <handling>4</handling>
+      <pilot>5</pilot>
+      <sensor>3</sensor>
+      <speed>4</speed>
+      <gears>
+        <gear>
+          <name>Sensor Array</name>
+          <rating>3</rating>
+          <maxrating>7</maxrating>
+        </gear>
+      </gears>
+      <mods>
+          <name rating="2">Life Support</name>
+          <name>Rigger Interface</name>
+          <name>Amenities (Luxury)</name>
+      </mods>
+      <seats>10</seats>
+      <weaponmounts>
+        <weaponmount>
+          <control>Remote</control>
+          <flexibility>Fixed</flexibility>
+          <size>Standard</size>
+          <visibility>External</visibility>
+        </weaponmount>
+        <weaponmount>
+          <control>Remote</control>
+          <flexibility>Fixed</flexibility>
+          <size>Standard</size>
+          <visibility>External</visibility>
+        </weaponmount>
+      </weaponmounts>
+    </vehicle>
+
+
+    <vehicle>
+      <id>7a8c01cb-6817-41d2-bffc-4f433153e7e6</id>
+      <name>GTI Revolution</name>
+      <page>1</page>
+      <source>4PR</source>
+      <accel>5</accel>
+      <armor>22</armor>
+      <avail>50F</avail>
+      <body>26</body>
+      <category>Gravdrive</category>
+      <cost>2500000</cost>
+      <handling>6</handling>
+      <pilot>4</pilot>
+      <sensor>6</sensor>
+      <speed>8</speed>
+        <powertrainmodslots>4</powertrainmodslots>
+        <bodymodslots>4</bodymodslots>
+      <gears>
+        <gear>
+          <name>Sensor Array</name>
+          <rating>6</rating>
+          <maxrating>7</maxrating>
+        </gear>
+      </gears>
+      <mods>
+          <name rating="2">Life Support</name>
+          <name>Rigger Interface</name>
+          <name>Landing Drone Rack (Small)</name>
+          <name>Landing Drone Rack (Medium)</name>
+          <name>Landing Drone Rack (Large)</name>
+          <name>Rigger Cocoon</name>
+          <name rating="6">Signature Masking</name>
+      </mods>
+      <seats>15</seats>
+      <weaponmounts>
+        <weaponmount>
+          <control>Remote</control>
+          <flexibility>Fixed</flexibility>
+          <size>Standard</size>
+          <visibility>External</visibility>
+        </weaponmount>
+        <weaponmount>
+          <control>Remote</control>
+          <flexibility>Fixed</flexibility>
+          <size>Standard</size>
+          <visibility>External</visibility>
+        </weaponmount>
+        <weaponmount>
+          <control>Remote</control>
+          <flexibility>Fixed</flexibility>
+          <size>Heavy</size>
+          <visibility>External</visibility>
+        </weaponmount>
+        <weaponmount>
+          <control>Remote</control>
+          <flexibility>Fixed</flexibility>
+          <size>Heavy</size>
+          <visibility>External</visibility>
+        </weaponmount>
+      </weaponmounts>
+    </vehicle>
+
+
 	</vehicles>
 	<mods>
 		<mod>
