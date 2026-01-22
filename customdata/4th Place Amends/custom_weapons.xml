@@ -416,6 +416,26 @@
   </accessories>
   <weapons>
     <weapon>
+      <id>9ce465b4-7127-4c48-ade3-7c23543e0893</id>
+      <name>Competition Pads</name>
+      <category>Unarmed</category>
+      <type>Melee</type>
+      <conceal>0</conceal>
+      <accuracy>Physical</accuracy>
+      <reach>0</reach>
+      <damage>({STR})S</damage>
+      <ap>-</ap>
+      <mode>0</mode>
+      <rc>0</rc>
+      <ammo>0</ammo>
+      <avail>2R</avail>
+      <cost>40</cost>
+      <source>4PR</source>
+      <page>1</page>
+      <useskill>Unarmed Combat</useskill>
+	   <notes>Deals damage equal to your Unarmed Attack, but always as Stun.</notes>
+    </weapon>
+    <weapon>
       <id>92e894d2-f769-4252-a07c-9ff2d8397b4e</id>
       <name>Kitsune Bite</name>
       <category>Unarmed</category>
