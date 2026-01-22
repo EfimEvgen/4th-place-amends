@@ -47,6 +47,17 @@
 	</grades>
 	<cyberwares>
 		<cyberware>
+			<name>Internal Router</name>
+			<rating>4</rating>
+			<ess>Rating * 0.2</ess>
+			<cost>Rating * 4000</cost>
+			<notes>All other cyberware installed in a user that has an Internal Router will appear as Wireless Off for as long as it functions, becoming untargetable by others.
+
+Internal Router may also grant +Rating extra Firewall to resist any Matrix or Resonance Actions of the user's choice targeting it.
+
+An implanted Commlink or Cyberdeck cannot benefit from an Internal Router.</notes>
+		</cyberware>
+		<cyberware>
 			<name>Wired Reflexes</name>
 			<ess amendoperation="replace">FixedValues(2,3,4)</ess>
 			<cost amendoperation="replace">FixedValues(50000,100000,150000)</cost>
