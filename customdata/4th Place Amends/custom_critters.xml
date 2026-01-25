@@ -62,8 +62,8 @@
          <magmax>9</magmax>
          <magaug>9</magaug>
          <resmin>0</resmin>
-         <resmax>3</resmax>
-         <resaug>3</resaug>
+         <resmax>0</resmax>
+         <resaug>0</resaug>
          <depmin>0</depmin>
          <depmax>0</depmax>
          <depaug>0</depaug>
@@ -77,6 +77,13 @@
             <enabletab>
                <name>critter</name>
             </enabletab>
+            <enableattribute>
+               <name>MAG</name>
+               <min>3</min>
+               <max>9</max>
+               <aug>9</aug>
+               <val>6</val>
+            </enableattribute>
             <reach>2</reach>
          </bonus>
          <powers>
@@ -96,6 +103,86 @@
          </skills>
          <source>4PR</source>
          <page>HS 41</page>
+      </metatype>
+      <metatype>
+         <id>249d7176-6fea-44f7-8a5a-cea35e76fe32</id>
+         <name>Merlin Hawk</name>
+         <category>Paranormal Critters</category>
+         <karma>0</karma>
+         <bodmin>1</bodmin>
+         <bodmax>5</bodmax>
+         <bodaug>9</bodaug>
+         <agimin>7</agimin>
+         <agimax>10</agimax>
+         <agiaug>14</agiaug>
+         <reamin>3</reamin>
+         <reamax>6</reamax>
+         <reaaug>10</reaaug>
+         <strmin>1</strmin>
+         <strmax>4</strmax>
+         <straug>8</straug>
+         <chamin>4</chamin>
+         <chamax>7</chamax>
+         <chaaug>11</chaaug>
+         <intmin>6</intmin>
+         <intmax>9</intmax>
+         <intaug>13</intaug>
+         <logmin>4</logmin>
+         <logmax>7</logmax>
+         <logaug>11</logaug>
+         <wilmin>4</wilmin>
+         <wilmax>7</wilmax>
+         <wilaug>11</wilaug>
+         <inimin>8</inimin>
+         <inimax>14</inimax>
+         <iniaug>22</iniaug>
+         <edgmin>3</edgmin>
+         <edgmax>6</edgmax>
+         <edgaug>6</edgaug>
+         <magmin>4</magmin>
+         <magmax>7</magmax>
+         <magaug>7</magaug>
+         <resmin>0</resmin>
+         <resmax>0</resmax>
+         <resaug>0</resaug>
+         <depmin>0</depmin>
+         <depmax>0</depmax>
+         <depaug>0</depaug>
+         <essmin>0</essmin>
+         <essmax>6</essmax>
+         <essaug>6</essaug>
+         <walk>1/1/4</walk>
+         <run>2/0/10</run>
+         <sprint>1/1/3</sprint>
+         <bonus>
+            <enableattribute>
+               <name>MAG</name>
+               <min>3</min>
+               <max>8</max>
+               <aug>8</aug>
+               <val>4</val>
+            </enableattribute>
+            <enabletab>
+               <name>critter</name>
+            </enabletab>
+         </bonus>
+         <powers>
+            <power>Dual Natured</power>
+            <power select="Avians">Animal Control</power>
+            <power select="Claws/Bite: DV 10P, AP -4">Natural Weapon</power>
+            <power rating="1">Fragile</power>
+            <power select="Willow-Wood Weapons, Poisons">Vulnerability</power>
+         </powers>
+         <skills>
+            <skill rating="3">Astral Combat</skill>
+            <skill rating="5">Flight</skill>
+            <skill rating="4">Perception</skill>
+            <skill rating="4">Spellcasting</skill>
+            <skill rating="4">Summoning</skill>
+            <skill rating="3">Unarmed Combat</skill>
+         </skills>
+         <source>HS</source>
+         <page>73</page>
       </metatype>
  <!-- End Region SOX -->
   </metatypes>
