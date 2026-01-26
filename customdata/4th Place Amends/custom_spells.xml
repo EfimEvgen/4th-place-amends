@@ -321,5 +321,180 @@
 			<range>LOS (A)</range>
 			<type>P</type>
 		</spell>
+		    <spell>
+		  <id>27e20b21-4d4c-4631-9442-68592a198d64</id>
+		  <name>Astral Gateway</name>
+		  <page>1</page>
+		  <source>4PR</source>
+		  <category>Rituals</category>
+		  <damage>0</damage>
+		  <descriptor></descriptor>
+		  <duration>Special</duration>
+		  <dv>F</dv>
+		  <range>Special</range>
+		  <type>M</type>
+			<notes>Allows people within range to project, Threshold/Force requires is 3+ Distance (0: Astral Plane, 2: adjacent, 4: near, 6: intermediate, 8: distant, 10: deep,
+			and 12: very deep), The gateway stays open for 1+nethits days. This ritual takes 3 hours </notes>
+		</spell>
+		<spell>
+		  <id>803349d2-bd41-4127-9e96-6b950e16ed89</id>
+		  <name>Metaplanar Gateway</name>
+		  <page>1</page>
+		  <source>4PR</source>
+		  <category>Rituals</category>
+		  <damage>0</damage>
+		  <descriptor>Anchored</descriptor>
+		  <duration>Special</duration>
+		  <dv>F</dv>
+		  <range>Special</range>
+		  <type>M</type>
+			<notes>Opens a physical portal to the destination, Threshold/Force requires is 6+ 2x Distance (0: Astral Plane, 2: adjacent, 4: near, 6: intermediate, 8: distant, 10: deep,
+			and 12: very deep), The gateway stays open for 1+nethits hours. This ritual takes 6 hours </notes>
+		</spell>
+		<spell>
+		  <id>9b147d4c-1070-4a7c-8085-26274dcedff4</id>
+		  <name>Exorcism Rites</name>
+		  <page>1</page>
+		  <source>4PR</source>
+		  <category>Rituals</category>
+		  <damage>0</damage>
+		  <descriptor>Spotter</descriptor>
+		  <duration>Special</duration>
+		  <dv>F</dv>
+		  <range>Special</range>
+		  <type>M</type>
+			<notes>Banishes a spirit for nethits lunar months, needs to be cast at a Force equal to the spirits force and takes 10*Force minutes</notes>
+		</spell>
+		<spell>
+		  <id>8d2811c6-cf6c-4128-8cce-0edede58003c</id>
+		  <name>Hoist</name>
+		  <page>1</page>
+		  <source>4PR</source>
+		  <category>Rituals</category>
+		  <damage>0</damage>
+		  <descriptor>Anchored, Spell</descriptor>
+		  <duration>Special</duration>
+		  <dv>5</dv>
+		  <range>Special</range>
+		  <type>M</type>
+			<notes>Lifts (Magic+Nethits)*100KG of material into the air for nethits+1 weeks and takes 10*Force minutes</notes>
+		</spell>
+		<spell>
+		  <id>14566870-c82a-4199-9450-03000ad96962</id>
+		  <name>Lost And Found</name>
+		  <page>1</page>
+		  <source>4PR</source>
+		  <category>Rituals</category>
+		  <damage>0</damage>
+		  <descriptor>Anchored, Material Link</descriptor>
+		  <duration>special</duration>
+		  <dv>Special</dv>
+		  <range>Special</range>
+		  <type>M</type>
+			<notes>Threshold is 3+OR/2 of object(material link) used as a compass, nethits add to tracking tests or search power
+				for target goal or person. This ritual takes 2 hours</notes>
+		</spell>
+		<spell>
+		  <id>42cdc97f-38ad-4eb7-9f80-42a5c4564b79</id>
+		  <name>Manifestion of desire</name>
+		  <page>1</page>
+		  <source>4PR</source>
+		  <category>Rituals</category>
+		  <damage>0</damage>
+		  <descriptor>Anchored, Material Link</descriptor>
+		  <duration>Special</duration>
+		  <dv>Special(6+)</dv>
+		  <range>Special</range>
+		  <type>M</type>
+			<notes>GM Fiat to give Fate a bit of a nudge, more complex tasks require higher Threshold. Permanently sealing the ritual requires 30 minutes each day for
+			Threshold months. Efficient ritual changes this to weeks, Duration is 2 hours first and 30 minutes each further day</notes>
+		</spell>
+		<spell>
+		  <id>5d19aa26-a87e-460d-92e3-383149096677</id>
+		  <name>Realm of healing energy</name>
+		  <page>1</page>
+		  <source>4PR</source>
+		  <category>Rituals</category>
+		  <damage>0</damage>
+		  <descriptor>Anchored</descriptor>
+		  <duration>Special</duration>
+		  <dv>7</dv>
+		  <range>Special</range>
+		  <type>M</type>
+			<notes>For each participant of the ritual, one target gains the benefits of one day of natural recovery per nethit, doesn't work with portable rituals.
+				This ritual takes 2 hours</notes>
+
+		</spell>
+		<spell>
+		  <id>cd12841c-1572-4f4f-8f11-8a05fd54f3e9</id>
+		  <name>Sacrament of Changed Form</name>
+		  <page>1</page>
+		  <source>4PR</source>
+		  <category>Rituals</category>
+		  <damage>0</damage>
+		  <descriptor>Material Link</descriptor>
+		  <duration>Special</duration>
+		  <dv>Special</dv>
+		  <range>Special</range>
+		  <type>M</type>
+			<notes>TH is Target Body/2+Unaugmented difference. This ritual takes 3 hours</notes>
+		</spell>
+		<spell>
+		  <id>76377739-cc88-4705-a631-3940f072d38d</id>
+		  <name>Sealing Ritual</name>
+		  <page>1</page>
+		  <source>4PR</source>
+		  <category>Rituals</category>
+		  <damage>0</damage>
+		  <descriptor>Spell</descriptor>
+		  <duration>Special</duration>
+		  <dv>4</dv>
+		  <range>Special</range>
+		  <type>M</type>
+			<notes>Breaking bond is a Wil+Log TH Nethits. This ritual takes 1 hour</notes>
+		</spell>
+		<spell>
+		  <id>4b435d77-4a9b-42ab-9d53-1d4080a5334c</id>
+		  <name>Stories of our ancestors</name>
+		  <page>1</page>
+		  <source>4PR</source>
+		  <category>Rituals</category>
+		  <damage>0</damage>
+		  <descriptor>Spell</descriptor>
+		  <duration>Special</duration>
+		  <dv>5</dv>
+		  <range>Special</range>
+		  <type>M</type>
+			<notes>Nethits bonus to Nethits memory tests or hours, can grant Knowledge skills target doesn't naturally have. This ritual takes 2 hours</notes>
+		</spell>
+		<spell>
+		  <id>d25e3675-aac6-4510-8fa9-027b916429a0</id>
+		  <name>Telling of Tales</name>
+		  <page>1</page>
+		  <source>4PR</source>
+		  <category>Rituals</category>
+		  <damage>0</damage>
+		  <descriptor>Spell</descriptor>
+		  <duration>Special</duration>
+		  <dv>3</dv>
+		  <range>Special</range>
+		  <type>M</type>
+			<notes>Nethits bonus to next influence Test within nethits days. This ritual takes 2 hours</notes>
+		</spell>
+		<spell>
+		  <id>0876a769-f939-490e-958b-ae5d604e8b25</id>
+		  <name>Circle of defense</name>
+		  <page>1</page>
+		  <source>4PR</source>
+		  <category>Rituals</category>
+		  <damage>0</damage>
+		  <descriptor>Spell</descriptor>
+		  <duration>Special</duration>
+		  <dv>8</dv>
+		  <range>Special</range>
+		  <type>M</type>
+			<notes>Participants may pool together Spell defense dice, Each nethit adds particpiants dice to total pool. This ritual takes 1 hour</notes>
+		</spell>
+
 	</spells>
 </chummer>

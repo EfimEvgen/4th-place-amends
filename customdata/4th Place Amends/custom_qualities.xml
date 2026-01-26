@@ -2685,5 +2685,27 @@
 			<source>4PR</source>
 			<page>0</page>
 		</quality>
+		<quality>
+			<id>2cb90939-d966-461e-9d30-f147cd7dfc8d</id>
+			<name>Efficient Ritual</name>
+			<karma>15</karma>
+			<category>Positive</category>
+			<doublecareer>False</doublecareer>
+			<bonus />
+			<required>
+				<allof>
+					<skill>
+						<name>Ritual Spellcasting</name>
+						<val>6</val>
+					  </skill>
+				</allof>
+			</required>
+
+			<source>SG</source>
+			<page>153</page>
+		</quality>
+
+
+
 	</qualities>
 </chummer>

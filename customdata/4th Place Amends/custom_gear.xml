@@ -1079,5 +1079,16 @@
 			<cost>300</cost>
 			<notes>+1 LOG/WIL, -1 CHA/INT.</notes>
 		</gear>
+		<gear>
+		  <id>40723763-5989-4d3f-9dde-610cfbcb57f0</id>
+		  <name>Shadow Cloak</name>
+		  <category>Foci</category>
+		  <ratinglabel>String_Force</ratinglabel>
+		  <rating>6</rating>
+		  <source>SR5</source>
+		  <page>320</page>
+		  <avail>(Rating * 4)R</avail>
+		  <cost>Rating * 3000</cost>
+		</gear>
 	</gears>
 </chummer>
