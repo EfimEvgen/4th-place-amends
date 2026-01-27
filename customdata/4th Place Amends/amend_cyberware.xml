@@ -58,9 +58,56 @@ Internal Router may also grant +Rating extra Firewall to resist any Matrix or Re
 An implanted Commlink or Cyberdeck cannot benefit from an Internal Router.</notes>
 		</cyberware>
 		<cyberware>
+		<name>Bone Lacing (Plastic)</name>
+		<forbidden>
+			<oneof>
+			<cyberwarecontains>Bone Lacing</cyberwarecontains>
+			<bioware>Bone Density Augmentation</bioware>
+			</oneof>
+		</forbidden>
+		</cyberware>
+		<cyberware>
+		<name>Bone Lacing (Aluminum)</name>
+		<forbidden>
+			<oneof>
+			<cyberwarecontains>Bone Lacing</cyberwarecontains>
+			<bioware>Bone Density Augmentation</bioware>
+			</oneof>
+		</forbidden>
+		</cyberware>
+		<cyberware>
+		<name>Bone Lacing (Titanium)</name>
+		<forbidden>
+			<oneof>
+			<cyberwarecontains>Bone Lacing</cyberwarecontains>
+			<bioware>Bone Density Augmentation</bioware>
+			</oneof>
+		</forbidden>
+		</cyberware>
+		<cyberware>
 			<name>Wired Reflexes</name>
 			<ess amendoperation="replace">FixedValues(2,3,4)</ess>
 			<cost amendoperation="replace">FixedValues(50000,100000,150000)</cost>
+		</cyberware>
+		<cyberware>
+			<name>Digigrade Legs</name>
+			<ess>0</ess>
+			<pairbonus>
+				<movementreplace>
+					<category>Ground</category>
+				<speed>run</speed>
+				<val>6</val>
+				</movementreplace>
+				<sprintbonus>
+					<category>Ground</category>
+				<val>100</val>
+				</sprintbonus>
+				<weaponaccuracy>
+				<name>Raptor Foot</name>
+				<value>1</value>
+				</weaponaccuracy>
+			</pairbonus>
+			<notes>Also adds +2 Strength to kicking attacks.</notes>
 		</cyberware>
 		<cyberware>
 			<name>Nanohive, Hard</name>

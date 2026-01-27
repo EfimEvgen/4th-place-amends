@@ -242,17 +242,17 @@
             <name>AGI</name>
             <val>1</val>
           </specificattribute>
-		  <cyberlimbattributebonus>
-			<name>AGI</name>
-			<val>1</val>
+		      <cyberlimbattributebonus>
+            <name>AGI</name>
+            <val>1</val>
           </cyberlimbattributebonus>
           <specificattribute>
             <name>STR</name>
             <val>1</val>
           </specificattribute>
-		  <cyberlimbattributebonus>
-			<name>STR</name>
-			<val>1</val>
+          <cyberlimbattributebonus>
+            <name>STR</name>
+            <val>1</val>
           </cyberlimbattributebonus>
         </bonus>
         <source>4PR</source>
@@ -278,9 +278,9 @@
             <name>AGI</name>
             <val>1</val>
           </specificattribute>
-		  <cyberlimbattributebonus>
-			<name>AGI</name>
-			<val>1</val>
+          <cyberlimbattributebonus>
+            <name>AGI</name>
+            <val>1</val>
           </cyberlimbattributebonus>
           <specificattribute>
             <name>REA</name>
@@ -311,9 +311,9 @@
             <name>STR</name>
             <val>2</val>
           </specificattribute>
-		  <cyberlimbattributebonus>
-			<name>STR</name>
-			<val>2</val>
+          <cyberlimbattributebonus>
+            <name>STR</name>
+            <val>2</val>
           </cyberlimbattributebonus>
         </bonus>
         <source>4PR</source>
@@ -337,12 +337,20 @@
         </gears>
         <bonus>
           <specificattribute>
-            <name>STR</name>
-            <val>2</val>
+            <name>AGI</name>
+            <val>1</val>
           </specificattribute>
-		  <cyberlimbattributebonus>
-			<name>STR</name>
-			<val>2</val>
+		      <cyberlimbattributebonus>
+            <name>AGI</name>
+            <val>1</val>
+          </cyberlimbattributebonus>
+          <specificattribute>
+            <name>STR</name>
+            <val>1</val>
+          </specificattribute>
+          <cyberlimbattributebonus>
+            <name>STR</name>
+            <val>1</val>
           </cyberlimbattributebonus>
         </bonus>
         <source>4PR</source>
@@ -524,6 +532,23 @@
       <armorcapacity>[0]</armorcapacity>
       <avail>0</avail>
       <cost>0</cost>
+			<bonus>
+				<movementreplace>
+					<category>Fly</category>
+					<speed>walk</speed>
+					<val>2</val>
+				</movementreplace>
+				<movementreplace>
+					<category>Fly</category>
+					<speed>run</speed>
+					<val>8</val>
+				</movementreplace>
+				<movementreplace>
+					<category>Fly</category>
+					<speed>sprint</speed>
+					<val>300</val>
+				</movementreplace>
+			</bonus>
       <source>4PR</source>
       <page>1</page>
       <notes>Identical effects to Cyberwings. Flight speed is x2/x8/+3.</notes>

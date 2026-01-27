@@ -63,6 +63,62 @@
       </notes>
     </power>
     <power>
+      <id>9658890c-554b-43f4-983d-fec703e3eef4</id>
+      <name>Improved STR (Magic and Machine)</name>
+      <points>1</points>
+      <levels>True</levels>
+      <limit>1</limit>
+      <source>4PR</source>
+      <page>1</page>
+      <adeptway>0.5</adeptway>
+      <adeptwayrequires>
+      </adeptwayrequires>
+      <bonus>
+        <specificattribute>
+          <name>STR</name>
+          <val>Rating</val>
+        </specificattribute>
+        <cyberlimbattributebonus>
+          <name>STR</name>
+          <val>Rating</val>
+        </cyberlimbattributebonus>
+      </bonus>
+      <notes>
+      Magic and Machine's Improved Physical Attribute (STR) also improves cyberlimbs.
+      </notes>
+      <required>
+        <metamagic>Magic and Machine</metamagic>
+      </required>
+    </power>
+    <power>
+      <id>35a8a495-3718-418a-bb5c-27ff0deb9afd</id>
+      <name>Improved AGI (Magic and Machine)</name>
+      <points>1</points>
+      <levels>True</levels>
+      <limit>1</limit>
+      <source>4PR</source>
+      <page>1</page>
+      <adeptway>0.5</adeptway>
+      <adeptwayrequires>
+      </adeptwayrequires>
+      <bonus>
+        <specificattribute>
+          <name>AGI</name>
+          <val>Rating</val>
+        </specificattribute>
+        <cyberlimbattributebonus>
+          <name>AGI</name>
+          <val>Rating</val>
+        </cyberlimbattributebonus>
+      </bonus>
+      <notes>
+      Magic and Machine's Improved Physical Attribute (AGI) also improves cyberlimbs.
+      </notes>
+      <required>
+        <metamagic>Magic and Machine</metamagic>
+      </required>
+    </power>
+    <power>
       <id>a6306904-4615-4692-b079-eb418fefc928</id>
       <name>Improved Ability (Skill Group)</name>
       <points>1</points>
