@@ -125,6 +125,25 @@
       <name>Cerebellum Booster</name>
       <rating amendoperation="replace">3</rating>
     </bioware>
-
+    <bioware>
+      <name>Boosted Reflexes</name>
+      <category>Cultured</category>
+      <bannedgrades>
+        <grade>Used</grade>
+        <grade>Used (Adapsin)</grade>
+      </bannedgrades>
+      <ess>FixedValues(0.5,1.25,2.5)</ess>
+      <capacity>0</capacity>
+      <avail>FixedValues(8R,10R,12R)</avail>
+      <cost>FixedValues(10000,40000,90000)</cost>
+      <bonus>
+        <initiative precedence="0">FixedValues(0,1,2)</initiative>
+        <initiativepass precedence="0">FixedValues(1,1,2)</initiativepass>
+        <skillwire precedence="0">Rating * 2</skillwire>
+        <dodge>FixedValues(0,1,2)</dodge>
+      </bonus>
+      <minrating>1</minrating>
+      <rating>3</rating>
+    </bioware>
   </biowares>
 </chummer>
