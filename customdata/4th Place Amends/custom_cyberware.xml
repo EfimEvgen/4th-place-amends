@@ -1385,7 +1385,7 @@
 			<ess>0</ess>
 			<capacity>0</capacity>
 			<avail>16R</avail>
-			<cost>15000</cost>
+			<cost>25000</cost>
 			<required>
 				<allof>
 				<cyberware>Smartlink (Throwback)</cyberware>
