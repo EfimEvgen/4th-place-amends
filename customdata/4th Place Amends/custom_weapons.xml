@@ -20,6 +20,86 @@
 <chummer>
   <accessories>
     <accessory>
+      <id>7b19c0c6-3023-4ba6-a0ce-b0688fa4d38f</id>
+      <name>Paired Weapons (Lv 1)</name>
+      <avail>0</avail>
+      <cost>Weapon Cost</cost>
+      <source>4PR</source>
+      <page>1</page>
+      <accuracy>1</accuracy>
+      <damage>1</damage>
+      <accessorycostmultiplier>2</accessorycostmultiplier>
+      <rating>0</rating>
+      <required>
+        <oneof>
+        <martialtechnique>Dual Pistol Firing</martialtechnique>
+        <martialtechnique>Two-Weapon Style Attack</martialtechnique>
+        </oneof>
+      </required>
+      <forbidden>
+        <weapondetails>
+          <OR>
+            <reach>2</reach>
+            <reach>3</reach>
+            <reach>4</reach>
+            <category>Unarmed</category>
+            <category>Assault Rifles</category>
+            <category>Carbines</category>
+            <category>Sniper Rifles</category>
+            <category>Sporting Rifles</category>
+            <category>Shotguns</category>
+            <category>Light Machine Guns</category>
+            <category>Medium Machine Guns</category>
+            <category>Heavy Machine Guns</category>
+            <category>Assault Cannons</category>
+            <category>Grenade Launchers</category>
+            <category>Missile Launchers</category>
+          </OR>
+        </weapondetails>
+      </forbidden>
+      <notes>This attachment means the weapon represents two identical paired weapons. Add this attachment first.</notes>
+    </accessory>  
+    <accessory>
+      <id>3420e22d-e4ea-42c0-839e-1d0be8e729b6</id>
+      <name>Paired Weapons (Lv 2)</name>
+      <avail>0</avail>
+      <cost>Weapon Cost</cost>
+      <source>4PR</source>
+      <page>1</page>
+      <accuracy>2</accuracy>
+      <damage>2</damage>
+      <accessorycostmultiplier>2</accessorycostmultiplier>
+      <rating>0</rating>
+      <required>
+        <oneof>
+        <martialtechnique>Dual Pistol Firing</martialtechnique>
+        <martialtechnique>Two-Weapon Style Attack</martialtechnique>
+        </oneof>
+      </required>
+      <forbidden>
+        <weapondetails>
+          <OR>
+            <reach>2</reach>
+            <reach>3</reach>
+            <reach>4</reach>
+            <category>Unarmed</category>
+            <category>Assault Rifles</category>
+            <category>Carbines</category>
+            <category>Sniper Rifles</category>
+            <category>Sporting Rifles</category>
+            <category>Shotguns</category>
+            <category>Light Machine Guns</category>
+            <category>Medium Machine Guns</category>
+            <category>Heavy Machine Guns</category>
+            <category>Assault Cannons</category>
+            <category>Grenade Launchers</category>
+            <category>Missile Launchers</category>
+          </OR>
+        </weapondetails>
+      </forbidden>
+      <notes>This attachment means the weapon represents two identical paired weapons. Add this attachment first.</notes>
+    </accessory> 
+    <accessory>
       <id>e854797c-52fc-4e87-a4a9-8458709dae7c</id>
       <name>Raijin Rapid Release Sheath™</name>
       <mount />
