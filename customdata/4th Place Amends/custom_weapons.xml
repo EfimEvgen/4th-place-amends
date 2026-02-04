@@ -57,7 +57,11 @@
           </OR>
         </weapondetails>
       </forbidden>
-      <notes>This attachment means the weapon represents two identical paired weapons. Add this attachment first.</notes>
+	  <notes>
+      This attachment means the weapon represents two identical weapons benefiting from 1 purchase of Two Weapon Style Attack or Dual Pistol Firing. 
+      
+      Add this attachment first.
+      </notes>
     </accessory>  
     <accessory>
       <id>3420e22d-e4ea-42c0-839e-1d0be8e729b6</id>
@@ -97,7 +101,11 @@
           </OR>
         </weapondetails>
       </forbidden>
-      <notes>This attachment means the weapon represents two identical paired weapons. Add this attachment first.</notes>
+      <notes>
+      This attachment means the weapon represents two identical weapons benefiting from 2 purchases of Two Weapon Style Attack or Dual Pistol Firing. 
+      
+      Add this attachment first.
+      </notes>
     </accessory> 
     <accessory>
       <id>e854797c-52fc-4e87-a4a9-8458709dae7c</id>
@@ -1547,3 +1555,4 @@
     </weapon>
   </weapons>
 </chummer>
+
