@@ -20,6 +20,178 @@
 <chummer>
   <accessories>
     <accessory>
+      <id>7b19c0c6-3023-4ba6-a0ce-b0688fa4d38f</id>
+      <name>Paired Melee Weapons (Lv 1)</name>
+      <avail>0</avail>
+      <cost>Weapon Cost * 0.5</cost>
+      <source>4PR</source>
+      <page>1</page>
+      <accuracy>1</accuracy>
+      <damage>1</damage>
+      <accessorycostmultiplier>2</accessorycostmultiplier>
+      <rating>0</rating>
+      <required>
+        <allof>
+        <martialtechnique>Two-Weapon Style Attack</martialtechnique>
+        </allof>
+      </required>
+      <forbidden>
+        <weapondetails>
+          <OR>
+            <type>Ranged</type>
+            <reach>2</reach>
+            <reach>3</reach>
+            <reach>4</reach>
+            <category>Unarmed</category>
+          </OR>
+        </weapondetails>
+      </forbidden>
+      <notes>
+      This attachment means the weapon represents two identical weapons benefiting from 1 purchase of Two Weapon Style Attack. 
+      </notes>
+    </accessory>
+    <accessory>
+      <id>552092b5-5b86-490f-8293-43c0cec9fb04</id>
+      <name>Paired Ranged Weapons (Lv 1)</name>
+      <avail>0</avail>
+      <cost>Weapon Cost * 0.5</cost>
+      <source>4PR</source>
+      <page>1</page>
+      <accuracy>1</accuracy>
+      <damage>1</damage>
+      <accessorycostmultiplier>2</accessorycostmultiplier>
+      <rating>0</rating>
+      <required>
+        <allof>
+        <martialtechnique>Dual Pistol Firing</martialtechnique>
+        </allof>
+      </required>
+      <forbidden>
+        <weapondetails>
+          <OR>
+            <type>Melee</type>
+            <category>Assault Rifles</category>
+            <category>Bows</category>
+            <category>Crossbows</category>
+            <category>Carbines</category>
+            <category>Flamethrowers</category>
+          </OR>
+        </weapondetails>
+      </forbidden>
+      <notes>
+      This attachment means the weapon represents two identical weapons benefiting from 1 purchase of Dual Pistol Firing. 
+      </notes>
+    </accessory>   
+    <accessory>
+      <id>1680858f-459c-4c07-9afd-b9fd94d43cd1</id>
+      <name>Paired Pistol Crossbows (Lv 1)</name>
+      <avail>0</avail>
+      <cost>Weapon Cost * 0.5</cost>
+      <source>4PR</source>
+      <page>1</page>
+      <accuracy>1</accuracy>
+      <damage>1</damage>
+      <accessorycostmultiplier>2</accessorycostmultiplier>
+      <rating>0</rating>
+      <required>
+        <allof>
+        <martialtechnique>Dual Pistol Firing</martialtechnique>
+        <weapondetails>
+          <name>Ranger Sliver Pistol Crossbow</name>
+        </weapondetails>
+        </allof>
+      </required>
+      <notes>
+      This attachment means the weapon represents two identical weapons benefiting from 1 purchase of Dual Pistol Firing. 
+      </notes>
+    </accessory>
+    <accessory>
+      <id>3420e22d-e4ea-42c0-839e-1d0be8e729b6</id>
+      <name>Paired Melee Weapons (Lv 2)</name>
+      <avail>0</avail>
+      <cost>Weapon Cost * 0.5</cost>
+      <source>4PR</source>
+      <page>1</page>
+      <accuracy>2</accuracy>
+      <damage>2</damage>
+      <accessorycostmultiplier>2</accessorycostmultiplier>
+      <rating>0</rating>
+      <required>
+        <allof>
+        <martialtechnique>Two-Weapon Style Attack</martialtechnique>
+        </allof>
+      </required>
+      <forbidden>
+        <weapondetails>
+          <OR>
+            <type>Ranged</type>
+            <reach>2</reach>
+            <reach>3</reach>
+            <reach>4</reach>
+            <category>Unarmed</category>
+          </OR>
+        </weapondetails>
+      </forbidden>
+      <notes>
+      This attachment means the weapon represents two identical weapons benefiting from 2 purchases of Two Weapon Style Attack. 
+      </notes>
+    </accessory> 
+    <accessory>
+      <id>8f3046c2-72fb-4851-9f53-3ce74aeeb983</id>
+      <name>Paired Ranged Weapons (Lv 2)</name>
+      <avail>0</avail>
+      <cost>Weapon Cost * 0.5</cost>
+      <source>4PR</source>
+      <page>1</page>
+      <accuracy>2</accuracy>
+      <damage>2</damage>
+      <accessorycostmultiplier>2</accessorycostmultiplier>
+      <rating>0</rating>
+      <required>
+        <allof>
+        <martialtechnique>Dual Pistol Firing</martialtechnique>
+        </allof>
+      </required>
+      <forbidden>
+        <weapondetails>
+          <OR>
+            <type>Melee</type>
+            <category>Assault Rifles</category>
+            <category>Bows</category>
+            <category>Crossbows</category>
+            <category>Carbines</category>
+            <category>Flamethrowers</category>
+          </OR>
+        </weapondetails>
+      </forbidden>
+      <notes>
+      This attachment means the weapon represents two identical weapons benefiting from 2 purchases of Dual Pistol Firing. 
+      </notes>
+    </accessory> 
+    <accessory>
+      <id>9073c666-bd16-49bc-b914-06442716ee3c</id>
+      <name>Paired Pistol Crossbows (Lv 2)</name>
+      <avail>0</avail>
+      <cost>Weapon Cost * 0.5</cost>
+      <source>4PR</source>
+      <page>1</page>
+      <accuracy>2</accuracy>
+      <damage>2</damage>
+      <accessorycostmultiplier>2</accessorycostmultiplier>
+      <rating>0</rating>
+      <required>
+        <allof>
+        <martialtechnique>Dual Pistol Firing</martialtechnique>
+        <weapondetails>
+          <name>Ranger Sliver Pistol Crossbow</name>
+        </weapondetails>
+        </allof>
+      </required>
+      <notes>
+      This attachment means the weapon represents two identical weapons benefiting from 2 purchases of Dual Pistol Firing. 
+      </notes>
+    </accessory>
+    <accessory>
       <id>e854797c-52fc-4e87-a4a9-8458709dae7c</id>
       <name>Raijin Rapid Release Sheath™</name>
       <mount />
