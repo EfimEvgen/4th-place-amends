@@ -343,7 +343,7 @@
 			<name>Shadow Touch</name>
 			<required amendoperation="replace">
 				<allof>
-					<power>Traceless Walk</power>
+					<power>Nimble Fingers</power>
 				</allof>
 				<oneof>
 					<quality>The Magician's Way</quality>
