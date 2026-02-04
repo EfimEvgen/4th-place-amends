@@ -1156,6 +1156,7 @@
 					<quality>Apprentice</quality>
 					<quality>Magician</quality>
 					<quality>Mystic Adept</quality>
+					<quality>Polymath</quality>
 					<resenabled />
 				</oneof>
 			</forbidden>
@@ -1208,6 +1209,7 @@
 					<quality>Apprentice</quality>
 					<quality>Magician</quality>
 					<quality>Mystic Adept</quality>
+					<quality>Specialist</quality>
 					<resenabled />
 				</oneof>
 			</forbidden>
