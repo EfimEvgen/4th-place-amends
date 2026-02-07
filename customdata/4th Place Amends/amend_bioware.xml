@@ -151,5 +151,20 @@
       <minrating>1</minrating>
       <rating>3</rating>
     </bioware>
+
+    <bioware>
+      <name>Qualia</name>
+      <ess>0.1</ess>
+      <bonus>
+        <skilllinkedattribute>
+          <name>INT</name>
+          <bonus>1</bonus>
+        </skilllinkedattribute>
+        <judgeintentions>1</judgeintentions>
+        <surprise>1</surprise>
+        <decreaseintresist>1</decreaseintresist>
+        <physicallusionresist>1</physicallusionresist>
+      </bonus>
+    </bioware>
   </biowares>
 </chummer>
