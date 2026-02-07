@@ -184,7 +184,12 @@
 				</oneof>
 			</required>
 			<doublecareer>False</doublecareer>
-			<bonus />
+			<bonus>
+			    <sprintbonus>
+					<category>Ground</category>
+					<val>200</val>
+				</sprintbonus>
+			</bonus>
 			<source>4PR</source>
 			<page>1</page>
 		</quality>
@@ -2706,8 +2711,5 @@
 			<source>SG</source>
 			<page>153</page>
 		</quality>
-
-
-
 	</qualities>
 </chummer>

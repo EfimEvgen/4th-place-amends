@@ -834,16 +834,6 @@
 			<hide />
 		</quality>
 		<quality>
-			<!-- Networker -->
-			<name>Networker</name>
-			<hide />
-		</quality>
-		<quality>
-			<!-- Massive Network -->
-			<name>Massive Network</name>
-			<hide />
-		</quality>
-		<quality>
 			<!-- The Twisted Way -->
 			<name>The Twisted Way</name>
 			<hide />
