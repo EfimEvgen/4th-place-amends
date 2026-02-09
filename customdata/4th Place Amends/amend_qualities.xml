@@ -1581,6 +1581,11 @@
 			<name>'Ware Intolerance</name>
 			<hide />
 		</quality>
+		<quality>
+			<!-- Items of Power -->
+			<name>'Items  of Power</name>
+			<hide />
+		</quality>
 		<!-- End Region -->
 		<!-- Region Run Faster Infected Qualities -->
 		<quality>
