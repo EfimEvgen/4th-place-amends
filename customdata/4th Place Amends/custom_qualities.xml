@@ -1329,7 +1329,10 @@
 					<quality>Prototype Transhuman</quality>
 				</oneof>
 			</forbidden>
-			<bonus />
+			<bonus>
+			    <prototypetranshuman>1</prototypetranshuman>
+			</bonus>
+			<note>Only one piece of geneware may be taken.</note>
 			<source>4PR</source>
 			<page>0</page>
 		</quality>
