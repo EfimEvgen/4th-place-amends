@@ -1323,6 +1323,14 @@
 			<karma>5</karma>
 			<category>Positive</category>
 			<chargenonly />
+				<bonus>
+				<addware>
+					<name>Essence Antihole</name>
+					<rating>40</rating>
+					<grade>None</grade>
+					<type>Cyberware</type>
+				</addware>
+				</bonus>
 			<forbidden>
 				<oneof>
 					<quality>Designer Baby</quality>
