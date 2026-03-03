@@ -496,5 +496,72 @@
 			<notes>Participants may pool together Spell defense dice, Each nethit adds particpiants dice to total pool. This ritual takes 1 hour</notes>
 		</spell>
 
+		<spell>
+			<id>54f216cd-5d00-42fc-81de-e71437eeab39</id>
+			<name>Five Elements Blast</name>
+			<page>0</page>
+			<source>4PR</source>
+			<category>Combat</category>
+			<damage>P</damage>
+			<descriptor>Indirect, Elemental</descriptor>
+			<duration>I</duration>
+			<dv>F+3</dv>
+			<range>LOS</range>
+			<type>P</type>
+		</spell>
+		<spell>
+			<id>2b87f245-0f68-4d4b-bb0a-cf1be326ca52</id>
+			<name>Nature’s Bounty</name>
+			<page>0</page>
+			<source>4PR</source>
+			<category>Health</category>
+			<damage>0</damage>
+			<descriptor>Environmental, Area</descriptor>
+			<duration>P</duration>
+			<dv>F-2</dv>
+			<range>T (A)</range>
+			<type>P</type>
+		</spell>
+
+		<spell>
+			<id>7190a677-d495-43b4-a4d1-d653d2b732b7</id>
+			<name>Rainmaker</name>
+			<page>0</page>
+			<source>4PR</source>
+			<category>Manipulation</category>
+			<damage>0</damage>
+			<descriptor>Environmental, Area</descriptor>
+			<duration>P</duration>
+			<dv>F-1</dv>
+			<range>LOS (A)</range>
+			<type>P</type>
+		</spell>
+
+		<spell>
+			<id>031ec966-128a-4b18-b519-0bf4870f1d09</id>
+			<name>Sensory Projection</name>
+			<page>0</page>
+			<source>4PR</source>
+			<category>Illusion</category>
+			<damage>0</damage>
+			<descriptor>Environmental, Area</descriptor>
+			<duration>S</duration>
+			<dv>F-1</dv>
+			<range>T</range>
+			<type>P</type>
+		</spell>
+		<spell>
+			<id>7a66e73f-63c6-4ab1-9fae-98f780587425</id>
+			<name>Bridge Layer</name>
+			<page>0</page>
+			<source>4PR</source>
+			<category>Manipulation</category>
+			<damage>0</damage>
+			<descriptor>Environmental, Area</descriptor>
+			<duration>S</duration>
+			<dv>F</dv>
+			<range>LOS (A)</range>
+			<type>P</type>
+		</spell>
 	</spells>
 </chummer>

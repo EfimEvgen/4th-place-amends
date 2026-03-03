@@ -1090,5 +1090,50 @@
 		  <avail>(Rating * 4)R</avail>
 		  <cost>Rating * 3000</cost>
 		</gear>
+		<gear>
+		  <id>e252e827-b2e6-4ba1-99f0-85aa4ed8d5f1</id>
+		  <name>Id10t</name>
+		  <category>Common Programs</category>
+		  <rating>0</rating>
+		  <source>4PR</source>
+		  <page>1</page>
+		  <avail>0</avail>
+		  <cost>80</cost>
+		</gear>
+		<gear>
+		  <id>9121bc02-1c71-47b2-8c67-20aa9778f329</id>
+		  <name>Specsoft</name>
+		  <category>Skillsofts</category>
+		  <rating>0</rating>
+		  <source>4PR</source>
+		  <page>1</page>
+		  <avail>12</avail>
+
+		  <cost>10000</cost>
+		</gear>
+		<gear>
+		  <id>096fa32f-6196-4372-87ec-eab2dcb0df74</id>
+		  <name>Rerouting Module</name>
+		  <category>Cyberdeck Modules</category>
+		  <rating>0</rating>
+		  <source>DT</source>
+		  <page>65</page>
+		  <avail>12F</avail>
+		  <armorcapacity>[2]</armorcapacity>
+		  <cost>1500</cost>
+		  <devicerating>0</devicerating>
+		</gear>
+		<gear>
+		  <id>1b02e16a-8d2f-492f-8216-fbdb0b78b6d7</id>
+		  <name>Myomeric Data Cable (10m)</name>
+		  <category>Electronics Accessories</category>
+		  <rating>0</rating>
+		  <source>SR5</source>
+		  <page>449</page>
+		  <avail>10R</avail>
+		  <cost>300</cost>
+		</gear>
+
+
 	</gears>
 </chummer>
