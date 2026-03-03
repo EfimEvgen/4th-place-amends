@@ -995,5 +995,38 @@
 			<slots>-1</slots>
 			<optionaldrone />
 		</mod>
+		<mod>
+		  <id>0e6bd2ca-e369-45e8-9593-b78816e0f87f</id>
+		  <name>Grey mana shielding</name>
+		  <page>1</page>
+		  <source>4PR</source>
+		  <avail>Rating * 4</avail>
+		  <category>Protection</category>
+		  <cost>FixedValues(Rating * 2000,Rating * 2000,Rating * 2000,Rating * 4000,Rating * 4000,Rating * 4000)</cost>
+		  <rating>6</rating>
+		  <slots>Rating</slots>
+		</mod>
+		<mod>
+		  <id>82aa2896-205c-4d4f-a254-c69522ea01c1</id>
+		  <name>Milspec Frame</name>
+		  <page>1</page>
+		  <source>4PR</source>
+		  <avail>16F</avail>
+		  <category>Protection</category>
+		  <cost>30000</cost>
+		  <rating>0</rating>
+		  <slots>2</slots>
+		</mod>
+		<mod>
+		  <id>877bc5c8-ad37-4401-83c7-ae3eba2ea20d</id>
+		  <name>Mage Port</name>
+		  <page>1</page>
+		  <source>4PR</source>
+		  <avail>12R</avail>
+		  <category>Weapons</category>
+		  <cost>8000</cost>
+		  <rating>0</rating>
+		  <slots>1</slots>
+		</mod>
 	</mods>
 </chummer>

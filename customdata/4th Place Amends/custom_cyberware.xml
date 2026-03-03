@@ -1532,5 +1532,66 @@
 				Overrides all other initiative and reaction enhancements which do not explicitly stack with other init/reaction enhancements.
 			</notes>
 		</cyberware>
+		<cyberware>
+		  <id>6eb4d258-f94e-49c4-8582-f3ce27eec950</id>
+		  <name>CAPI</name>
+		  <category>Headware</category>
+		  <ess>Rating * 0.1</ess>
+		  <capacity>[Rating]</capacity>
+		  <avail>(Rating * 3)R</avail>
+		  <cost>Rating * 16000</cost>
+		  <source>4PR</source>
+		  <page>1</page>
+		  <bonus>
+			<judgeintentionsoffense>Rating</judgeintentionsoffense>
+		  	<sociallimit>Rating</sociallimit>
+		  </bonus>
+		  <rating>3</rating>
+		</cyberware>
+		<cyberware>
+		  <id>3304066a-af69-4813-998a-2434d0f99839</id>
+		  <name>RCC</name>
+		  <limit>False</limit>
+		  <category>Headware</category>
+		  <ess>0.4</ess>
+		  <capacity>[4]</capacity>
+		  <avail>8R</avail>
+		  <cost>10000</cost>
+		  <source>4PR</source>
+		  <page>1</page>
+		  <allowgear>
+			<gearcategory>Rigger Command Consoles</gearcategory>
+		  </allowgear>
+		  <bannedgrades>
+			<grade>Greyware</grade>
+			<grade>Greyware (Adapsin)</grade>
+		  </bannedgrades>
+		</cyberware>
+		<cyberware>
+			<id>41551e39-2f7a-4b5d-92c6-89d07c4dd7ba</id>
+			<name>Tissue Repair System</name>
+			<limit>False</limit>
+			<category>Hard Nanoware</category>
+			<ess>0</ess>
+			<capacity>0</capacity>
+			<avail>6R</avail>
+			<cost>Rating * 1200</cost>
+			<source>4PR</source>
+			<page>1</page>
+			<forcegrade>None</forcegrade>
+			<rating>6</rating>
+		</cyberware>
+		<cyberware>
+			<id>041bce16-2c0d-4809-aa71-4e7e6d6e57ba</id>
+			<name>Micro Manipulator</name>
+			<limit>False</limit>
+			<category>Bodyware</category>
+			<ess>0.05</ess>
+			<capacity>[1]</capacity>
+			<avail>10</avail>
+			<cost>4000</cost>
+			<source>4PR</source>
+			<page>1</page>
+		</cyberware>
 	</cyberwares>
 </chummer>

@@ -889,7 +889,7 @@
 			</bannedgrades>
 			<ess>Rating * 0.15</ess>
 			<capacity>0</capacity>
-			<avail>18</avail>
+			<avail>Rating * 6</avail>
 			<cost>Rating * 25000</cost>
 			<bonus>
         		<disablequality>e96c7280-b9b0-4112-8b65-a3568c7ca13e</disablequality>
@@ -944,5 +944,28 @@
 			<source>4PR</source>
 			<page>0</page>
 		</bioware>
+		<bioware>
+			<id>df569b80-7d91-4f3e-9bba-3ee2537a2ce3</id>
+			<name>Neural Hardening</name>
+			<category>Cultured</category>
+			<bannedgrades>
+				<grade>Used</grade>
+				<grade>Used (Adapsin)</grade>
+			</bannedgrades>
+			<ess>Rating * 0.1</ess>
+			<capacity>0</capacity>
+			<avail>Rating * 6</avail>
+			<cost>Rating *20000</cost>
+			<bonus>
+				<conditionmonitor>
+				  <stun>Rating</stun>
+				</conditionmonitor>
+			</bonus>
+			 <rating>2</rating>
+			<source>4PR</source>
+			<page>1</page>
+			<notes></notes>
+		</bioware>
+
 	</biowares>
 </chummer>
