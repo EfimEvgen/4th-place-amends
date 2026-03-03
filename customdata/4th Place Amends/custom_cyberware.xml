@@ -1471,6 +1471,18 @@
 			<notes>At least one is required to use the Throwback Smartlink. The Throwback Smartlink comes with one by default. Installing the default induction pad into a cyberlimb reduces the smartlink essence cost by 0.1.</notes>
 		</cyberware>
 		<cyberware>
+      <id>de3e1719-2c7c-4ad1-8d1d-bd5447d1b05d</id>
+      <name>Surface Toner</name>
+      <limit>False</limit>
+      <category>Cosmetic Enhancement</category>
+      <capacity>[1]</capacity>
+      <avail>4</avail>
+      <cost>800</cost>
+      <source>4PR</source>
+      <page>1</page>
+      <notes>Only covers the cyberlimb which it is installed. In other words, one is needed for each installed cyberlimb. Compatible with Skin Toner (which only applies to natural skin) and is a requirement for Chameleon Processor to have an effect.</notes>
+    </cyberware>
+		<cyberware>
 			<id>09b447b8-b6c7-42a6-a85a-0843d84c95fe</id>
 			<name>Integrity Enhancement</name>
 			<limit>False</limit>
