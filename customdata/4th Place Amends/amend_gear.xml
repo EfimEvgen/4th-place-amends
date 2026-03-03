@@ -299,7 +299,7 @@
 				</geardetails>
 			</required>
 		</gear>
-		<!-- Baned gear -->
+		<!-- Banned gear -->
 		<gear>
 			<name>Grenade: DumDum</name>
 			<hide />
