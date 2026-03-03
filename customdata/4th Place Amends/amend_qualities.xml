@@ -3389,5 +3389,11 @@
 			</bonus>
       		<notes>Warrior's Way also reduces the Attunement costs for weapons by 2.</notes>
 		</quality>
+		<quality>
+		<name>Prime Datahaven Membership</name>
+		<bonus>
+			<selecttext />
+		</bonus>
+		</quality>
 	</qualities>
 </chummer>
