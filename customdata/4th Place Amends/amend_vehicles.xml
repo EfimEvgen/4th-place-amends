@@ -208,5 +208,25 @@
       <name>F-B Bumblebee</name>
       <armor>9</armor>
 	</vehicle>
+	<vehicle>
+      <id>c2073528-54a5-45e0-b5f8-9c1ab74647aa</id>
+      <name>Messerschmitt-Kawasaki Libelle</name>
+      <weaponmounts>
+      	<weaponmount>
+          <control>Remote</control>
+          <flexibility>Fixed</flexibility>
+          <size>Small (Drone)</size>
+          <visibility>Internal</visibility>
+          <free>True</free>
+      	</weaponmount>
+      	<weaponmount>
+          <control>Remote</control>
+          <flexibility>Fixed</flexibility>
+          <size>Small (Drone)</size>
+          <visibility>Internal</visibility>
+          <free>True</free>
+      	</weaponmount>	
+      </weaponmounts>
+    </vehicle>
 	</vehicles>
 </chummer>
