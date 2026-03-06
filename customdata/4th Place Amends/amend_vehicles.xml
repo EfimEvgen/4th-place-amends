@@ -194,23 +194,18 @@
 		<seats>2</seats>
 	</vehicle>
 	<vehicle>
+      <!--Mitsuhama Malakim (Large) -->
 		<id>bc21264d-527c-4066-b8c6-0aa24cff61cb</id>
-      <name>Mitsuhama Malakim (Large)</name>
       <armor>14</armor>
 	</vehicle>
-	<vehicle>
-		<id>bc21264d-527c-4066-b8c6-0aa24cff61cb</id>
-      <name>Mitsuhama Malakim (Large)</name>
-      <armor>14</armor>
-	</vehicle>
+	<!--F-B Bumblebee-->
 	<vehicle>
 	  <id>73b7729b-89c1-44fb-950c-f8391376a6b8</id>
-      <name>F-B Bumblebee</name>
       <armor>9</armor>
 	</vehicle>
 	<vehicle>
+			<!--Messerschmitt-Kawasaki Libelle-->
       <id>c2073528-54a5-45e0-b5f8-9c1ab74647aa</id>
-      <name>Messerschmitt-Kawasaki Libelle</name>
       <weaponmounts>
       	<weaponmount>
           <control>Remote</control>
@@ -226,6 +221,36 @@
           <visibility>Internal</visibility>
           <free>True</free>
       	</weaponmount>	
+      </weaponmounts>
+    </vehicle>
+    <vehicle>
+    	<!--Dodge Charger-->
+      <id>3a9eeaaa-56c2-4020-ba9f-e0f7c6f9e0eb</id>
+       <weaponmounts>
+        <weaponmount>
+          <control>Remote</control>
+          <flexibility>Fixed</flexibility>
+          <size>Standard</size>
+          <visibility>Internal</visibility>
+        </weaponmount>
+        <weaponmount>
+          <control>Remote</control>
+          <flexibility>Fixed</flexibility>
+          <size>Standard</size>
+          <visibility>Internal</visibility>
+        </weaponmount>
+        <weaponmount>
+          <control>Remote</control>
+          <flexibility>Fixed</flexibility>
+          <size>Standard</size>
+          <visibility>Internal</visibility>
+        </weaponmount>
+        <weaponmount>
+          <control>Remote</control>
+          <flexibility>Fixed</flexibility>
+          <size>Standard</size>
+          <visibility>Internal</visibility>
+        </weaponmount>
       </weaponmounts>
     </vehicle>
 	</vehicles>
