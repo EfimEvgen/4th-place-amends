@@ -549,6 +549,75 @@
       <source>4PR</source>
       <page>1</page>
     </quality>
-
+    <quality>
+      <id>ff43ab61-725b-4664-9332-2886036b9d7a</id>
+      <name>Lifestyle reduction (Luxury)</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <cost>0</cost>
+      <allowed>Luxury</allowed>
+      <bonus>
+        <lifestylecost>-90</lifestylecost>
+      </bonus>
+	  <notes>In case of using street cred, use Add street cred improvement with negative number</notes>
+      <source>BTB</source>
+      <page>164</page>
+    </quality>
+    <quality>
+      <id>d10d2664-4c3c-4574-b4e8-b09df8bb64e1</id>
+      <name>Lifestyle reduction (High)</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <cost>0</cost>
+      <allowed>High</allowed>
+      <bonus>
+        <lifestylecost>-50</lifestylecost>
+      </bonus>
+	  <notes>In case of using street cred, use Add street cred improvement with negative number</notes>
+      <source>BTB</source>
+      <page>164</page>
+    </quality>
+    <quality>
+      <id>99ec6b01-3199-4160-be98-f68e55acc8c4</id>
+      <name>Lifestyle reduction (Medium)</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <cost>0</cost>
+      <allowed>Medium</allowed>
+      <bonus>
+        <lifestylecost>-60</lifestylecost>
+      </bonus>
+	  <notes>In case of using street cred, use Add street cred improvement with negative number</notes>
+      <source>BTB</source>
+      <page>164</page>
+    </quality>
+    <quality>
+      <id>75dd76bb-1840-4242-a44f-6bfda6b2354a</id>
+      <name>Lifestyle reduction (Low)</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <cost>0</cost>
+      <allowed>Low</allowed>
+      <bonus>
+        <lifestylecost>-75</lifestylecost>
+      </bonus>
+	  <notes>In case of using street cred, use Add street cred improvement with negative number</notes>
+      <source>BTB</source>
+      <page>164</page>
+    </quality>
+    <quality>
+      <id>d50c7676-c12e-4a28-9df1-735d5ef3d78d</id>
+      <name>Lifestyle reduction (Squatter)</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <cost>0</cost>
+      <allowed>Squatter</allowed>
+      <bonus>
+        <lifestylecost>-100</lifestylecost>
+      </bonus>
+	  <notes>In case of using street cred, use Add street cred improvement with negative number</notes>
+      <source>BTB</source>
+      <page>164</page>
+    </quality>
  </qualities>
 </chummer>
