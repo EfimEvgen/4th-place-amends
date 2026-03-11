@@ -19,8 +19,7 @@
 -->
 <chummer>
   <accessories>
-    <accessory>
-      <id>0d34d6dd-2c96-41ea-b2ee-76756131634a</id>
+    <accessory><id>0d34d6dd-2c96-41ea-b2ee-76756131634a</id>
       <name>Original</name>
       <mount />
       <avail>+10</avail>
@@ -3149,6 +3148,25 @@
       <range>Grenade Launchers</range>
       <spec>Grenade Launcher</spec>
       <useskill>Heavy Weapons</useskill>
+    </weapon>
+	<weapon>
+      <id>b4ccbd01-04eb-4535-8c92-d63eac871836</id>
+      <name>MMA gloves</name>
+      <category>Unarmed</category>
+      <type>Melee</type>
+      <conceal>0</conceal>
+      <accuracy>Physical</accuracy>
+      <reach>0</reach>
+      <damage>({STR})S</damage>
+      <ap>-</ap>
+      <mode>0</mode>
+      <rc>0</rc>
+      <ammo>0</ammo>
+      <avail>0</avail>
+      <cost>100</cost>
+      <source>4PR</source>
+      <page>1</page>
+      <allowaccessory>True</allowaccessory>
     </weapon>
   </weapons>
 </chummer>
