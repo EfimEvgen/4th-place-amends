@@ -1492,7 +1492,7 @@
 		<quality>
 			<!-- Echo Chamber -->
 			<name>Echo Chamber</name>
-			<karma>10</karma>
+			<karma>5</karma>
 			<category>Positive</category>
 			<notes>When Matrix Searching, the character benefits from a +2 dice pool bonus, but the number of rolls needed to get a glitch is decreased by 1.</notes>
 		</quality>
@@ -2900,6 +2900,7 @@
 		<quality>
 			<!-- Codeslinger -->
 			<name>Codeslinger</name>
+			<karma>5</karma>
 			<limit amendoperation="replace">True</limit>
 		</quality>
 		<quality>
@@ -3394,6 +3395,59 @@
 		<bonus>
 			<selecttext />
 		</bonus>
+		</quality>
+		<quality>
+			<name>Gearhead</name>
+			<karma>5</karma>
+		</quality>
+		<quality>
+			<name>Guts</name>
+			<karma>6</karma>
+		</quality>
+		<quality>
+			<name>High Pain Tolerance</name>
+			<karma>2</karma>
+		</quality>
+		<quality>
+			<name>Home Ground</name>
+			<karma>5</karma>
+			<limit amendoperation="replace">True</limit>
+		</quality>
+		<quality>
+			<name>Indomitable (Mental)</name>
+			<karma>4</karma>
+		</quality>
+		<quality>
+			<name>Indomitable (Physical)</name>
+			<karma>4</karma>
+		</quality>
+		<quality>
+			<name>Indomitable (Social)</name>
+			<karma>4</karma>
+		</quality>
+		<quality>
+			<name>Juryrigger</name>
+			<karma>5</karma>
+		</quality>
+		<quality>
+			<name>Magic Resistance</name>
+			<karma>4</karma>
+		</quality>
+		<quality>
+			<name>Natural Hardening</name>
+			<karma>4</karma>
+		</quality>
+		<quality>
+			<name>Spike Resistance</name>
+			<karma>4</karma>
+		</quality>
+		<quality>
+			<name>Poor Link</name>
+			<karma>4</karma>
+		</quality>
+		<quality>
+			<name>Toughness</name>
+			<karma>5</karma>
 		</quality>
 	</qualities>
 </chummer>

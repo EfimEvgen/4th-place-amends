@@ -303,7 +303,7 @@
 		<quality> <!-- Panzer (Fear/Wound) -->
 			<id>f6b66e05-9143-461a-a663-adf41f6f55ee</id>
 			<name>Panzer (Fear/Wound)</name>
-			<karma>20</karma>
+			<karma>15</karma>
 			<category>Positive</category>
 			<doublecareer>False</doublecareer>
 			<forbidden>
