@@ -556,9 +556,7 @@
       <lp>0</lp>
       <cost>0</cost>
       <allowed>Luxury</allowed>
-      <bonus>
-        <lifestylecost>-90</lifestylecost>
-      </bonus>
+      <lifestylecost>-90</lifestylecost>
 	  <notes>In case of using street cred, use Add street cred improvement with negative number</notes>
       <source>BTB</source>
       <page>164</page>
@@ -570,9 +568,7 @@
       <lp>0</lp>
       <cost>0</cost>
       <allowed>High</allowed>
-      <bonus>
-        <lifestylecost>-50</lifestylecost>
-      </bonus>
+      <lifestylecost>-50</lifestylecost>
 	  <notes>In case of using street cred, use Add street cred improvement with negative number</notes>
       <source>BTB</source>
       <page>164</page>
@@ -584,9 +580,7 @@
       <lp>0</lp>
       <cost>0</cost>
       <allowed>Medium</allowed>
-      <bonus>
-        <lifestylecost>-60</lifestylecost>
-      </bonus>
+      <lifestylecost>-60</lifestylecost>
 	  <notes>In case of using street cred, use Add street cred improvement with negative number</notes>
       <source>BTB</source>
       <page>164</page>
@@ -598,9 +592,7 @@
       <lp>0</lp>
       <cost>0</cost>
       <allowed>Low</allowed>
-      <bonus>
-        <lifestylecost>-75</lifestylecost>
-      </bonus>
+      <lifestylecost>-75</lifestylecost>
 	  <notes>In case of using street cred, use Add street cred improvement with negative number</notes>
       <source>BTB</source>
       <page>164</page>
@@ -612,9 +604,7 @@
       <lp>0</lp>
       <cost>0</cost>
       <allowed>Squatter</allowed>
-      <bonus>
-        <lifestylecost>-100</lifestylecost>
-      </bonus>
+      <lifestylecost>-100</lifestylecost>
 	  <notes>In case of using street cred, use Add street cred improvement with negative number</notes>
       <source>BTB</source>
       <page>164</page>
