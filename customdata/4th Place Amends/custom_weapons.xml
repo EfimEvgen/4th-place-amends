@@ -24,7 +24,7 @@
       <name>Original</name>
       <mount />
       <avail>+10</avail>
-      <cost>Weapon Cost * 9</cost>
+      <cost>Weapon Cost * 4.5</cost>
       <source>4PR</source>
       <page>1</page>
       <rating>0</rating>
@@ -40,7 +40,7 @@
       <name>Original (Melee)</name>
       <mount />
       <avail>+10</avail>
-      <cost>Weapon Cost * 9</cost>
+      <cost>Weapon Cost * 4.5</cost>
       <source>4PR</source>
       <page>1</page>
       <damage>-1</damage>
@@ -1799,7 +1799,7 @@
       <name>AN-74</name>
       <category>Assault Rifles</category>
       <type>Ranged</type>
-      <conceal>5</conceal>
+      <conceal>6</conceal>
       <accuracy>6</accuracy>
       <reach>0</reach>
       <damage>10P</damage>
@@ -1945,6 +1945,7 @@
       <source>4PR</source>
       <page>1</page>
       <spec>Swords</spec>
+      <hide />
     </weapon>
     <weapon>
       <id>72892ff5-0572-4ed0-9aef-803ae2b80c21</id>
@@ -1997,6 +1998,7 @@
       <source>4PR</source>
       <page>1</page>
       <spec>Batons</spec>
+      <hide />
     </weapon>
     <weapon>
       <id>7ec654b0-f448-4ebc-b6de-99e0995acd5c</id>
