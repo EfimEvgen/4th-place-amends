@@ -1604,7 +1604,6 @@
         <mount>Stock</mount>
         <mount>Side</mount>
       </accessorymounts>
-      <weapontype>hipower</weapontype>
     </weapon>
     <weapon>
       <id>2c4c9736-c37a-4982-bc1d-d27eae255e0d</id>
