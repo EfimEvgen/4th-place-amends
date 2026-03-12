@@ -1599,7 +1599,6 @@
         </accessory>
       </accessories>
       <accessorymounts>
-        <mount>Barrel</mount>
         <mount>Top</mount>
         <mount>Stock</mount>
         <mount>Side</mount>
@@ -3172,4 +3171,5 @@
     </weapon>
   </weapons>
 </chummer>
+
 
