@@ -547,6 +547,7 @@
 		<weapon>
 			<name>Rheinmetall Cleaner (Telescoping Halberd)</name>
 			<conceal>10</conceal>
+			<spec>Axes</spec>
 		</weapon>
 		<weapon>
 			<name>Ballistic Shield</name>
