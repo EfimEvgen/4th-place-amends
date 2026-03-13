@@ -1199,12 +1199,20 @@
 			<name>Polymath</name>
 			<karma>8</karma>
 			<category>Positive</category>
-			<activeskillkarmacost>
-				<name />
-				<val>-2</val>
-				<min>6</min>
-				<condition>career</condition>
-			</activeskillkarmacost>
+			<bonus>
+				<activeskillkarmacost>
+					<name />
+					<val>-2</val>
+					<min>6</min>
+					<condition>career</condition>
+				</activeskillkarmacost>
+				<knowledgeskillkarmacost>
+					<name />
+					<val>-2</val>
+					<min>6</min>
+					<condition>career</condition>
+				</knowledgeskillkarmacost>
+			</bonus>
 			<forbidden>
 				<oneof>
 					<quality>Adept</quality>
@@ -1223,7 +1231,6 @@
 					<quality>Jack of All Trades Master of None</quality>
 				</oneof>
 			</required>
-			<bonus />
 			<source>4PR</source>
 			<page>0</page>
 		</quality>
