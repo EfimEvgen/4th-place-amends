@@ -554,11 +554,11 @@
       <name>Lifestyle reduction (Luxury)</name>
       <category>Positive</category>
       <lp>0</lp>
-      <cost>0</cost>
-      <allowed>Luxury</allowed>
-      <bonus>
-        <lifestylecost>-90</lifestylecost>
-      </bonus>
+      <cost>0</cost>      
+	  <required>
+        <lifestyle>Luxury</lifestyle>
+      </required>
+      <multiplierbaseonly>-90</multiplierbaseonly>
 	  <notes>In case of using street cred, use Add street cred improvement with negative number</notes>
       <source>BTB</source>
       <page>164</page>
@@ -569,10 +569,10 @@
       <category>Positive</category>
       <lp>0</lp>
       <cost>0</cost>
-      <allowed>High</allowed>
-      <bonus>
-        <lifestylecost>-50</lifestylecost>
-      </bonus>
+      <required>
+        <lifestyle>High</lifestyle>
+      </required>
+      <multiplierbaseonly>-50</multiplierbaseonly>
 	  <notes>In case of using street cred, use Add street cred improvement with negative number</notes>
       <source>BTB</source>
       <page>164</page>
@@ -583,10 +583,10 @@
       <category>Positive</category>
       <lp>0</lp>
       <cost>0</cost>
-      <allowed>Medium</allowed>
-      <bonus>
-        <lifestylecost>-60</lifestylecost>
-      </bonus>
+      <required>
+        <lifestyle>Medium</lifestyle>
+      </required>
+      <multiplierbaseonly>-60</multiplierbaseonly>
 	  <notes>In case of using street cred, use Add street cred improvement with negative number</notes>
       <source>BTB</source>
       <page>164</page>
@@ -597,10 +597,10 @@
       <category>Positive</category>
       <lp>0</lp>
       <cost>0</cost>
-      <allowed>Low</allowed>
-      <bonus>
-        <lifestylecost>-75</lifestylecost>
-      </bonus>
+      <required>
+        <lifestyle>Low</lifestyle>
+      </required>
+      <multiplierbaseonly>-75</multiplierbaseonly>
 	  <notes>In case of using street cred, use Add street cred improvement with negative number</notes>
       <source>BTB</source>
       <page>164</page>
@@ -611,10 +611,10 @@
       <category>Positive</category>
       <lp>0</lp>
       <cost>0</cost>
-      <allowed>Squatter</allowed>
-      <bonus>
-        <lifestylecost>-100</lifestylecost>
-      </bonus>
+      <required>
+        <lifestyle>Squatter</lifestyle>
+      </required>
+      <multiplierbaseonly>-100</multiplierbaseonly>
 	  <notes>In case of using street cred, use Add street cred improvement with negative number</notes>
       <source>BTB</source>
       <page>164</page>
