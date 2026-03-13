@@ -253,5 +253,71 @@
         </weaponmount>
       </weaponmounts>
     </vehicle>
+		<vehicle>
+			 <!-- Municipal Ambulance (S-K LT-21) -->
+		  <id>88724f5f-d51b-4d67-a18f-71c5262696e7</id>
+			<cost>93000</cost>
+			<seats>2</seats>
+		</vehicle>
+		<vehicle>
+			<id>bc21264d-527c-4066-b8c6-0aa24cff61cb</id>
+		  <name>Mitsuhama Malakim (Large)</name>
+		  <armor>14</armor>
+		</vehicle>
+		<vehicle>
+		  <id>73b7729b-89c1-44fb-950c-f8391376a6b8</id>
+		  <name>F-B Bumblebee</name>
+		  <armor>9</armor>
+		</vehicle>
+		<vehicle>
+		  <id>c2073528-54a5-45e0-b5f8-9c1ab74647aa</id>
+		  <name>Messerschmitt-Kawasaki Libelle</name>
+		  <weaponmounts>
+			<weaponmount>
+			  <control>Remote</control>
+			  <flexibility>Fixed</flexibility>
+			  <size>Small (Drone)</size>
+			  <visibility>Internal</visibility>
+			  <free>True</free>
+			</weaponmount>
+			<weaponmount>
+			  <control>Remote</control>
+			  <flexibility>Fixed</flexibility>
+			  <size>Small (Drone)</size>
+			  <visibility>Internal</visibility>
+			  <free>True</free>
+			</weaponmount>	
+		  </weaponmounts>
+		</vehicle>
+		<vehicle>
+		  <id>3a9eeaaa-56c2-4020-ba9f-e0f7c6f9e0eb</id>
+		  <name>Dodge Charger</name>
+		  <weaponmounts amendoperation="replace">
+			<weaponmount>
+			  <control>Remote</control>
+			  <flexibility>Fixed</flexibility>
+			  <size>Standard</size>
+			  <visibility>Internal</visibility>
+			</weaponmount>
+			<weaponmount>
+			  <control>Remote</control>
+			  <flexibility>Fixed</flexibility>
+			  <size>Standard</size>
+			  <visibility>Internal</visibility>
+			</weaponmount>
+			<weaponmount>
+			  <control>Remote</control>
+			  <flexibility>Fixed</flexibility>
+			  <size>Standard</size>
+			  <visibility>Internal</visibility>
+			</weaponmount>
+			<weaponmount>
+			  <control>Remote</control>
+			  <flexibility>Fixed</flexibility>
+			  <size>Standard</size>
+			  <visibility>Internal</visibility>
+			</weaponmount>
+		  </weaponmounts>
+		</vehicle>
 	</vehicles>
 </chummer>

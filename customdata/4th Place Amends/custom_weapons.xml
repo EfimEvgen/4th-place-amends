@@ -20,11 +20,11 @@
 <chummer>
   <accessories>
     <accessory>
-      <id>0d34d6dd-2c96-41ea-b2ee-76756131634a</id>
+	  <id>0d34d6dd-2c96-41ea-b2ee-76756131634a</id>
       <name>Original</name>
       <mount />
       <avail>+10</avail>
-      <cost>Weapon Cost * 9</cost>
+      <cost>Weapon Cost * 4.5</cost>
       <source>4PR</source>
       <page>1</page>
       <rating>0</rating>
@@ -40,7 +40,7 @@
       <name>Original (Melee)</name>
       <mount />
       <avail>+10</avail>
-      <cost>Weapon Cost * 9</cost>
+      <cost>Weapon Cost * 4.5</cost>
       <source>4PR</source>
       <page>1</page>
       <damage>-1</damage>
@@ -648,6 +648,7 @@
     </accessory>
   </accessories>
   <weapons>
+		<!-- Melee -->
     <weapon>
       <id>9ce465b4-7127-4c48-ade3-7c23543e0893</id>
       <name>Competition Pads</name>
@@ -669,6 +670,221 @@
 	   <notes>Deals damage equal to your Unarmed Attack, but always as Stun.</notes>
     </weapon>
     <weapon>
+      <id>8de94a80-390a-4357-b84c-57a412383dff</id>
+      <name>Victorinox Smartstaff</name>
+      <category>Clubs</category>
+      <type>Melee</type>
+      <conceal>8</conceal>
+      <accuracy>6</accuracy>
+      <reach>2</reach>
+      <damage>({STR}+3)P</damage>
+      <ap>-</ap>
+      <mode>0</mode>
+      <rc>0</rc>
+      <ammo>0</ammo>
+      <accessories>
+        <accessory>
+          <name>Smart Materials</name>
+        </accessory>
+        <accessory>
+          <name>Personalized Grip</name>
+        </accessory>
+      </accessories>
+      <avail>18R</avail>
+      <cost>6300</cost>
+      <source>4PR</source>
+      <page>1</page>
+      <spec>Staves</spec>
+      <addweapon>Victorinox Smartstaff (Mace)</addweapon>
+      <addweapon>Victorinox Smartstaff (Pick)</addweapon>
+      <addweapon>Victorinox Smartstaff (Short Sword)</addweapon>
+      <addweapon>Victorinox Smartstaff (Sword)</addweapon>
+      <addweapon>Victorinox Smartstaff (Spear)</addweapon>
+      <notes>Conceal -1 when undeployed. Changing forms is a Simple action, Free if wireless.</notes>
+    </weapon>
+    <weapon>
+      <id>cc90641d-e81b-4830-967a-cf68f2aad4a7</id>
+      <name>Victorinox Smartstaff (Mace)</name>
+      <category>Clubs</category>
+      <type>Melee</type>
+      <conceal>4</conceal>
+      <accuracy>4</accuracy>
+      <reach>1</reach>
+      <damage>({STR}+4)P</damage>
+      <ap>-</ap>
+      <mode>0</mode>
+      <rc>0</rc>
+      <ammo>0</ammo>
+      <accessories>
+        <accessory>
+          <name>Smart Materials</name>
+        </accessory>
+        <accessory>
+          <name>Personalized Grip</name>
+        </accessory>
+      </accessories>
+      <avail>0</avail>
+      <cost>0</cost>
+      <source>4PR</source>
+      <page>1</page>
+      <spec>Hammers</spec>
+      <hide />
+    </weapon>
+    <weapon>
+      <id>ab31ff0c-ebb8-4285-901c-46e4e2f01f59</id>
+      <name>Victorinox Smartstaff (Pick)</name>
+      <category>Clubs</category>
+      <type>Melee</type>
+      <conceal>4</conceal>
+      <accuracy>5</accuracy>
+      <reach>1</reach>
+      <damage>({STR}+2)P</damage>
+      <ap>-3</ap>
+      <mode>0</mode>
+      <rc>0</rc>
+      <ammo>0</ammo>
+      <accessories>
+        <accessory>
+          <name>Smart Materials</name>
+        </accessory>
+        <accessory>
+          <name>Personalized Grip</name>
+        </accessory>
+      </accessories>
+      <avail>0</avail>
+      <cost>0</cost>
+      <source>4PR</source>
+      <page>1</page>
+      <spec>Hammers</spec>
+      <hide />
+    </weapon>
+    <weapon>
+      <id>bfe4e349-00d8-40d5-8cd4-bc4af8a181b6</id>
+      <name>Victorinox Smartstaff (Short Sword)</name>
+      <category>Blades</category>
+      <type>Melee</type>
+      <conceal>0</conceal>
+      <accuracy>7</accuracy>
+      <reach>0</reach>
+      <damage>({STR}+2)P</damage>
+      <ap>-1</ap>
+      <mode>0</mode>
+      <rc>0</rc>
+      <ammo>0</ammo>
+      <accessories>
+        <accessory>
+          <name>Smart Materials</name>
+        </accessory>
+        <accessory>
+          <name>Personalized Grip</name>
+        </accessory>
+      </accessories>
+      <avail>0</avail>
+      <cost>0</cost>
+      <source>4PR</source>
+      <page>1</page>
+      <spec>Swords</spec>
+      <hide />
+    </weapon>
+    <weapon>
+      <id>e352d725-6143-42dc-87aa-c6dc0a2ce4bf</id>
+      <name>Victorinox Smartstaff (Sword)</name>
+      <category>Blades</category>
+      <type>Melee</type>
+      <conceal>6</conceal>
+      <accuracy>6</accuracy>
+      <reach>1</reach>
+      <damage>({STR}+3)P</damage>
+      <ap>-3</ap>
+      <mode>0</mode>
+      <rc>0</rc>
+      <ammo>0</ammo>
+      <accessories>
+        <accessory>
+          <name>Smart Materials</name>
+        </accessory>
+        <accessory>
+          <name>Personalized Grip</name>
+        </accessory>
+      </accessories>
+      <avail>0</avail>
+      <cost>0</cost>
+      <source>4PR</source>
+      <page>1</page>
+      <spec>Swords</spec>
+      <hide />
+    </weapon>
+    <weapon>
+      <id>42f082b4-ee9e-4285-ba94-ef8c9f7b50c8</id>
+      <name>Victorinox Smartstaff (Spear)</name>
+      <category>Blades</category>
+      <type>Melee</type>
+      <conceal>8</conceal>
+      <accuracy>6</accuracy>
+      <reach>2</reach>
+      <damage>({STR}+3)P</damage>
+      <ap>-2</ap>
+      <mode>0</mode>
+      <rc>0</rc>
+      <ammo>0</ammo>
+      <accessories>
+        <accessory>
+          <name>Smart Materials</name>
+        </accessory>
+        <accessory>
+          <name>Personalized Grip</name>
+        </accessory>
+      </accessories>
+      <avail>0</avail>
+      <cost>0</cost>
+      <source>4PR</source>
+      <page>1</page>
+      <spec>Swords</spec>
+      <hide />
+    </weapon>
+    <weapon>
+      <id>9cb4835e-3a3f-4166-94be-030ac0e4ee00</id>
+      <name>Evington's Propelled Katana</name>
+      <category>Blades</category>
+      <type>Melee</type>
+      <conceal>6</conceal>
+      <accuracy>6</accuracy>
+      <reach>1</reach>
+      <damage>({STR}+3)P</damage>
+      <ap>-3</ap>
+      <mode>0</mode>
+      <rc>0</rc>
+      <ammo>0</ammo>
+      <avail>10F</avail>
+      <cost>1200</cost>
+      <source>4PR</source>
+      <page>1</page>
+      <spec>Swords</spec>
+      <addweapon>Launched Katana Blade</addweapon>
+    </weapon>
+    <weapon>
+      <id>e509543a-b9dd-4ab2-8505-aded0fa30803</id>
+      <name>Launched Katana Blade</name>
+      <category>Blades</category>
+      <type>Ranged</type>
+      <conceal>6</conceal>
+      <accuracy>4</accuracy>
+      <reach>0</reach>
+      <damage>11P</damage>
+      <ap>-4</ap>
+      <mode>0</mode>
+      <rc>0</rc>
+      <ammo>0</ammo>
+      <avail>4R</avail>
+      <cost>25</cost>
+      <source>4PR</source>
+      <page>1</page>
+      <range>Tasers</range>
+      <spec>Blades</spec>
+      <useskill>Throwing Weapons</useskill>
+      <hide />
+    </weapon>
+    <weapon>
       <id>92e894d2-f769-4252-a07c-9ff2d8397b4e</id>
       <name>Kitsune Bite</name>
       <category>Unarmed</category>
@@ -687,6 +903,7 @@
       <page>1</page>
       <hide />
     </weapon>
+		<!-- Holdouts -->
     <weapon>
       <id>9b3224a6-d801-44bd-b727-2b5e0585fb30</id>
       <name>One-Shot Dartgun</name>
@@ -1382,12 +1599,10 @@
         </accessory>
       </accessories>
       <accessorymounts>
-        <mount>Barrel</mount>
         <mount>Top</mount>
         <mount>Stock</mount>
         <mount>Side</mount>
       </accessorymounts>
-      <weapontype>hipower</weapontype>
     </weapon>
     <weapon>
       <id>2c4c9736-c37a-4982-bc1d-d27eae255e0d</id>
@@ -1582,7 +1797,7 @@
       <name>AN-74</name>
       <category>Assault Rifles</category>
       <type>Ranged</type>
-      <conceal>5</conceal>
+      <conceal>6</conceal>
       <accuracy>6</accuracy>
       <reach>0</reach>
       <damage>10P</damage>
@@ -1728,6 +1943,7 @@
       <source>4PR</source>
       <page>1</page>
       <spec>Swords</spec>
+      <hide />
     </weapon>
     <weapon>
       <id>72892ff5-0572-4ed0-9aef-803ae2b80c21</id>
@@ -1780,6 +1996,7 @@
       <source>4PR</source>
       <page>1</page>
       <spec>Batons</spec>
+      <hide />
     </weapon>
     <weapon>
       <id>7ec654b0-f448-4ebc-b6de-99e0995acd5c</id>
@@ -2934,6 +3151,26 @@
       <useskill>Heavy Weapons</useskill>
     </weapon>
     <weapon>
+	<weapon>
+      <id>b4ccbd01-04eb-4535-8c92-d63eac871836</id>
+      <name>MMA gloves</name>
+      <category>Unarmed</category>
+      <type>Melee</type>
+      <conceal>0</conceal>
+      <accuracy>Physical</accuracy>
+      <reach>0</reach>
+      <damage>({STR})S</damage>
+      <ap>-</ap>
+      <mode>0</mode>
+      <rc>0</rc>
+      <ammo>0</ammo>
+      <avail>0</avail>
+      <cost>100</cost>
+      <source>4PR</source>
+      <page>1</page>
+      <allowaccessory>True</allowaccessory>
+    </weapon>    
+	<weapon>
       <id>3cae8894-cc92-4a4e-93b6-42846dd28fcf</id>
       <name>Tomahawk</name>
       <category>Blades</category>
@@ -2951,7 +3188,10 @@
       <source>4PR</source>
       <page>1</page>
       <spec>Axes</spec>
-    <notes>A small, aerodynamic hatchet inspired by native american tribes. Great as a tool or for digging into someone's head at arm's length or at a distance. This weapon can be thrown using the same rules as Throwing Knives.</notes>
+      <notes>A small, aerodynamic hatchet inspired by native american tribes. Great as a tool or for digging into someone's head at arm's length or at a distance. This weapon can be thrown using the same rules as Throwing Knives.</notes>
     </weapon>
   </weapons>
 </chummer>
+
+
+
