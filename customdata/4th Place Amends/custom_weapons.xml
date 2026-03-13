@@ -2933,5 +2933,25 @@
       <spec>Grenade Launcher</spec>
       <useskill>Heavy Weapons</useskill>
     </weapon>
+    <weapon>
+      <id>3cae8894-cc92-4a4e-93b6-42846dd28fcf</id>
+      <name>Tomahawk</name>
+      <category>Blades</category>
+      <type>Melee</type>
+      <conceal>0</conceal>
+      <accuracy>5</accuracy>
+      <reach>0</reach>
+      <damage>({STR}+2)P</damage>
+      <ap>-3</ap>
+      <mode>0</mode>
+      <rc>0</rc>
+      <ammo>0</ammo>
+      <avail>4</avail>
+      <cost>200</cost>
+      <source>4PR</source>
+      <page>1</page>
+      <spec>Axes</spec>
+    <notes>A small, aerodynamic hatchet inspired by native american tribes. Great as a tool or for digging into someone's head at arm's length or at a distance. This weapon can be thrown using the same rules as Throwing Knives.</notes>
+    </weapon>
   </weapons>
 </chummer>
