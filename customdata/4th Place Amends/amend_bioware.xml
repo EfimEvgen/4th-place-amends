@@ -110,8 +110,19 @@
     <bioware>
       <name>Synaptic Booster</name>
       <bonus>
-	<disablequality amendoperation="remove">3564b678-7721-4a8d-ac79-1600cf92dc14</disablequality>
-	<initiativepass amendoperation="replace">Rating</initiativepass>
+        <initiativepass precedence="0">Rating</initiativepass>
+        <specificattribute>
+          <name>REA</name>
+          <val>Rating</val>
+        </specificattribute>
+      </bonus>
+    </bioware>
+    <bioware>
+      <name>Synaptic Acceleration</name>
+      <bonus>
+        <dodge>1</dodge>
+        <initiative precedence="0">1</initiative>
+        <initiativepass precedence="0">1</initiativepass>
       </bonus>
     </bioware>
     <bioware>
@@ -151,10 +162,11 @@
       <minrating>1</minrating>
       <rating>3</rating>
     </bioware>
-	<bioware>
+
+    <bioware>
       <name>Qualia</name>
-      <ess amendoperation="replace">0.1</ess>
-      <bonus amendoperation="replace">
+      <ess>0.1</ess>
+      <bonus>
         <skilllinkedattribute>
           <name>INT</name>
           <bonus>1</bonus>
