@@ -86,25 +86,18 @@ An implanted Commlink or Cyberdeck cannot benefit from an Internal Router.</note
 		</cyberware>
 		<cyberware>
 			<name>Reaction Enhancers</name>
-			<bonus>
+			<bonus amendoperation="replace">
 				<specificattribute precedence="0">
 				<name>REA</name>
 				<val>Rating</val>
 				</specificattribute>
 			</bonus>
-			<wirelesspairbonus mode="replace">
-				<specificattribute precedence="1">
-				<name>REA</name>
-				<val>Rating</val>
-				<aug>FixedValues(0,1,2)</aug>
-				</specificattribute>
-			</wirelesspairbonus>
 		</cyberware>
 		<cyberware>
 			<name>Wired Reflexes</name>
 			<ess amendoperation="replace">FixedValues(2,3,4)</ess>
 			<cost amendoperation="replace">FixedValues(50000,100000,150000)</cost>
-			<bonus>
+			<bonus amendoperation="replace">
 				<initiativepass precedence="0">Rating</initiativepass>
 				<specificattribute>
 				<name>REA</name>
@@ -114,7 +107,7 @@ An implanted Commlink or Cyberdeck cannot benefit from an Internal Router.</note
 		</cyberware>
 		<cyberware>
 		<name>Move-by-Wire System</name>
-		<bonus>
+		<bonus amendoperation="replace">
 			<initiative precedence="0">FixedValues(3,6,9)</initiative>
 			<initiativepass precedence="0">FixedValues(0,1,1)</initiativepass>
 			<skillwire precedence="0">Rating * 2</skillwire>
