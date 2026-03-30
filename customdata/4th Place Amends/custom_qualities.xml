@@ -2741,9 +2741,31 @@
 					  </skill>
 				</allof>
 			</required>
-
-			<source>SG</source>
-			<page>153</page>
+			<source>4PR</source>
+			<page>1</page>
+		</quality>
+		<quality>
+			<id>efd26062-5488-432b-a633-69e5429f00a8</id>
+			<name>Catlike Reflexes</name>
+			<karma>0</karma>
+			<category>Positive</category>
+			<hide />
+			<bonus>
+				<specificattribute>
+					<name>AGI</name>
+					<val>1</val>
+				</specificattribute>
+				<specificattribute>
+					<name>REA</name>
+					<val>1</val>
+				</specificattribute>
+				<specificskill>
+					<name>Gymnastics</name>
+					<bonus>2</bonus>
+				</specificskill>
+			</bonus>
+			<source>4PR</source>
+			<page>1</page>
 		</quality>
 	</qualities>
 </chummer>

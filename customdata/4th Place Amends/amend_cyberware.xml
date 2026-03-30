@@ -87,10 +87,11 @@ An implanted Commlink or Cyberdeck cannot benefit from an Internal Router.</note
 		<cyberware>
 			<name>Reaction Enhancers</name>
 			<bonus amendoperation="replace">
-				<specificattribute precedence="0">
-				<name>REA</name>
-				<val>Rating</val>
+				<specificattribute>
+					<name>REA</name>
+					<val>Rating</val>
 				</specificattribute>
+				<disablequality>Catlike Reflexes</disablequality>
 			</bonus>
 		</cyberware>
 		<cyberware>
@@ -100,9 +101,10 @@ An implanted Commlink or Cyberdeck cannot benefit from an Internal Router.</note
 			<bonus amendoperation="replace">
 				<initiativepass precedence="0">Rating</initiativepass>
 				<specificattribute>
-				<name>REA</name>
-				<val>Rating</val>
+					<name>REA</name>
+					<val>Rating</val>
 				</specificattribute>
+				<disablequality>Catlike Reflexes</disablequality>
 			</bonus>
 		</cyberware>
 		<cyberware>
@@ -113,9 +115,10 @@ An implanted Commlink or Cyberdeck cannot benefit from an Internal Router.</note
 			<skillwire precedence="0">Rating * 2</skillwire>
 			<sociallimit>-Rating</sociallimit>
 			<specificattribute>
-			<name>REA</name>
-			<val>Rating</val>
+				<name>REA</name>
+				<val>Rating</val>
 			</specificattribute>
+			<disablequality>Catlike Reflexes</disablequality>
 		</bonus>
 		<minrating>1</minrating>
 		<rating>3</rating>
