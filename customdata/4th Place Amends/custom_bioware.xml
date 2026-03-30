@@ -225,14 +225,6 @@
 					<bonus>2</bonus>
 				</specificskill>
 			</bonus>
-			<forbidden>
-				<oneof>
-					<bioware>Synaptic Booster</bioware>
-					<cyberware>Wired Reflexes</cyberware>
-					<cyberware>Reaction Enhancers</cyberware>
-					<cyberware>Move-by-Wire System</cyberware>
-				</oneof>
-			</forbidden>
 			<notes>Manually add the relevant metagenetic negative quality by taking one of the SURGE qualities for free, adding the negative quality, and then removing the SURGE quality.</notes>
 			<forcegrade>None</forcegrade>
 			<source>4PR</source>
