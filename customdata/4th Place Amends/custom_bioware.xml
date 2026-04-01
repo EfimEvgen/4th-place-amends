@@ -212,18 +212,9 @@
 			<forcegrade>None</forcegrade>
 			<isgeneware />
 			<bonus>
-				<specificattribute>
-					<name>AGI</name>
-					<val>1</val>
-				</specificattribute>
-				<specificattribute>
-					<name>REA</name>
-					<val>1</val>
-				</specificattribute>
-				<specificskill>
-					<name>Gymnastics</name>
-					<bonus>2</bonus>
-				</specificskill>
+				<addqualities>
+					<addquality>Catlike Reflexes</addquality>
+				</addqualities>
 			</bonus>
 			<notes>Manually add the relevant metagenetic negative quality by taking one of the SURGE qualities for free, adding the negative quality, and then removing the SURGE quality.</notes>
 			<forcegrade>None</forcegrade>

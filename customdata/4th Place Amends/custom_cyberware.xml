@@ -1529,6 +1529,7 @@
 					<bonus>FixedValues(-3,-4)</bonus>
 				</skilllinkedattribute>
 				<sociallimit>FixedValues(-3,-4)</sociallimit>
+				<disablequality>Catlike Reflexes</disablequality>
 			</bonus>
 			<minrating>1</minrating>
 			<rating>2</rating>
