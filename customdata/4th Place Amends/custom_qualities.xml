@@ -379,7 +379,7 @@
 		<quality> <!-- Panzer (Fear/Soak) -->
 			<id>2ba5fbe3-4ee7-4ea8-b161-2fed07ab6ce3</id>
 			<name>Panzer (Fear/Soak)</name>
-			<karma>20</karma>
+			<karma>15</karma>
 			<category>Positive</category>
 			<doublecareer>False</doublecareer>
 			<forbidden>
@@ -451,7 +451,7 @@
 		<quality> <!-- Panzer (Intimdate/Wound) -->
 			<id>2f87bb14-b775-429c-8f6e-c8636f93bb67</id>
 			<name>Panzer (Intimdate/Wound)</name>
-			<karma>20</karma>
+			<karma>15</karma>
 			<category>Positive</category>
 			<doublecareer>False</doublecareer>
 			<forbidden>
@@ -531,7 +531,7 @@
 		<quality> <!-- Panzer (Intimdate/Soak) -->
 			<id>6e8bb2e6-13d9-436e-a655-edd33c45a093</id>
 			<name>Panzer (Intimdate/Soak)</name>
-			<karma>20</karma>
+			<karma>15</karma>
 			<category>Positive</category>
 			<doublecareer>False</doublecareer>
 			<forbidden>
