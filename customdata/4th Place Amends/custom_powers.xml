@@ -7,6 +7,8 @@
       <name>Dash</name>
       <points>0.25</points>
       <levels>True</levels>
+      <maxlevels>4</maxlevels>
+      <limit>1</limit>
       <source>4PR</source>
       <page>1</page>
       <bonus>
@@ -18,11 +20,34 @@
           <category>Swim</category>
           <val>Rating * 100</val>
         </sprintbonus>
-		<sprintbonus>
+		    <sprintbonus>
           <category>Fly</category>
           <val>Rating * 100</val>
         </sprintbonus>
-
+        <walkmultiplier>
+          <category>Ground</category>
+          <percent>Rating * 25</percent>
+        </walkmultiplier>
+        <runmultiplier>
+          <category>Ground</category>
+          <percent>Rating * 25</percent>
+        </runmultiplier>
+       <walkmultiplier>
+          <category>Swim</category>
+          <percent>Rating * 25</percent>
+        </walkmultiplier>
+        <runmultiplier>
+          <category>Swim</category>
+          <percent>Rating * 25</percent>
+        </runmultiplier>
+		    <walkmultiplier>
+          <category>Fly</category>
+          <percent>Rating * 25</percent>
+        </walkmultiplier>
+        <runmultiplier>
+          <category>Fly</category>
+          <percent>Rating * 25</percent>
+        </runmultiplier>
       </bonus>
     </power>
     <power>
@@ -39,6 +64,7 @@
           <oneof>
             <quality>The Artisan's Way</quality>
             <quality>The Artist's Way</quality>
+            <quality>The Athlete's Way</quality>
             <quality>The Speaker's Way</quality>
             <quality>The Spiritual Way</quality>
 			      <quality>The Warrior's Way</quality>
@@ -300,32 +326,6 @@
       <power>Dash</power>
       <source>4PR</source>
       <page>1</page>
-      <bonus>
-        <walkmultiplier>
-          <category>Ground</category>
-          <percent>100</percent>
-        </walkmultiplier>
-        <runmultiplier>
-          <category>Ground</category>
-          <percent>100</percent>
-        </runmultiplier>
-       <walkmultiplier>
-          <category>Swim</category>
-          <percent>100</percent>
-        </walkmultiplier>
-        <runmultiplier>
-          <category>Swim</category>
-          <percent>100</percent>
-        </runmultiplier>
-		        <walkmultiplier>
-          <category>Fly</category>
-          <percent>100</percent>
-        </walkmultiplier>
-        <runmultiplier>
-          <category>Fly</category>
-          <percent>100</percent>
-        </runmultiplier>
-      </bonus>
       <required>
         <allof>
           <power>Dash</power>
@@ -335,7 +335,13 @@
 					<quality>Dilettante</quality>
 				</oneof>
       </required>
-      <notes>Incompatible with the Skimmers cyberware or the Movement power.</notes>
+      <notes>
+      Adds bonus dice equal to Dash's rating to the character's Sprint tests.
+
+      The character may Sprint as a Simple action or Sprint and make a melee attack as a single Complex action. 
+      
+      Only 1 Sprint action can be taken in an initiative pass.
+      </notes>
     </enhancement>
     <enhancement>
       <id>37a39439-c8cd-415a-8947-c4b2405b44ee</id>

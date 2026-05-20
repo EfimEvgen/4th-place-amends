@@ -431,15 +431,34 @@
       </armor>
       <armor>
         <id>67344c51-d389-4c91-92ed-ed9e2b7c62ac</id>
-        <name>Transforming Garment</name>
-        <category>Clothing</category>
-        <armor>0</armor>
-        <rating>6</rating>
-        <armorcapacity>0</armorcapacity>
-        <avail>6</avail>
-        <cost>Rating * 5000</cost>
+        <name>Smart Armor</name>
+        <category>Specialty Armor</category>
+        <armor>10</armor>
+        <armorcapacity>24</armorcapacity>
+        <bonus>
+          <limitmodifier>
+            <limit>Social</limit>
+            <value>2</value>
+            <condition>LimitCondition_Visible</condition>
+          </limitmodifier>
+        </bonus>
+        <wirelessbonus>
+          <skillcategory>
+            <name>Social Active</name>
+            <bonus>1</bonus>
+          </skillcategory>
+        </wirelessbonus>
+        <avail>14R</avail>
+        <cost>25000</cost>
         <source>4PR</source>
         <page>1</page>
+        <notes>
+        Social modifier requires the armor to be set to an appropriate appearance. 
+
+        Smart Armor can only have 12 total Capacity of Armor mods active at any time. 
+        
+        Requires 3 combat turns to change appearance or active mods.
+        </notes>
       </armor>
     </armors>
 	<mods>
@@ -470,29 +489,35 @@
     </mod>
     <mod>
       <id>fdeb207a-39a9-4abd-b4eb-0ab67ae39229</id>
-      <name>Transforming Garment (Armor)</name>
+      <name>Transforming Garment (mod)</name>
       <category>General</category>
       <armor>-2</armor>
       <maxrating>1</maxrating>
       <armorcapacity>[0]</armorcapacity>
-      <avail>0</avail>
-      <cost>0</cost>
+      <avail>10</avail>
+      <cost>2500</cost>
       <source>4PR</source>
       <page>1</page>
-      <notes>Equip on transforming armor to represent the armor reduction.</notes>
+      <notes>
+      Allows the modified armor to shift in looks or size to anything of the same total size and bulk.
+
+      Changing form takes 3 combat turns.
+
+      Negates the Custom Fit armor quality.
+      </notes>
     </mod>
     <mod>
       <id>8571ccda-b095-4fa9-9662-abdd992530b1</id>
-      <name>Transforming Garment (Clothing)</name>
-      <category>Clothing</category>
+      <name>Drake/Shifter Adapted</name>
+      <category>General</category>
       <armor>0</armor>
       <maxrating>1</maxrating>
       <armorcapacity>[0]</armorcapacity>
       <avail>0</avail>
-      <cost>0</cost>
+      <cost>Armor Cost * 0.1</cost>
       <source>4PR</source>
       <page>1</page>
-      <notes>Equip on transforming non-armor clothing.</notes>
+      <notes>The armor is adapted for use for a drake or shifter and can transform with them.</notes>
     </mod>
     <mod>
       <id>3abae997-bef8-4fe1-887c-aeeb2191cf62</id>
