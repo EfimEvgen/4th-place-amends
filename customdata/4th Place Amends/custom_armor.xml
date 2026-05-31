@@ -460,8 +460,169 @@
         Requires 3 combat turns to change appearance or active mods.
         </notes>
       </armor>
+
+      <armor>
+      <id>f0ffbbd8-c80a-40ff-add2-3be3747eddbc</id>
+      <name>AresSpace HEC Suit</name>
+      <category>Specialty Armor</category>
+      <armor>11</armor>
+        <armoroverride>+2</armoroverride>
+      <armorcapacity>9</armorcapacity>
+      <avail>20R</avail>
+      <cost>35000</cost>
+      <mods>
+        <name rating="6">Insulation</name>
+        <name rating="6">Fire Resistance</name>
+        <name rating="6">Radiation Shielding</name>
+        <name rating="4">Solar Power Cells</name>
+        <name>Custom Fit (Stack)</name>
+      </mods>
+      <gears>
+        <usegear>Gas Mask</usegear>
+      </gears>
+      <source>4PR</source>
+      <page>1</page>
+    </armor>
+
+          <armor>
+      <id>421850c0-e4cf-4765-9596-f3f739ff1cea</id>
+      <name>HEC Faceplate</name>
+      <category>Specialty Armor</category>
+      <armor>+2</armor>
+      <armorcapacity>7</armorcapacity>
+      <avail>20R</avail>
+      <cost>500</cost>
+            <mods>
+        <name>Custom Fit</name>
+      </mods>
+            <gears>
+        <usegear>Flare Compensation</usegear>
+      </gears>
+      <addmodcategory>Customized Ballistic Mask</addmodcategory>
+      <source>4PR</source>
+      <page>1</page>
+    </armor>
+
+      <armor>
+      <id>9eda3aa6-b2e3-45a0-8f02-2eb612722007</id>
+      <name>HEC Helmet</name>
+      <category>Speciality Armor</category>
+      <armor>+2</armor>
+         <cost>3000</cost>
+      <armorcapacity>6</armorcapacity>
+      <avail>20R</avail>
+        <mods>
+        <name>Custom Fit</name>
+      </mods>
+        <gears>
+        <usegear>Sound Link</usegear>
+      </gears>
+
+      <source>4PR</source>
+      <page>1</page>
+    </armor>
+
+            <armor>
+      <id>949af9db-fcc1-475a-82bf-11691584f41a</id>
+      <name>Adaptive Garments HEC Suit</name>
+      <category>Specialty Armor</category>
+      <armor>11</armor>
+        <armoroverride>+2</armoroverride>
+      <armorcapacity>11</armorcapacity>
+      <avail>20R</avail>
+      <cost>130000</cost>
+      <mods>
+        <name rating="6">Insulation</name>
+        <name rating="6">Fire Resistance</name>
+        <name rating="6">Radiation Shielding</name>
+        <name rating="4">Thermal Damping</name>
+        <name rating="5">Cooling</name>
+        <name rating="4">Solar Power Cells</name>
+        <name>Chemical Seal</name>
+        <name>Responsive Interface Gear: Armor</name>
+
+        <name>Custom Fit (Stack)</name>
+        <name>Custom Fit (Stack)</name>
+        <name>Custom Fit (Stack)</name>
+        <name>YNT Softweave Armor</name>
+        <name>Padded</name>
+        <name>Feedback Clothing</name>
+        <name>Adaptive Garments</name>
+      </mods>
+      <gears>
+        <usegear>Gas Mask</usegear>
+      </gears>
+      <wirelessbonus>
+        <specificskill>
+          <name>Survival</name>
+          <bonus>2</bonus>
+        </specificskill>
+      </wirelessbonus>
+              <notes></notes>
+      <source>4PR</source>
+      <page>1</page>
+    </armor>
+
+          <armor>
+      <id>37adfbaf-cdee-41d3-81f9-ed91e49b7e4b</id>
+      <name>AresSpace Myrmidon Aerospace Suit</name>
+      <category>Specialty Armor</category>
+      <armor>20</armor>
+      <armorcapacity>14</armorcapacity>
+      <avail>28F</avail>
+      <cost>85000</cost>
+      <mods>
+        <name>Chemical Seal</name>
+        <name rating="6">Insulation</name>
+        <name rating="6">Fire Resistance</name>
+        <name rating="6">Thermal Damping</name>
+        <name rating="6">Radiation Shielding</name>
+        <name rating="4">Thermal Damping</name>
+        <name rating="6">Solar Power Cells</name>
+        <name>Custom Fit</name>
+        <name>Gear Access</name>
+      </mods>
+      <gears>
+       <name>Quick-Draw Holster</name>
+        <usegear>Biomonitor</usegear>
+        <usegear>Flare Compensation</usegear>
+      </gears>
+
+      <source>RG</source>
+      <page>82</page>
+    </armor>
+
+
+
     </armors>
 	<mods>
+          <mod>
+      <id>7c659ed5-190a-4016-9c2f-6922264fc533</id>
+      <name>Cooling</name>
+      <category>General</category>
+      <armor>0</armor>
+      <maxrating>6</maxrating>
+      <armorcapacity>FixedValues([1],[2],[3],[4],[5],[6])</armorcapacity>
+      <avail>Rating * 2</avail>
+      <cost>Rating * 500</cost>
+      <source>4PR</source>
+      <page>1</page>
+    </mod>
+
+          <mod>
+      <id>6539fe5a-3d49-46a3-9b7a-d86e96399755</id>
+      <name>Solar Power Cells</name>
+      <category>General</category>
+      <armor>0</armor>
+      <maxrating>6</maxrating>
+      <armorcapacity>FixedValues([1],[2],[3],[4],[5],[6])</armorcapacity>
+      <avail>Rating * 2</avail>
+      <cost>Rating * 1000</cost>
+      <source>RG</source>
+      <page>84</page>
+    </mod>
+
+
     <mod>
       <id>5fc2cd8c-559d-475f-8cbb-bc82447dd036</id>
       <name>Ballistic Hood</name>
@@ -475,6 +636,49 @@
       <page>1</page>
       <notes>Availability is equal to the armor being upgraded. Cannot be used along with a helmet or ballistic mask.</notes>
     </mod>
+          <mod>
+      <id>9750dcd9-9491-43fc-afc7-08ad3e25f060</id>
+      <name>Ballistic Hood (HEC)</name>
+      <category>General</category>
+      <armor>+1</armor>
+      <maxrating>1</maxrating>
+      <armorcapacity>0</armorcapacity>
+      <avail>0</avail>
+      <cost>0</cost>
+            <required>
+              <oneof>
+        <parentdetails>
+          <name>AresSpace HEC Suit</name>
+        </parentdetails>
+                <parentdetails>
+          <name>Adaptive Garments HEC Suit</name>
+        </parentdetails>
+              </oneof>
+      </required>
+      <source>4PR</source>
+      <page>1</page>
+      <notes>Can be added manually for free to the HEC suit(separated because technical chummer issue)</notes>
+    </mod>
+
+      <mod>
+      <id>03719dda-bc41-4ddf-8267-7002628163f7</id>
+      <name>Adaptive Garments</name>
+      <category>General</category>
+      <maxrating>1</maxrating>
+      <armorcapacity>[0]</armorcapacity>
+      <avail>0</avail>
+      <cost>0</cost>
+      <source>4PR</source>
+      <page>1</page>
+        <required>
+          <parentdetails>
+          <name>Adaptive Garments HEC Suit</name>
+        </parentdetails>
+      </required>
+        <notes>Includes the base functionality of Transforming garments</notes>
+    </mod>
+
+
     <mod>
       <id>4b1fbe09-3dfd-4a0d-a344-e2856bb07748</id>
       <name>Quick Release</name>

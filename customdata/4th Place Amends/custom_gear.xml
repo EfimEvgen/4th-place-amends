@@ -1517,5 +1517,31 @@
 		  <avail>(Rating * 4)R</avail>
 		  <cost>Rating * 3000</cost>
 		</gear>
+
+		<gear>
+      <id>125ed035-186d-4965-9649-e864dbf626b9</id>
+
+      <name>Maersk Conqueror</name>
+      <category>Rigger Command Consoles</category>
+      <rating>0</rating>
+      <source>SR5</source>
+      <page>266</page>
+      <avail>24F</avail>
+      <capacity>0</capacity>
+      <cost>220000</cost>
+      <devicerating>6</devicerating>
+		<sleaze>6</sleaze>
+      <dataprocessing>9</dataprocessing>
+      <firewall>8</firewall>
+      <programs>6</programs>
+      <canformpersona>Self</canformpersona>
+      <gears>
+        <usegear>
+          <name>Commlink Functionality</name>
+          <category>Electronics Accessories</category>
+        </usegear>
+      </gears>
+    </gear>
+
 	</gears>
 </chummer>

@@ -949,6 +949,21 @@
 			<page>1</page>
 			<notes></notes>
 		</bioware>
-
+    <bioware>
+      <id>dc49f6ab-1e5d-404b-9fbd-76b6d3a83d34</id>
+      <name>Spacer Gland</name>
+      <category>Orthoskin Upgrades</category>
+      <ess>0.2</ess>
+      <capacity>0</capacity>
+      <avail>12</avail>
+      <cost>18000</cost>
+      <required>
+        <oneof>
+          <bioware>Orthoskin</bioware>
+        </oneof>
+      </required>
+      <source>4PR</source>
+      <page>1</page>
+    </bioware>
 	</biowares>
 </chummer>

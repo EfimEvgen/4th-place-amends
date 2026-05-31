@@ -686,6 +686,43 @@
         </power>
 
 		<power>
+          <id>0875c73a-2863-4fb9-ad2f-2b1861d925d9</id>
+          <name>Water Jets</name>
+          <category>Drake</category>
+          <type>M</type>
+          <action>Auto</action>
+          <range>Self</range>
+          <duration>Special</duration>
+          <required>
+            <oneof>
+              <quality>Dracoform (Sea Drake)</quality>
+            </oneof>
+          </required>
+          <karma>14</karma>
+			<bonus>
+				<sprintbonus>
+				  <category>Swim</category>
+				  <val>400</val>
+				</sprintbonus>
+				<walkmultiplier>
+				  <category>Swim</category>
+				  <percent>200</percent>
+				</walkmultiplier>
+				<runmultiplier>
+				  <category>Swim</category>
+				  <percent>200</percent>
+				</runmultiplier>
+			  </bonus>
+
+          <source>4PR</source>
+          <page>1</page>
+            <notes> This counts as a Sense and gives the equivalent of an implanted Ultrasound sensor of a rating equal to Magic.
+                Range is Magic*10 Meters on Land and Magic*100 Meters in water. The user suffers no penalties due to visibility in that
+                Range
+			</notes>
+        </power>
+
+		<power>
       <id>a4dc241d-6cca-4fc2-a503-7f09b5b1bebe</id>
       <name>Attribute Enhancement</name>
       <category>Chimeric Modification</category>
