@@ -177,5 +177,24 @@
         <physicalillusionresist>1</physicalillusionresist>
       </bonus>
     </bioware>
+    <bioware>
+      <name>Troll Reduction</name>
+      <ess>0.2</ess>
+      <avail>8</avail>
+      <cost>15000</cost>
+      <bonus>
+        <armor>-1</armor>
+      </bonus>
+      <rating>1</rating>
+      <notes>Reduces penalties from anti-troll prejudice by 2.</notes>
+    </bioware>
+    <bioware>
+      <name>Troll Reduction (Ork)</name>
+      <bonus>
+        <addqualities>
+          <addquality>Human-Looking</addquality>
+        </addqualities>
+      </bonus>
+    </bioware>
   </biowares>
 </chummer>
