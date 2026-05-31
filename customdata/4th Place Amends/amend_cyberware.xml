@@ -218,7 +218,6 @@ An implanted Commlink or Cyberdeck cannot benefit from an Internal Router.</note
 			<id>1e511ad7-4806-4862-8685-a04887b1bec9</id>
 			<capacity>3</capacity>
 		</cyberware>
-		<!-- Splitter Temp - delete if you see this -->
 		<cyberware>
 			<!-- Modular Synthetic Full Arm  -->
 			<id>c0f408f6-31b2-4070-b972-832a5520d489</id>
@@ -258,10 +257,9 @@ An implanted Commlink or Cyberdeck cannot benefit from an Internal Router.</note
 				<category>Skullware</category>
 			</allowsubsystems>
 		</cyberware>
-		<cyberware>
-			<!-- Partial Skull  -->
-			<id>4630313c-aca9-4aa3-8fce-ba064423b1c7</id>
-			<avail>6</avail>
+		<cyberware> <!-- Partial Cyberskull -->
+		  <name>Partial Cyberskull</name>
+		  <capacity amendoperation="replace">6</capacity>
 			<allowsubsystems amendoperation="append">
 				<category>Skullware</category>
 			</allowsubsystems>
