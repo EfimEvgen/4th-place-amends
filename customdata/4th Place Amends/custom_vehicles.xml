@@ -871,7 +871,41 @@
         </weaponmount>
       </weaponmounts>
     </vehicle>
+		<vehicle>
+      <id>743de2f9-2c9d-4410-b316-52430aa0f80d</id>
+      <name>Spinrad Global Artemis</name>
+      <page>1</page>
+      <source>4PR</source>
+      <accel>3</accel>
+      <armor>6</armor>
+      <avail>28F</avail>
+      <body>5</body>
+      <category>Drones: Anthro</category>
+      <cost>200000</cost>
+      <handling>5</handling>
+      <pilot>6</pilot>
+      <sensor>5</sensor>
+      <speed>4</speed>
+      <gears>
+        <gear>
+          <name>Sensor Array</name>
+          <rating>5</rating>
+          <maxrating>6</maxrating>
+        </gear>
+		  <gear rating="6" select="Ettiquette">Skill Autosoft</gear>
+      </gears>
+      <mods>
+        <name>Drone Arm</name>
+        <name>Drone Arm</name>
+        <name>Drone Leg</name>
+        <name>Drone Leg</name>
+        <name>Rigger Interface</name>
+		  <name>Touch Sensors</name>
+		  <name rating="4">Realistic Features (Drone)</name>
+		  <name>Multifuel Engine</name>
 
+      </mods>
+    </vehicle>
 
 	</vehicles>
 	<mods>
@@ -1028,5 +1062,44 @@
 		  <rating>0</rating>
 		  <slots>1</slots>
 		</mod>
+		    <mod>
+      <id>0a1cbc69-94ad-4424-a3dc-fb278ef67c8a</id>
+      <name>ECCM</name>
+      <page>1</page>
+      <source>4PR</source>
+      <avail>(Rating * 3)F</avail>
+      <category>Electromagnetic</category>
+      <cost>Rating * 2000</cost>
+      <rating>6</rating>
+      <slots>2</slots>
+    </mod>
+
+		<mod>
+      <id>fdd69c25-3b4f-428b-9e4f-1776c65bac6e</id>
+      <name>Milspec Plates</name>
+      <page>1</page>
+      <source>4PR</source>
+      <avail>24F</avail>
+      <category>Protection</category>
+      <cost>Rating * 20000</cost>
+      <rating>ceiling(Body *0.33)</rating>
+      <slots>Rating</slots>
+			<bonus>
+        <armor>+floor(Rating*0.5)</armor>
+      </bonus>
+    </mod>
+		<mod>
+      <id>6cd81699-6940-48de-a383-89a232c7673b</id>
+      <name>Reinforced Frame</name>
+      <page>1</page>
+      <source>4PR</source>
+      <avail>Rating * 5</avail>
+      <category>Protection</category>
+      <cost>Rating * 5000</cost>
+      <rating>3</rating>
+      <slots>Rating</slots>
+    </mod>
+
+
 	</mods>
 </chummer>

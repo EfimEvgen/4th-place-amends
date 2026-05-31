@@ -2752,5 +2752,162 @@
 			<source>SG</source>
 			<page>153</page>
 		</quality>
+
+		<quality>
+      <id>7394016d-de2e-4526-9467-8fafec3e5bc8</id>
+      <name>Astral Envelopment</name>
+      <karma>5</karma>
+      <category>Positive</category>
+      <canbuywithspellpoints>True</canbuywithspellpoints>
+      <doublecareer>False</doublecareer>
+      <bonus />
+      <required>
+        <allof>
+          <magenabled />
+          <spell>Armor</spell>
+        </allof>
+
+      </required>
+      <source>4PR</source>
+      <page>1</page>
+			<notes>Requires armor and shape air, allows giving armor spell a chemseal that pops after hits/2 hours, on 1P or >hits Stun that would be P</notes>
+    </quality>
+
+	    <quality>
+      <id>434aa6de-1680-4800-add6-06ae0d2e0aaa</id>
+      <name>Magic as music</name>
+      <karma>5</karma>
+		<limit>8</limit>
+      <category>Positive</category>
+      <canbuywithspellpoints>True</canbuywithspellpoints>
+      <doublecareer>False</doublecareer>
+      <bonus />
+      <required>
+        <allof>
+          <magenabled />
+        </allof>
+        <oneof>
+          <group>
+            <skill>
+              <name>Arcana</name>
+              <val>6</val>
+            </skill>
+            <skill>
+              <name>Magical Traditions</name>
+              <val>6</val>
+              <type>Knowledge</type>
+            </skill>
+          </group>
+          <group>
+            <skill>
+              <name>Arcana</name>
+              <val>4</val>
+            </skill>
+            <skill>
+              <name>Magical Traditions</name>
+              <val>4</val>
+              <type>Knowledge</type>
+            </skill>
+            <tradition>Chaos Magic</tradition>
+          </group>
+        </oneof>
+      </required>
+      <source>4PR</source>
+      <page>1</page>
+			<notes>Each rank allows treating another tradition as if you were native</notes>
+    </quality>
+
+	<quality>
+      <id>4c2c7948-a203-4743-82bc-2b8339db7948</id>
+      <name>Spectral Bladesman</name>
+      <karma>3</karma>
+      <category>Positive</category>
+      <bonus />
+      <source>4PR</source>
+      <page>1</page>
+	      <required>
+        <allof>
+          <magenabled />
+          <spell>Powerblade</spell>
+        </allof>
+      </required>
+		<notes>Allows spending hits on reach or 2:1 for DV instead of ap, up to Magic/2 hits</notes>
+    </quality>
+	<quality>
+      <id>f77e876e-f6df-467c-b030-6c53e9b9bd5a</id>
+      <name>Bad Cop</name>
+      <karma>8</karma>
+      <category>Positive</category>
+      <bonus />
+      <source>4PR</source>
+      <page>1</page>
+	<notes>Allows assisting negotiation with Intimidation</notes>
+    </quality>
+
+		<quality>
+      <id>f671d017-355c-4809-ac67-dd91e0aefefd</id>
+      <name>Work it harder</name>
+      <karma>6</karma>
+      <category>Positive</category>
+      <bonus />
+      <source>4PR</source>
+      <page>1</page>
+	<notes>Allows Cha instead of Agi when using palming to hide items on yourself</notes>
+    </quality>
+
+		<quality>
+      <id>2d8141ec-86d0-4815-80d6-ec0b9039f28b</id>
+      <name>Quiz Show Contestant</name>
+      <karma>3</karma>
+      <category>Positive</category>
+      <bonus />
+		<required>
+        <oneof>
+          <quality>Photografic Memory</quality>
+        </oneof>
+      </required>
+
+      <source>4PR</source>
+      <page>1</page>
+	<notes>No penalty on defaulting on knowledge skills</notes>
+    </quality>
+
+		<quality>
+      <id>168bdae7-0845-4566-8274-ef4b1f099d91</id>
+      <name>Dogbrain Whisperer</name>
+      <karma>7</karma>
+      <category>Positive</category>
+      <bonus />
+      <source>4PR</source>
+      <page>1</page>
+	<notes>Your drone can spend edge for Push the limit and second chance and get +3 dice for understanding situations</notes>
+		<required>
+        <allof>
+
+          <skill>
+            <name>Software</name>
+            <val>3</val>
+          </skill>
+        </allof>
+      </required>
+    </quality>
+		<quality>
+      <id>99e15ed5-5f70-4569-8b85-caf9e906b3b1</id>
+      <name>Trust in chrome</name>
+      <karma>2</karma>
+      <category>Positive</category>
+			<limit>2</limit>
+      <bonus />
+      <source>4PR</source>
+      <page>1</page>
+		<notes>Reduces penalty on healing for lost essence to augmentations</notes>
+		<required>
+			<oneof>
+				<ess>5.999</ess>
+			</oneof>
+		</required>
+
+    </quality>
+
 	</qualities>
 </chummer>

@@ -319,6 +319,22 @@
       <notes>Add 1 spell per level in this power via the Improvements tab.</notes>
     </power>
   </powers>
+
+      <power>
+      <id>da845261-abaf-416e-a286-923fec54e734</id>
+      <name>Ritual Aid</name>
+      <points>0.25</points>
+      <levels>True</levels>
+      <limit>1</limit>
+      <source>SG</source>
+      <page>173</page>
+      <maxlevels>6</maxlevels>
+    </power>
+
+
+
+
+
   <enhancements>
     <enhancement>
       <id>38fb6ca0-79c6-4fd7-9653-034dcd44c6f4</id>

@@ -153,6 +153,19 @@
 				<surprise>1</surprise>
 			</bonus>
 		</quality>
+
+		<quality>
+			<name>Apt Pupil</name>
+			<bonus>
+				<specificskill>
+					<name>Arcana</name>
+					<bonus>2</bonus>
+				</specificskill>
+			</bonus>
+
+		</quality>
+
+
 		<quality>
 			<!-- Natural Athlete -->
 			<name>Natural Athlete</name>
