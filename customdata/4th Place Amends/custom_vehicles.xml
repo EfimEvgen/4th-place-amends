@@ -426,6 +426,7 @@
 		The trailer only has seats if modified with Increased Seating. 
 		Reduce the towing vehicle's Acceleration and Handling by 1.
 		If the towing vehicle has a Body of 15 or less, reduce its Acceleration and Handling by an additional (16-BOD)/2. 
+		</notes>
 		</vehicle>
 		<vehicle>
 			<id>b837d216-37a2-4140-8b13-26078d015d00</id>
