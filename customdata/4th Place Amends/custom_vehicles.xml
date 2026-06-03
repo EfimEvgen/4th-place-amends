@@ -400,6 +400,35 @@
 			<seats>6</seats>
 		</vehicle>
 		<vehicle>
+		<id>3522bd55-da9b-45cd-869b-be7749446178</id>
+		<name>Container Trailer</name>
+		<page>1</page>
+		<source>4PR</source>
+		<accel>0</accel>
+		<armor>10</armor>
+		<avail>8</avail>
+		<body>18</body>
+		<category>Trucks</category>
+		<cost>15000</cost>
+		<handling>0</handling>
+		<pilot>1</pilot>
+		<sensor>1</sensor>
+		<speed>0</speed>
+		<gears>
+			<gear>
+			<name>Sensor Array</name>
+			<rating>1</rating>
+			<maxrating>7</maxrating>
+			</gear>
+		</gears>
+		<seats>4</seats>
+		<notes>
+		The trailer only has seats if modified with Increased Seating. 
+		Reduce the towing vehicle's Acceleration and Handling by 1.
+		If the towing vehicle has a Body of 15 or less, reduce its Acceleration and Handling by an additional (16-BOD)/2. 
+		</notes>
+		</vehicle>
+		<vehicle>
 			<id>b837d216-37a2-4140-8b13-26078d015d00</id>
 			<name>Ares Shadowdancer Armor</name>
 			<page>1</page>
