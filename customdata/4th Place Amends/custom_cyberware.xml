@@ -1674,7 +1674,7 @@
 		  <name>Throwback Component Miniaturization (Hand/Foot/Half-Skull)</name>
 		  <limit>False</limit>
 		  <category>Cyberlimb Enhancement</category>
-		  <ess>Rating * 0.05</ess>
+		  <ess>0.1</ess>
 			<addtoparentess />
 		  <capacity>[-Rating]</capacity>
 		  <avail>+Rating</avail>
@@ -1744,7 +1744,7 @@
 		  <name>Throwback Component Miniaturization (Lower Arm/Lower Leg/Skull)</name>
 		  <limit>False</limit>
 		  <category>Cyberlimb Enhancement</category>
-		  <ess>Rating * 0.05</ess>
+		  <ess>FixedValues(0.1,0.15)</ess>
 			<addtoparentess />
 		  <capacity>[-Rating]</capacity>
 		  <avail>+Rating</avail>
@@ -1821,7 +1821,7 @@
 		  <name>Throwback Component Miniaturization (Full Arm/Full Leg, Torso, Chassis)</name>
 		  <limit>False</limit>
 		  <category>Cyberlimb Enhancement</category>
-			<ess>Rating * 0.05</ess>
+			<ess>FixedValues(0.1,0.15,0.2,0.25)</ess>
 			<addtoparentess />
 		  <capacity>[-Rating]</capacity>
 		  <avail>+Rating</avail>
