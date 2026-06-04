@@ -716,9 +716,7 @@
 
           <source>4PR</source>
           <page>1</page>
-            <notes> This counts as a Sense and gives the equivalent of an implanted Ultrasound sensor of a rating equal to Magic.
-                Range is Magic*10 Meters on Land and Magic*100 Meters in water. The user suffers no penalties due to visibility in that
-                Range
+            <notes> Tripples the swim speed and gives extra sprint dice
 			</notes>
         </power>
 
