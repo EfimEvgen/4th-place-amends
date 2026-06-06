@@ -1477,11 +1477,7 @@
 			<name>Code of Honor: Black Hat</name>
 			<hide />
 		</quality>
-		<quality>
-			<!-- Consummate Professional -->
-			<name>Consummate Professional</name>
-			<hide />
-		</quality>
+
 		<quality>
 			<!-- Data Liberator -->
 			<name>Data Liberator</name>
