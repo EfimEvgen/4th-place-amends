@@ -1039,24 +1039,7 @@
 			<cost>Variable(0-1000000)</cost>
 			<rating>body</rating>
 			<slots>-Rating</slots>
-			<required>
-				<oneof>
-					<quality>It just has to fit</quality>
-				</oneof>
-			</required>
-		</mod>
-		<mod>
-			<id>820dd8f6-3718-4328-a8ab-65db0894e54c</id>
-			<name>It Just Has To Fit Discount</name>
-			<page>1</page>
-			<source>4PR</source>
-			<avail>0</avail>
-			<category>Powertrain</category>
-			<cost>0</cost>
-			<rating>99</rating>
-			<ratinglabel>String_UpgradedRating</ratinglabel>
-			<slots>-1</slots>
-			<optionaldrone />
+
 		</mod>
 		<mod>
 		  <id>0e6bd2ca-e369-45e8-9593-b78816e0f87f</id>
