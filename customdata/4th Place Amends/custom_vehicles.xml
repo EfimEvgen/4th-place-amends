@@ -1004,7 +1004,7 @@
 			<name>Secondary Propulsion (Gravdrive)</name>
 			<page>1</page>
 			<source>4PR</source>
-			<avail>50R</avail>
+			<avail>36R</avail>
 			<category>Powertrain</category>
 			<cost>number(Body = 0) * 12500 + Body * 25000</cost>
 			<rating>0</rating>
@@ -1015,7 +1015,7 @@
 			<name>Engine Replacement (Gravdrive)</name>
 			<page>1</page>
 			<source>4PR</source>
-			<avail>50R</avail>
+			<avail>36R</avail>
 			<category>Powertrain</category>
 			<cost>450000</cost>
 			<rating>0</rating>
