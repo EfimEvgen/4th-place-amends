@@ -2863,7 +2863,7 @@
       <bonus />
 		<required>
         <oneof>
-          <quality>Photografic Memory</quality>
+          <quality>Photographic Memory</quality>
         </oneof>
       </required>
 
