@@ -1097,7 +1097,7 @@
       <rating>ceiling(Body *0.33)</rating>
       <slots>Rating</slots>
 			<bonus>
-        <armor>+floor(Rating*0.5)</armor>
+        <armor>Rating</armor>
       </bonus>
     </mod>
 		<mod>
