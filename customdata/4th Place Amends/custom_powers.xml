@@ -4,7 +4,7 @@
   <powers>
     <power>
       <id>cef77276-0756-4763-8be6-07755f30f29e</id>
-      <name>Dash</name>
+      <name>Stride</name>
       <points>0.25</points>
       <levels>True</levels>
       <maxlevels>4</maxlevels>
@@ -338,13 +338,13 @@
   <enhancements>
     <enhancement>
       <id>38fb6ca0-79c6-4fd7-9653-034dcd44c6f4</id>
-      <name>Stride</name>
-      <power>Dash</power>
+      <name>Dash</name>
+      <power>Stride</power>
       <source>4PR</source>
       <page>1</page>
       <required>
         <allof>
-          <power>Dash</power>
+          <power>Stride</power>
         </allof>
 				<oneof>
 					<quality>The Athlete's Way</quality>
@@ -352,7 +352,7 @@
 				</oneof>
       </required>
       <notes>
-      Adds bonus dice equal to Dash's rating to the character's Sprint tests.
+      Adds bonus dice equal to Stride's rating to the character's Sprint tests.
 
       The character may Sprint as a Simple action or Sprint and make a melee attack as a single Complex action. 
       
