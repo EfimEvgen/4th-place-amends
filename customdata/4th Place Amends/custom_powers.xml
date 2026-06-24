@@ -344,7 +344,7 @@
       <page>1</page>
       <required>
         <allof>
-          <power>Strude</power>
+          <power>Stride</power>
         </allof>
 				<oneof>
 					<quality>The Athlete's Way</quality>
